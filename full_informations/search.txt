@@ -1,0 +1,1402 @@
+[2025-07-06 16:28:22] (Edge) Search: chatgpt
+URL: https://www.bing.com/search?q=chatgpt&cvid=8bbf46c09087491496b1177f967c41db&gs_lcrp=EgRlZGdlKgYIABBFGDsyBggAEEUYOzIGCAEQIxgnMgYIAhAjGCcyBggDECMYJzIGCAQQIxgnMgYIBRAjGCcyBggGEAAYQDIGCAcQABhAMgYICBAAGEDSAQgyMjcxajBqOagCBbACAQ&FORM=ANAB01&PC=U531
+
+[2025-07-06 21:01:35] (Edge) Search: python 3.10.12 download exe
+URL: https://www.bing.com/search?q=python+3.10.12+download+exe&qs=n&form=QBRE&sp=-1&lq=0&pq=python+3.10.12+download&sc=10-23&sk=&cvid=E41A03AA6FDE4D9988680C6C12DEC85C
+
+[2025-07-06 21:01:34] (Edge) Search: python 3.10.12 download exe
+URL: https://www.bing.com/videos/search?q=python+3.10.12+download+exe&qpvt=python+3.10.12+download+exe&FORM=VDRE
+
+[2025-07-06 23:48:18] (Edge) Search: colab
+URL: https://www.bing.com/search?q=colab&cvid=48d5450ffcea4c4ea3bef6f0d046580a&gs_lcrp=EgRlZGdlKgYIABBFGDkyBggAEEUYOTIGCAEQABhAMgYIAhAAGEAyBggDEAAYQDIGCAQQABhAMgYIBRAAGEAyBggGEAAYQDIGCAcQABhA0gEIMjMzNWowajGoAgCwAgA&FORM=ANNTA1&PC=U531
+
+[2025-07-07 05:36:26] (Edge) Search: دانلود الیت وی پی ان
+URL: https://www.bing.com/search?q=%D8%AF%D8%A7%D9%86%D9%84%D9%88%D8%AF+%D8%A7%D9%84%DB%8C%D8%AA+%D9%88%DB%8C+%D9%BE%DB%8C+%D8%A7%D9%86&cvid=592a24e688f94543835ddf025eda7d36&gs_lcrp=EgRlZGdlKgYIABBFGDkyBggAEEUYOdIBCTEzMTYwajBqN6gCALACAA&FORM=ANNTA0&PC=U531
+
+[2025-07-07 06:36:49] (Edge) Search: firewall network protection
+URL: https://www.bing.com/search?q=firewall+network+protection&form=WSQFSH&qs=HS&cvid=04a0f280803b425d9382f8ef98a46c04&pq=fi&cc=IR&setlang=en-US&nclid=F0074BB049B5D78466E7CE6150CB12CB&ts=1751870208200&nclidts=1751870208&tsms=200&wsso=Moderate
+
+[2025-07-07 06:36:49] (Edge) Search: firewall network protection
+URL: https://www.bing.com/search?q=firewall+network+protection&form=WSQFSH&qs=HS&cvid=04a0f280803b425d9382f8ef98a46c04&pq=fi&cc=IR&setlang=en-US&nclid=F0074BB049B5D78466E7CE6150CB12CB&ts=1751870208200&wsso=Moderate
+
+[2025-07-07 15:04:43] (Edge) Search: biubiu vpn
+URL: https://www.bing.com/search?q=biubiu+vpn&form=ANSPH1&refig=f147ba5817224d538ae9fd895c83d7c6&pc=U531&pq=biu&pqlth=3&assgl=10&sgcn=biubiu+vpn&qs=AS&sgtpv=AS&smvpcn=0&swbcn=10&sctcn=0&sc=10-3&sp=1&ghc=0&cvid=f147ba5817224d538ae9fd895c83d7c6&clckatsg=1&hsmssg=0
+
+[2025-07-07 15:08:49] (Edge) Search: biubiu vpn android
+URL: https://www.bing.com/search?q=biubiu+vpn+android&qs=ds&form=QBRE
+
+[2025-07-07 15:23:25] (Edge) Search: biubiu vpn android
+URL: https://www.bing.com/search?q=biubiu+vpn+android&qs=ds&form=QBRE&ntref=1
+
+[2025-07-07 19:12:05] (Edge) Search: فرادرس 
+URL: https://www.bing.com/search?q=%D9%81%D8%B1%D8%A7%D8%AF%D8%B1%D8%B3+&qs=n&form=QBRE&sp=-1&lq=0&pq=%D9%81%D8%B1%D8%A7%D8%AF%D8%B1%D8%B3+%D9%88%D8%B1&sc=11-9&sk=&cvid=F373889395D448A1AC560C89596DEF93
+
+[2025-07-08 05:49:12] (Edge) Search: -
+URL: https://www.bing.com/search?q=-&form=ANSPH1&refig=71AE6F9A7ED24AF189DA4EA3B7735591&pc=U531
+
+[2025-07-08 11:22:41] (Edge) Search: فرادرس
+URL: https://www.bing.com/search?q=%D9%81%D8%B1%D8%A7%D8%AF%D8%B1%D8%B3&gs_lcrp=EgRlZGdlKgcIBRBFGMIDMgcIABBFGMIDMgcIARBFGMIDMgcIAhBFGMIDMgcIAxBFGMIDMgcIBBBFGMIDMgcIBRBFGMIDMgcIBhBFGMIDMgcIBxBFGMID0gEIMjk2OWowajmoAgiwAgE&FORM=ANAB01&PC=U531
+
+[2025-07-08 19:32:57] (Edge) Search: cmd
+URL: https://www.bing.com/search?q=cmd&form=WNSGPH&qs=AS&cvid=d90c513920be49c4967266fa43865b91&pq=cmd&cc=IR&setlang=en-US&nclid=F0074BB049B5D78466E7CE6150CB12CB&ts=1752003176456&nclidts=1752003176&tsms=456&wsso=Moderate
+
+[2025-07-08 19:32:58] (Edge) Search: cmd
+URL: https://www.bing.com/search?q=cmd&form=WNSGPH&qs=AS&cvid=d90c513920be49c4967266fa43865b91&pq=cmd&cc=IR&setlang=en-US&nclid=F0074BB049B5D78466E7CE6150CB12CB&ts=1752003176456&wsso=Moderate
+
+[2025-07-08 19:38:53] (Edge) Search: look like hacker cmd
+URL: https://www.bing.com/search?q=look%20like%20hacker%20cmd&qs=n&form=QBRE&sp=-1&lq=0&pq=look%20like%20hacker%20&sc=12-17&sk=&cvid=8A38A592C87845FAABE596CDF682D31E
+
+[2025-07-08 20:23:08] (Edge) Search: 35.6891975, 51.3889736
+URL: https://www.bing.com/search?q=35.6891975%2C+51.3889736&qs=n&form=QBRE&sp=-1&lq=0&pq=35.6891975%2C+51.3889736&sc=0-22&sk=&cvid=AD2C38A67F484D85A97B5F6CAB22F5C4
+
+[2025-07-09 07:23:37] (Edge) Search: اپارات
+URL: https://www.bing.com/search?q=%D8%A7%D9%BE%D8%A7%D8%B1%D8%A7%D8%AA&cvid=310a788343da47d38a711a22b14dc098&gs_lcrp=EgRlZGdlKgYIABBFGDkyBggAEEUYOdIBCDMzOTZqMGo3qAIAsAIA&FORM=ANNTA0&PC=U531
+
+[2025-07-09 07:46:41] (Edge) Search: ادرس سرور تیرکس ماین
+URL: https://www.bing.com/search?q=%D8%A7%D8%AF%D8%B1%D8%B3+%D8%B3%D8%B1%D9%88%D8%B1+%D8%AA%DB%8C%D8%B1%DA%A9%D8%B3+%D9%85%D8%A7%DB%8C%D9%86&form=ANNTH1&refig=9ae735972a8440ec861444a2699dd0c8&pc=U531
+
+[2025-07-09 08:18:53] (Edge) Search: اپارات
+URL: https://www.bing.com/search?q=%D8%A7%D9%BE%D8%A7%D8%B1%D8%A7%D8%AA&form=ANSPH1&refig=3D1A999776DC4A8E8AF9F700A34272F1&pc=U531&pq=%D8%A7%D9%BE%D8%A7%D8%B1%D8%A7%D8%AA&pqlth=6&assgl=6&sgcn=%D8%A7%D9%BE%D8%A7%D8%B1%D8%A7%D8%AA&qs=CT&sgtpv=CT&smvpcn=0&swbcn=10&sctcn=0&sc=10-6&sp=1&ghc=0&cvid=3D1A999776DC4A8E8AF9F700A34272F1&clckatsg=1&hsmssg=0
+
+[2025-07-09 11:26:16] (Edge) Search: دانلود بهترین وی پی ان ها برای بازی ارنا بریک اوت کامپیوتر
+URL: https://www.bing.com/search?q=%D8%AF%D8%A7%D9%86%D9%84%D9%88%D8%AF+%D8%A8%D9%87%D8%AA%D8%B1%DB%8C%D9%86+%D9%88%DB%8C+%D9%BE%DB%8C+%D8%A7%D9%86+%D9%87%D8%A7+%D8%A8%D8%B1%D8%A7%DB%8C+%D8%A8%D8%A7%D8%B2%DB%8C+%D8%A7%D8%B1%D9%86%D8%A7+%D8%A8%D8%B1%DB%8C%DA%A9+%D8%A7%D9%88%D8%AA+%DA%A9%D8%A7%D9%85%D9%BE%DB%8C%D9%88%D8%AA%D8%B1&cvid=2fd9620fd03d4fbfbd8c594df095279d&gs_lcrp=EgRlZGdlKgYIABBFGDkyBggAEEUYOdIBCTIyNzUyajBqN6gCALACAA&FORM=ANNTA0&PC=U531
+
+[2025-07-09 11:26:31] (Edge) Search: دانلود بهترین وی پی ان ها برای بازی ارنا بریک اوت کامپیوتر
+URL: https://www.bing.com/search?q=%D8%AF%D8%A7%D9%86%D9%84%D9%88%D8%AF%20%D8%A8%D9%87%D8%AA%D8%B1%DB%8C%D9%86%20%D9%88%DB%8C%20%D9%BE%DB%8C%20%D8%A7%D9%86%20%D9%87%D8%A7%20%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%A8%D8%A7%D8%B2%DB%8C%20%D8%A7%D8%B1%D9%86%D8%A7%20%D8%A8%D8%B1%DB%8C%DA%A9%20%D8%A7%D9%88%D8%AA%20%DA%A9%D8%A7%D9%85%D9%BE%DB%8C%D9%88%D8%AA%D8%B1&qs=n&form=QBRE&sp=-1&lq=0&pq=&sc=0-0&sk=&cvid=27CADE9DB0CC480C935B44EE2B85F55F&ajf=10
+
+[2025-07-09 11:26:50] (Edge) Search: گیم پلی arenabreakout
+URL: https://www.bing.com/search?q=%DA%AF%DB%8C%D9%85%20%D9%BE%D9%84%DB%8C%20arenabreakout&qs=n&form=QBRE&sp=-1&lq=0&pq=%DA%AF%DB%8C%D9%85%20%D9%BE%D9%84%DB%8C%20arenabreakou&sc=1-20&sk=&cvid=93AE1AA2BBD740DBAE4DC661A6F3DB89
+
+[2025-07-09 11:35:19] (Edge) Search: رادا بازی
+URL: https://www.bing.com/search?q=%D8%B1%D8%A7%D8%AF%D8%A7+%D8%A8%D8%A7%D8%B2%DB%8C&cvid=52793aa5fee048b8bdc474bf4bb75610&gs_lcrp=EgRlZGdlKgYIABBFGDkyBggAEEUYOdIBCDI3NzBqMGo3qAIAsAIA&FORM=ANNTA1&PC=U531
+
+[2025-07-09 11:35:57] (Edge) Search: radar game
+URL: https://www.bing.com/search?q=radar+game&qs=ds&form=QBRE
+
+[2025-07-09 11:38:09] (Edge) Search: radar game
+URL: https://www.bing.com/search?q=radar+game&form=ANSPH1&refig=02dc7562ceeb4af9b3f649a76f61dc7d&pc=U531
+
+[2025-07-09 11:40:38] (Edge) Search: electro
+URL: https://www.bing.com/search?q=electro&qs=n&form=QBRE&sp=-1&ghc=1&lq=0&pq=elec&sc=17-4&sk=&cvid=8D70E33D2B974032BDF01172EA38BFCB&filters=ufn%3A%22Electro%20(Marvel%20Comics)%22%20sid%3A%220422ef74-57f2-a990-e75e-8ddb55a68ebf%22
+
+[2025-07-09 12:13:39] (Edge) Search: گیم پلی arenabreakout infinitw
+URL: https://www.bing.com/search?q=%DA%AF%DB%8C%D9%85+%D9%BE%D9%84%DB%8C+arenabreakout+infinitw&form=ANSPH1&refig=fc631bda9365412bbc2f1f93abc1f910&pc=U531
+
+[2025-07-09 12:14:15] (Edge) Search: گیم پلی arenabreakout infinite
+URL: https://www.bing.com/search?q=%DA%AF%DB%8C%D9%85+%D9%BE%D9%84%DB%8C+arenabreakout+infinite&qs=n&form=QBRE&sp=-1&lq=0&pq=%DA%AF%DB%8C%D9%85+%D9%BE%D9%84%DB%8C+arenabreakout+infinite&sc=1-30&sk=&cvid=E12D4E0BE7AE45CA9F08D756D3AC8090
+
+[2025-07-09 12:25:02] (Edge) Search: comand boster on steam
+URL: https://www.bing.com/search?q=comand+boster+on+steam&form=ANNTH1&refig=db0e8ee579644033b94d75e7f7ffb786&pc=U531
+
+[2025-07-09 12:26:13] (Edge) Search: بلاد استرایک برای کامپیوتر
+URL: https://www.bing.com/search?q=%D8%A8%D9%84%D8%A7%D8%AF+%D8%A7%D8%B3%D8%AA%D8%B1%D8%A7%DB%8C%DA%A9+%D8%A8%D8%B1%D8%A7%DB%8C+%DA%A9%D8%A7%D9%85%D9%BE%DB%8C%D9%88%D8%AA%D8%B1&form=ANNTH1&refig=d117ba05ebe1449fa4840ec926eba1d5&pc=U531
+
+[2025-07-09 12:35:39] (Edge) Search: گیم پلی arenabreakout infinite
+URL: https://www.bing.com/search?q=%DA%AF%DB%8C%D9%85+%D9%BE%D9%84%DB%8C+arenabreakout+infinite&qs=n&form=QBRE&sp=-1&lq=0&pq=%DA%AF%DB%8C%D9%85+%D9%BE%D9%84%DB%8C+arenabreakout+infinite&sc=1-30&sk=&cvid=E12D4E0BE7AE45CA9F08D756D3AC8090&ntref=1
+
+[2025-07-09 12:36:24] (Edge) Search: گیم پلی arenabreakout infinite
+URL: https://www.bing.com/search?q=%da%af%db%8c%d9%85+%d9%be%d9%84%db%8c+arenabreakout+infinite&qs=n&sp=-1&lq=0&pq=%da%af%db%8c%d9%85+%d9%be%d9%84%db%8c+arenabreakout+infinite&sc=1-30&sk=&cvid=E12D4E0BE7AE45CA9F08D756D3AC8090&FPIG=074B278CDF144C8EAFC7F6A8F67776F6&first=11&FORM=PERE
+
+[2025-07-09 14:34:26] (Edge) Search: دانلود راست برای کامپیوتر گلد تیم
+URL: https://www.bing.com/search?q=%D8%AF%D8%A7%D9%86%D9%84%D9%88%D8%AF+%D8%B1%D8%A7%D8%B3%D8%AA+%D8%A8%D8%B1%D8%A7%DB%8C+%DA%A9%D8%A7%D9%85%D9%BE%DB%8C%D9%88%D8%AA%D8%B1+%DA%AF%D9%84%D8%AF+%D8%AA%DB%8C%D9%85&cvid=933e5fe656134443b9f6b8cb3eaed97c&gs_lcrp=EgRlZGdlKgYIABBFGDkyBggAEEUYOdIBCTI5MzQ0ajBqN6gCALACAA&FORM=ANNTA0&PC=U531
+
+[2025-07-09 15:47:34] (Edge) Search: youtube
+URL: https://www.bing.com/search?q=youtube&form=ANSPH1&refig=9F51BE4ED3E84017B0DA2AB2A6B732E4&pc=U531&pq=you&pqlth=3&assgl=7&sgcn=youtube&qs=MB&sgtpv=AS&smvpcn=0&swbcn=10&sctcn=0&sc=10-3&sp=1&ghc=0&cvid=9F51BE4ED3E84017B0DA2AB2A6B732E4&clckatsg=1&hsmssg=0
+
+[2025-07-09 17:50:46] (Edge) Search: vigor on steam
+URL: https://www.bing.com/search?q=vigor+on+steam&form=ANSPH1&refig=0528cc16835542b5a3c116db391d7b17&pc=U531
+
+[2025-07-09 18:57:09] (Edge) Search: char
+URL: https://www.bing.com/search?q=char&cvid=3b890460a821477b8bc5ca6f6c8d0287&gs_lcrp=EgRlZGdlKgYIABBFGDkyBggAEEUYOTIJCAEQRRg8GPkHMgYIAhBFGEHSAQgxMDk1ajBqMagCALACAA&FORM=ANAB01&PC=U531
+
+[2025-07-09 20:10:20] (Edge) Search: chrome driver exe دانلود
+URL: https://www.bing.com/search?q=chrome%20driver%20exe%20%D8%AF%D8%A7%D9%86%D9%84%D9%88%D8%AF&qs=n&form=QBRE&sp=-1&ghc=1&lq=0&pq=chrome%20driver%20exe%20%D8%AF%D8%A7%D9%86%D9%84&sc=3-22&sk=&cvid=5C1CB19C18314C27B4AB10805CA1644C
+
+[2025-07-09 23:35:09] (Edge) Search: safari browser for windows
+URL: https://www.bing.com/search?q=safari+browser+for+windows&qs=ds&form=QBRE
+
+[2025-07-09 23:43:01] (Edge) Search: how to turn on java script on  Safari
+URL: https://www.bing.com/search?q=how+to+turn+on+java+script+on++Safari&qs=n&form=QBRE&sp=-1&lq=0&pq=how+to+turn+on+java+script+on++safari&sc=12-37&sk=&cvid=1D3AB53D8CF34F5389A9924220F2128F
+
+[2025-07-10 00:09:08] (Edge) Search: reinbow six seinge دانلود gold team
+URL: https://www.bing.com/search?q=reinbow%20six%20seinge%20%D8%AF%D8%A7%D9%86%D9%84%D9%88%D8%AF%20gold%20team&qs=n&form=QBRE&sp=-1&lq=0&pq=reinbow%20six%20seinge%20%D8%AF%D8%A7%D9%86%D9%84%D9%88%D8%AF%20gold&sc=11-30&sk=&cvid=B99F833CC7B646A1BD9A9FCAD73CDB62
+
+[2025-07-10 07:12:27] (Edge) Search: rainbow six siege
+URL: https://www.bing.com/search?q=rainbow+six+siege&form=ANSPH1&refig=AD8B79E0BCCE4A9FA8901D3485E23AA6&pc=U531&pq=rainbow+sox&pqlth=11&assgl=17&sgcn=rainbow+six+siege&qs=OS&sgtpv=OS&smvpcn=0&swbcn=5&sctcn=0&sc=5-11&sp=2&ghc=0&cvid=AD8B79E0BCCE4A9FA8901D3485E23AA6&clckatsg=1&hsmssg=0
+
+[2025-07-10 07:12:40] (Edge) Search: rainbow six siege عمو
+URL: https://www.bing.com/search?q=rainbow+six+siege+%D8%B9%D9%85%D9%88&qs=ds&form=QBRE
+
+[2025-07-10 07:41:33] (Edge) Search: chatgpt
+URL: https://www.bing.com/search?q=chatgpt&form=ANNTH1&refig=220bd444bcfa4e40ae0887837fcfc0ad&pc=U531&pq=chat&pqlth=4&assgl=7&sgcn=chatgpt&qs=MB&sgtpv=AS&smvpcn=0&swbcn=10&sctcn=0&sc=10-4&sp=1&ghc=0&cvid=220bd444bcfa4e40ae0887837fcfc0ad&clckatsg=1&hsmssg=0
+
+[2025-07-10 07:55:03] (Edge) Search: chatgpt
+URL: https://www.bing.com/search?q=chatgpt&form=ANNTH1&refig=220bd444bcfa4e40ae0887837fcfc0ad&pc=U531&pq=chat&pqlth=4&assgl=7&sgcn=chatgpt&qs=MB&sgtpv=AS&smvpcn=0&swbcn=10&sctcn=0&sc=10-4&sp=1&ghc=0&cvid=220bd444bcfa4e40ae0887837fcfc0ad&clckatsg=1&hsmssg=0&ntref=1
+
+[2025-07-10 07:55:13] (Edge) Search: deep seek
+URL: https://www.bing.com/search?q=deep+seek&qs=OS&pq=%db%8c%d8%ab%d8%ab%d8%ad&sc=4-4&cvid=7266B59A868A41E5931590E038AA89B2&FORM=QBRE&sp=1&lq=0
+
+[2025-07-10 08:13:41] (Edge) Search: chatgpt
+URL: https://www.bing.com/search?q=chatgpt&form=ANSPH1&refig=24BF267A86AE44AAB979B8095EDC84EA&pc=U531&pq=cha&pqlth=3&assgl=7&sgcn=chatgpt&qs=MB&sgtpv=AS&smvpcn=0&swbcn=10&sctcn=0&sc=10-3&sp=1&ghc=0&cvid=24BF267A86AE44AAB979B8095EDC84EA&clckatsg=1&hsmssg=0
+
+[2025-07-10 13:49:53] (Edge) Search: aternos
+URL: https://www.bing.com/search?q=aternos&form=ANSPH1&refig=830162870C7645C2B4168B9DC67DE520&pc=U531
+
+[2025-07-10 14:24:29] (Edge) Search: aternos
+URL: https://www.bing.com/search?q=aternos&form=ANSPH1&refig=830162870C7645C2B4168B9DC67DE520&pc=U531&ntref=1
+
+[2025-07-10 14:24:59] (Edge) Search: rainbow six siege
+URL: https://www.bing.com/search?q=rainbow+six+siege&qs=OS&pq=rainbow+six+sae&sc=12-15&cvid=75DE9745FC3A4DCAA04025407CF9AA23&FORM=QBRE&sp=1&ghc=1&lq=0
+
+[2025-07-10 14:25:15] (Edge) Search: rainbow six siege عمو امیر
+URL: https://www.bing.com/search?q=rainbow%20six%20siege%20%D8%B9%D9%85%D9%88%20%D8%A7%D9%85%DB%8C%D8%B1&qs=n&form=QBRE&sp=-1&lq=0&pq=rainbow%20six%20siege%20%D8%B9%D9%85%D9%88%20%D8%A7%D9%85%DB%8C&sc=12-25&sk=&cvid=4F8BC7B5F61D4023B528C63C46137FAF
+
+[2025-07-10 14:25:22] (Edge) Search: rainbow six siege تونی
+URL: https://www.bing.com/search?q=rainbow%20six%20siege%20%D8%AA%D9%88%D9%86%DB%8C&qs=n&form=QBRE&sp=-1&lq=0&pq=rainbow%20six%20siege%20%D8%AA%D9%88%D9%86%DB%8C&sc=8-22&sk=&cvid=83431D4EC77F40229498F5D913F01ACA
+
+[2025-07-10 14:25:42] (Edge) Search: rainbow six siege تونی تی وی
+URL: https://www.bing.com/search?q=rainbow%20six%20siege%20%D8%AA%D9%88%D9%86%DB%8C%20%D8%AA%DB%8C%20%D9%88%DB%8C&qs=n&form=QBRE&sp=-1&lq=0&pq=rainbow%20six%20siege%20%D8%AA%D9%88%D9%86%DB%8C%20%D8%AA%DB%8C%20%D9%88%DB%8C&sc=12-28&sk=&cvid=1926E65707FE4FF1B02332009FC97FD0
+
+[2025-07-10 18:28:40] (Edge) Search: A2Z Converter
+URL: https://www.bing.com/search?q=A2Z+Converter&cvid=d8ee9b844d51428d9a6e93a9dc70a4f1&gs_lcrp=EgRlZGdlKgYIABBFGDsyBggAEEUYOzIGCAEQRRg8MgYIAhBFGDzSAQc0MTVqMGo0qAIIsAIB&FORM=ANAB01&PC=U531
+
+[2025-07-10 18:31:58] (Edge) Search: 4K Video Downloader
+URL: https://www.bing.com/search?q=4K+Video+Downloader&cvid=d141b0557387473b877ad30ddba6b9cf&gs_lcrp=EgRlZGdlKgYIABBFGDkyBggAEEUYOTIGCAEQABhAMgYIAhAAGEAyBggDEAAYQDIGCAQQABhAMgYIBRAAGEAyBggGEAAYQDIGCAcQABhAMgYICBAAGEDSAQc1MDNqMGo0qAIIsAIB&FORM=ANAB01&PC=U531
+
+[2025-07-10 21:48:56] (Edge) Search: lazarus hacekrs
+URL: https://www.bing.com/images/search?q=lazarus+hacekrs&FORM=HDRSC3
+
+[2025-07-11 06:33:03] (Edge) Search: zerotier
+URL: https://www.bing.com/search?q=zerotier&form=ANNTH1&refig=e632fcef108847dba8b2f4447d8d493c&pq=zero&pqlth=4&assgl=8&sgcn=zerotier&qs=MB&sgtpv=LC&smvpcn=0&swbcn=10&sctcn=0&sc=10-4&sp=2&ghc=0&cvid=e632fcef108847dba8b2f4447d8d493c&clckatsg=1&hsmssg=0
+
+[2025-07-11 06:52:21] (Edge) Search: firewall network protection
+URL: https://www.bing.com/search?q=firewall+network+protection&form=WSQFSH&qs=HS&cvid=b7e06ce019714984b15185caf83ce679&pq=firewa&cc=IR&setlang=en-US&nclid=F0074BB049B5D78466E7CE6150CB12CB&ts=1752216740752&nclidts=1752216740&tsms=752&wsso=Moderate
+
+[2025-07-11 06:52:22] (Edge) Search: firewall network protection
+URL: https://www.bing.com/search?q=firewall+network+protection&form=WSQFSH&qs=HS&cvid=b7e06ce019714984b15185caf83ce679&pq=firewa&cc=IR&setlang=en-US&nclid=F0074BB049B5D78466E7CE6150CB12CB&ts=1752216740752&wsso=Moderate
+
+[2025-07-11 06:59:58] (Edge) Search: rust desk
+URL: https://www.bing.com/search?q=rust+desk&form=ANSPH1&refig=748862ceceb74cc79b9a636ba2960c09&pc=U531
+
+[2025-07-11 07:11:57] (Edge) Search: tlacher
+URL: https://www.bing.com/search?q=tlacher&form=ANSPH1&refig=50a89cd7a7df41febd88226b1f626c28&pc=U531
+
+[2025-07-11 09:01:18] (Edge) Search: amu
+URL: https://www.bing.com/search?q=amu&form=ANSPH1&refig=938DC6DAB46C469FAE2B5774D5DDD2DD&pc=U531
+
+[2025-07-11 09:01:52] (Edge) Search: کد دی ان اس برای بازی ارنا بریک اوت کامپیوتر
+URL: https://www.bing.com/search?q=%DA%A9%D8%AF%20%D8%AF%DB%8C%20%D8%A7%D9%86%20%D8%A7%D8%B3%20%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%A8%D8%A7%D8%B2%DB%8C%20%D8%A7%D8%B1%D9%86%D8%A7%20%D8%A8%D8%B1%DB%8C%DA%A9%20%D8%A7%D9%88%D8%AA%20%DA%A9%D8%A7%D9%85%D9%BE%DB%8C%D9%88%D8%AA%D8%B1&qs=n&form=QBRE&sp=-1&lq=0&pq=%DA%A9%D8%AF%20%D8%AF%DB%8C%20%D8%A7%D9%86%20%D8%A7%D8%B3%20%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%A8%D8%A7%D8%B2%DB%8C%20%D8%A7%D8%B1%D9%86%D8%A7%20%D8%A8%D8%B1%DB%8C%DA%A9%20%D8%A7%D9%88%D8%AA%20%DA%A9%D8%A7%D9%85%D9%BE%DB%8C%D9%88%D8%AA&sc=12-43&sk=&cvid=7AF04B58434A40C09513F956CCBAF740
+
+[2025-07-11 09:29:22] (Edge) Search: radar game 
+URL: https://www.bing.com/search?q=radar+game+&form=ANSPH1&refig=F50DC6BE85D64FDAA78F04C48AD4BAF5&pc=U531
+
+[2025-07-11 09:59:17] (Edge) Search: radar game 
+URL: https://www.bing.com/search?q=radar+game+&form=ANSPH1&refig=F50DC6BE85D64FDAA78F04C48AD4BAF5&pc=U531&ntref=1
+
+[2025-07-11 09:59:39] (Edge) Search: electro
+URL: https://www.bing.com/search?q=electro&qs=ds&form=QBRE
+
+[2025-07-11 10:13:25] (Edge) Search: metrage
+URL: https://www.crazygames.com/search?q=metrage
+
+[2025-07-11 22:14:24] (Edge) Search: جان ویک جدید فیلیمو
+URL: https://www.bing.com/search?q=%D8%AC%D8%A7%D9%86+%D9%88%DB%8C%DA%A9+%D8%AC%D8%AF%DB%8C%D8%AF+%D9%81%DB%8C%D9%84%DB%8C%D9%85%D9%88&cvid=af2fe755cdb246648946e0d1860e6cd0&gs_lcrp=EgRlZGdlKgYIABBFGDkyBggAEEUYOTIGCAEQABhAMgYIAhAAGEAyBggDEAAYQDIGCAQQABhAMgYIBRAAGEAyBggGEAAYQDIGCAcQABhAMgYICBAAGEDSAQg0NDE1ajBqOagCCLACAQ&FORM=ANAB01&PC=U531
+
+[2025-07-11 22:14:37] (Edge) Search: فیلیمو
+URL: https://www.bing.com/search?q=%D9%81%DB%8C%D9%84%DB%8C%D9%85%D9%88&cvid=442b3a5c6d604f4e8ba6217883123638&gs_lcrp=EgRlZGdlKgYIABBFGDkyBggAEEUYOTIGCAEQABhAMgYIAhAAGEAyBggDEAAYQDIGCAQQABhAMgYIBRAAGEAyBggGEAAYQDIGCAcQABhAMgYICBBFGD3SAQgyNjQ3ajBqOagCCLACAQ&FORM=ANAB01&PC=U531
+
+[2025-07-11 22:15:45] (Edge) Search: میان ستاره ای فیلیمو
+URL: https://www.bing.com/search?q=%D9%85%DB%8C%D8%A7%D9%86+%D8%B3%D8%AA%D8%A7%D8%B1%D9%87+%D8%A7%DB%8C+%D9%81%DB%8C%D9%84%DB%8C%D9%85%D9%88&cvid=fa3d47bf06174555ae1f85d313671afe&gs_lcrp=EgRlZGdlKgYIABBFGDkyBggAEEUYOTIGCAEQRRg90gEIMjgzOWowajSoAgiwAgE&FORM=ANAB01&PC=U531
+
+[2025-07-11 22:20:02] (Edge) Search: فیلیم میامن ستاره ای
+URL: https://www.bing.com/search?q=%D9%81%DB%8C%D9%84%DB%8C%D9%85%20%D9%85%DB%8C%D8%A7%D9%85%D9%86%20%D8%B3%D8%AA%D8%A7%D8%B1%D9%87%20%D8%A7%DB%8C&qs=n&form=QBRE&sp=-1&lq=0&pq=%D9%81%DB%8C%D9%84%DB%8C%D9%85%20%D9%85%DB%8C%D8%A7%D9%85%D9%86%20%D8%B3%D8%AA%D8%A7%D8%B1%D9%87%20&sc=0-18&sk=&cvid=4E33EDA3BDE0402DAA6CEE642D04F433
+
+[2025-07-12 07:54:51] (Edge) Search: عمو امیر
+URL: https://www.bing.com/search?q=%D8%B9%D9%85%D9%88+%D8%A7%D9%85%DB%8C%D8%B1&form=ANSPH1&refig=50FA03DC500A43A882169DC38DB79311&pc=U531
+
+[2025-07-12 07:55:10] (Edge) Search: عمو امیر ارنا
+URL: https://www.bing.com/search?q=%D8%B9%D9%85%D9%88+%D8%A7%D9%85%DB%8C%D8%B1+%D8%A7%D8%B1%D9%86%D8%A7&qs=n&form=QBRE&sp=-1&lq=0&pq=%D8%B9%D9%85%D9%88+%D8%A7%D9%85%DB%8C%D8%B1+%D8%A7%D8%B1%D9%86%D8%A7&sc=0-13&sk=&cvid=AA4ADE4AB26F444CB923FB1936536446
+
+[2025-07-13 19:46:01] (Edge) Search: BODY BUILDER MILF
+URL: https://www.bing.com/images/search?q=BODY+BUILDER+MILF&FORM=HDRSC3
+
+[2025-07-13 19:46:41] (Edge) Search: BODY BUILDER MILF
+URL: https://www.bing.com/images/search?q=BODY+BUILDER+MILF&form=HDRSC3&first=1
+
+[2025-07-13 19:47:25] (Edge) Search: body builder woman
+URL: https://www.bing.com/images/search?q=body%20builder%20woman&qs=n&form=QBIRMH&sp=-1&lq=0&pq=body%20builder%20wo&sc=10-15&sk=&cvid=67C020E44F45458E819F76586DDE92C8
+
+[2025-07-13 19:47:25] (Edge) Search: body builder woman
+URL: https://www.bing.com/images/search?q=body%20builder%20woman&qs=n&form=QBIRMH&sp=-1&lq=0&pq=body%20builder%20wo&sc=10-15&cvid=67C020E44F45458E819F76586DDE92C8&first=1
+
+[2025-07-13 19:47:34] (Edge) Search: yoga sexy woman
+URL: https://www.bing.com/images/search?q=yoga%20sexy%20woman&qs=n&form=QBIR&sp=-1&lq=0&pq=yoga%20sexy%20wo&sc=0-12&sk=&cvid=C062384AF0B64051BE8142AB011F8F1D
+
+[2025-07-13 19:47:34] (Edge) Search: yoga sexy woman
+URL: https://www.bing.com/images/search?q=yoga%20sexy%20woman&qs=n&form=QBIR&sp=-1&lq=0&pq=yoga%20sexy%20wo&sc=0-12&cvid=C062384AF0B64051BE8142AB011F8F1D&first=1
+
+[2025-07-13 19:48:23] (Edge) Search: sexy woman body
+URL: https://www.bing.com/images/search?q=sexy%20woman%20body&qs=n&form=QBIRMH&sp=-1&lq=0&pq=sexy%20woman%20b&sc=0-12&sk=&cvid=01A44854E1F74D64B181133CDE3F2ECE
+
+[2025-07-13 19:51:32] (Edge) Search: sexy woman body
+URL: https://www.bing.com/images/search?q=sexy%20woman%20body&qs=n&form=QBIRMH&sp=-1&lq=0&pq=sexy%20woman%20b&sc=0-12&cvid=01A44854E1F74D64B181133CDE3F2ECE&first=1
+
+[2025-07-13 19:52:15] (Edge) Search: Beauty Sexy Body
+URL: https://www.bing.com/images/search?q=Beauty+Sexy+Body&mmreqh=8KjvJr8LPTHSF30X8EcwMnPumXeBEeejc2pTTiwYjHQ%3d&FORM=IDINTS
+
+[2025-07-13 19:59:38] (Edge) Search: Beauty Sexy Body
+URL: https://www.bing.com/images/search?q=Beauty+Sexy+Body&mmreqh=8KjvJr8LPTHSF30X8EcwMnPumXeBEeejc2pTTiwYjHQ%3d&form=IDINTS&first=1
+
+[2025-07-13 20:55:28] (Edge) Search: sport fetish sweat lesbian
+URL: https://www.bing.com/images/search?q=sport%20fetish%20sweat%20lesbian&qs=n&form=QBIRMH&sp=-1&lq=0&pq=sport%20fetish%20sweat%20les&sc=0-22&sk=&cvid=FF3EE1D7BEFB40F5AAB4C531F34B8581
+
+[2025-07-13 20:55:36] (Edge) Search: sport fetish sweat lesbian xxx
+URL: https://www.bing.com/images/search?q=sport%20fetish%20sweat%20lesbian%20xxx&qs=n&form=QBIR&sp=-1&lq=0&pq=sport%20fetish%20sweat%20lesbian%20&sc=0-27&sk=&cvid=2363758FF3964CBE965B1243C26511ED
+
+[2025-07-13 20:55:44] (Edge) Search:  fetish sweat lesbian xxx
+URL: https://www.bing.com/images/search?q=%20fetish%20sweat%20lesbian%20xxx&qs=n&form=QBIR&sp=-1&lq=0&pq=&sc=0-0&sk=&cvid=9887BD6AB7994D959CF8AE44D34919EC
+
+[2025-07-13 20:55:45] (Edge) Search:  fetish sweat lesbian xxx
+URL: https://www.bing.com/images/search?q=%20fetish%20sweat%20lesbian%20xxx&qs=n&form=QBIR&sp=-1&lq=0&sc=0-0&cvid=9887BD6AB7994D959CF8AE44D34919EC&first=1
+
+[2025-07-13 20:56:26] (Edge) Search: feet gagging black nails
+URL: https://www.bing.com/images/search?q=feet%20gagging%20black%20nails&qs=n&form=QBIRMH&sp=-1&lq=0&pq=feet%20gagging%20blac&sc=0-17&sk=&cvid=8BB3862553574868A268B93A88E322E8
+
+[2025-07-13 20:59:35] (Edge) Search: deep feet gagging xxx
+URL: https://www.bing.com/images/search?q=deep+feet+gagging+xxx&FORM=HDRSC3
+
+[2025-07-13 21:04:55] (Edge) Search: Goddess Kiffa and Goddess Sue Very Deep Foot Gagging on New slave - FOOT GAGGING - DEEPTHROAT - GAG - GAGGING - FOOT FETISH - FOOT DOMINATION - FOOT HUMILIATION - FOOT SLAVE - FOOT SLAVE TRAINING
+URL: https://www.bing.com/images/search?q=Goddess+Kiffa+and+Goddess+Sue+Very+Deep+Foot+Gagging+on+New+slave+-+FOOT+GAGGING+-+DEEPTHROAT+-+GAG+-+GAGGING+-+FOOT+FETISH+-+FOOT+DOMINATION+-+FOOT+HUMILIATION+-+FOOT+SLAVE+-+FOOT+SLAVE+TRAINING&FORM=HDRSC3
+
+[2025-07-13 21:05:07] (Edge) Search: Goddess Kiffa and Goddess Sue Very Deep Foot Gagging on New slave - FOOT GAGGING - DEEPTHROAT - GAG - GAGGING - FOOT FETISH - FOOT DOMINATION - FOOT HUMILIATION - FOOT SLAVE - FOOT SLAVE TRAINING
+URL: https://www.bing.com/images/search?q=Goddess+Kiffa+and+Goddess+Sue+Very+Deep+Foot+Gagging+on+New+slave+-+FOOT+GAGGING+-+DEEPTHROAT+-+GAG+-+GAGGING+-+FOOT+FETISH+-+FOOT+DOMINATION+-+FOOT+HUMILIATION+-+FOOT+SLAVE+-+FOOT+SLAVE+TRAINING&form=HDRSC3&first=1
+
+[2025-07-13 22:39:41] (Edge) Search: deep seek
+URL: https://www.bing.com/search?q=deep+seek&qs=n&form=QBRE&sp=-1&lq=0&pq=deep+se&sc=12-7&sk=&cvid=EAE577259C0742B99664DEF7A4679634
+
+[2025-07-13 22:40:41] (Edge) Search: deep seek
+URL: https://www.bing.com/search?q=deep+seek&cvid=6719245134674e5baa6f4f57fd07e116&gs_lcrp=EgRlZGdlKgYIABBFGDsyBggAEEUYOzIGCAEQRRg7MgYIAhAAGEAyBggDEC4YQDIGCAQQABhAMgYIBRAuGEAyBggGEEUYPDIGCAcQRRg8MgYICBBFGDzSAQgyNzMyajBqOagCALACAA&FORM=ANAB01&PC=U531
+
+[2025-07-14 17:58:21] (Edge) Search: translate eng tto persian
+URL: https://www.bing.com/search?q=translate+eng+tto+persian&cvid=2c7620df6ae747578ba60619a4027934&gs_lcrp=EgRlZGdlKgYIABBFGDkyBggAEEUYOdIBCDI0NTVqMGo5qAIIsAIB&FORM=ANAB01&PC=U531
+
+[2025-07-14 19:14:29] (Edge) Search: deep seek
+URL: https://www.bing.com/search?q=deep+seek&gs_lcrp=EgRlZGdlKgkIABBFGDsY-QcyCQgAEEUYOxj5BzIGCAEQABhAMgYIAhBFGDsyBggDEAAYQDIGCAQQLhhAMgYIBRBFGDkyBggGEEUYPDIGCAcQRRhBMgYICBBFGDzSAQgzNjA3ajBqMagCALACAA&FORM=ANAB01&PC=U531
+
+[2025-07-14 19:53:41] (Edge) Search: translate eng
+URL: https://www.bing.com/search?q=translate%20eng&qs=n&form=QBRE&sp=-1&ghc=1&lq=0&pq=translate%20e&sc=12-11&sk=&cvid=788D8DF0A8B94EC8977EB46375ADDEE5
+
+[2025-07-14 22:29:49] (Edge) Search: عکس مشاوره جنسی
+URL: https://www.bing.com/images/search?q=%d8%b9%da%a9%d8%b3+%d9%85%d8%b4%d8%a7%d9%88%d8%b1%d9%87+%d8%ac%d9%86%d8%b3%db%8c&FORM=HDRSC3
+
+[2025-07-14 22:32:40] (Edge) Search: عکس مشاوره جنسی
+URL: https://www.bing.com/images/search?q=%d8%b9%da%a9%d8%b3+%d9%85%d8%b4%d8%a7%d9%88%d8%b1%d9%87+%d8%ac%d9%86%d8%b3%db%8c&form=HDRSC3&first=1
+
+[2025-07-14 22:33:21] (Edge) Search: عکس ربات مشاور
+URL: https://www.bing.com/images/search?q=%D8%B9%DA%A9%D8%B3%20%D8%B1%D8%A8%D8%A7%D8%AA%20%D9%85%D8%B4%D8%A7%D9%88%D8%B1&qs=n&form=QBIR&sp=-1&lq=0&pq=%D8%B9%DA%A9%D8%B3%20%D8%B1%D8%A8%D8%A7%D8%AA&sc=10-8&sk=&cvid=61BAB59BA13740B0B99AC06F578CE63F
+
+[2025-07-14 22:33:21] (Edge) Search: عکس ربات مشاور
+URL: https://www.bing.com/images/search?q=%D8%B9%DA%A9%D8%B3%20%D8%B1%D8%A8%D8%A7%D8%AA%20%D9%85%D8%B4%D8%A7%D9%88%D8%B1&qs=n&form=QBIR&sp=-1&lq=0&pq=%D8%B9%DA%A9%D8%B3%20%D8%B1%D8%A8%D8%A7%D8%AA&sc=10-8&cvid=61BAB59BA13740B0B99AC06F578CE63F&first=1
+
+[2025-07-15 02:03:16] (Edge) Search: from rag_generator import generate_answer  # اینو به بالای فایل اصلی‌ات اضافه کن
+URL: https://www.bing.com/search?q=from+rag_generator+import+generate_answer++%23+%D8%A7%DB%8C%D9%86%D9%88+%D8%A8%D9%87+%D8%A8%D8%A7%D9%84%D8%A7%DB%8C+%D9%81%D8%A7%DB%8C%D9%84+%D8%A7%D8%B5%D9%84%DB%8C%E2%80%8C%D8%A7%D8%AA+%D8%A7%D8%B6%D8%A7%D9%81%D9%87+%DA%A9%D9%86&FORM=SSQNT1&PC=U531
+
+[2025-07-15 03:01:41] (Edge) Search: 'https://github.com/Userlvel5anonymous/ChatBotProject.git/'
+URL: https://www.bing.com/search?q=%27https%3A%2F%2Fgithub.com%2FUserlvel5anonymous%2FChatBotProject.git%2F%27&cvid=0b5f247cc7524f6fbea73fd347161d90&gs_lcrp=EgRlZGdlKgYIABBFGDkyBggAEEUYOdIBBzI0N2owajSoAgiwAgE&FORM=ANAB01&PC=U531
+
+[2025-07-15 11:02:32] (Edge) Search: گیم پلی ارنا بریک اوت کامپیوتر
+URL: https://www.bing.com/search?q=%DA%AF%DB%8C%D9%85+%D9%BE%D9%84%DB%8C+%D8%A7%D8%B1%D9%86%D8%A7+%D8%A8%D8%B1%DB%8C%DA%A9+%D8%A7%D9%88%D8%AA+%DA%A9%D8%A7%D9%85%D9%BE%DB%8C%D9%88%D8%AA%D8%B1&form=ANSPH1&refig=def4b4fbf5044f019a939387519e7e0b&pc=U531
+
+[2025-07-15 19:04:13] (Edge) Search: dee
+URL: https://www.bing.com/search?q=dee&cvid=d49b4ad8ddd747138fe4f3a61325cb5a&gs_lcrp=EgRlZGdlKgYIABBFGDsyBggAEEUYOzIGCAEQRRg7MgYIAhBFGDsyBggDEEUYOzIGCAQQRRhBMgYIBRBFGDwyBggGEEUYPDIGCAcQRRg80gEHMzQzajBqOagCCLACAQ&FORM=ANAB01&PC=U531
+
+[2025-07-15 19:04:17] (Edge) Search: deep seek
+URL: https://www.bing.com/search?q=deep+seek&qs=n&form=QBRE&sp=-1&ghc=1&lq=0&pq=deep+seek&sc=12-9&sk=&cvid=440CF0D284D54670AF7C11D14CD7F796
+
+[2025-07-15 20:27:25] (Edge) Search: dee
+URL: https://www.bing.com/search?q=dee&cvid=53311a00c57040fcbcca6f3c00455a62&gs_lcrp=EgRlZGdlKgYIABBFGDsyBggAEEUYOzIGCAEQRRg7MgYIAhBFGDsyBggDEEUYOzIGCAQQRRhBMgYIBRBFGDwyBggGEEUYPDIGCAcQRRg80gEHMjg3ajBqOagCCLACAQ&FORM=ANAB01&PC=U531
+
+[2025-07-15 20:27:31] (Edge) Search: deep esek
+URL: https://www.bing.com/search?q=deep+esek&qs=n&form=QBRE&sp=-1&lq=0&pq=deep+&sc=0-5&sk=&cvid=6A486773651746238620C79C972698EB
+
+[2025-07-16 15:13:38] (Edge) Search: -
+URL: https://www.bing.com/search?q=-&form=ANSPH1&refig=48BD6460956E4CD2A0D5A3ADBCABEE6A&pc=U531
+
+[2025-07-16 16:57:24] (Edge) Search: aternos
+URL: https://www.bing.com/search?q=aternos&form=ANSPH1&refig=603c1879796a46adbddded2e3e5839bd&pc=U531&pq=ater&pqlth=4&assgl=7&sgcn=aternos&qs=AS&sgtpv=AS&smvpcn=0&swbcn=10&sctcn=0&sc=10-4&sp=1&ghc=0&cvid=603c1879796a46adbddded2e3e5839bd&clckatsg=1&hsmssg=0
+
+[2025-07-16 20:05:35] (Edge) Search: deepseek
+URL: https://www.bing.com/search?q=deepseek&qs=n&form=QBRE&sp=-1&ghc=1&lq=0&pq=deepse&sc=13-6&sk=&cvid=E4B48DCC612A43F6B6FACFC76B9103E5&filters=ufn%3A%22DeepSeek+%28chatbot%29%22+sid%3A%2249507612-8c2c-add9-1d01-9b0e0e4ebc80%22
+
+[2025-07-17 11:15:02] (Edge) Search: aternos
+URL: https://www.bing.com/search?q=aternos&form=ANSPH1&refig=1DBF9A44F1254977974D5D3B6E95A8DE&pc=U531&pq=ater&pqlth=4&assgl=7&sgcn=aternos&qs=AS&sgtpv=AS&smvpcn=0&swbcn=10&sctcn=0&sc=10-4&sp=1&ghc=0&cvid=1DBF9A44F1254977974D5D3B6E95A8DE&clckatsg=1&hsmssg=0
+
+[2025-07-17 14:09:25] (Edge) Search: aternos
+URL: https://www.bing.com/search?q=aternos&form=ANSPH1&refig=687AA764726547C2B7179575D5409C89&pc=U531
+
+[2025-07-17 16:29:59] (Edge) Search: aternos
+URL: https://www.bing.com/search?q=aternos&form=ANSPH1&refig=2B36A9727C944A92A0B83E22EBE721D0&pc=U531&pq=ater&pqlth=4&assgl=7&sgcn=aternos&qs=EP&sgtpv=EP&smvpcn=0&swbcn=10&sctcn=0&sc=10-4&sp=1&ghc=0&cvid=2B36A9727C944A92A0B83E22EBE721D0&clckatsg=1&hsmssg=0
+
+[2025-07-17 19:31:56] (Edge) Search: deepseek
+URL: https://www.bing.com/search?q=deepseek&cvid=2934d626fde64dc682a1f9f6c8c2b0ef&gs_lcrp=EgRlZGdlKgkIABBFGDsY-QcyCQgAEEUYOxj5BzIGCAEQRRg7MgYIAhBFGDsyBggDEEUYOTIGCAQQRRg7MgYIBRBFGDwyBggGEEUYPDIGCAcQRRg8MgYICBBFGDzSAQczOTBqMGoxqAIAsAIA&FORM=ANAB01&PC=U531
+
+[2025-07-17 19:31:27] (Edge) Search: DeepSeek key people
+URL: https://www.bing.com/images/search?q=DeepSeek+key+people&FORM=HDRSC3
+
+[2025-07-17 19:31:45] (Edge) Search: DeepSeek key people
+URL: https://www.bing.com/images/search?q=DeepSeek+key+people&form=HDRSC3&first=1
+
+[2025-07-17 19:42:14] (Edge) Search: deepseek
+URL: https://www.bing.com/search?q=deepseek&cvid=2934d626fde64dc682a1f9f6c8c2b0ef&gs_lcrp=EgRlZGdlKgkIABBFGDsY-QcyCQgAEEUYOxj5BzIGCAEQRRg7MgYIAhBFGDsyBggDEEUYOTIGCAQQRRg7MgYIBRBFGDwyBggGEEUYPDIGCAcQRRg8MgYICBBFGDzSAQczOTBqMGoxqAIAsAIA&FORM=ANAB01&PC=U531&ntref=1
+
+[2025-07-17 22:28:38] (Edge) Search: what is my locarion
+URL: https://www.bing.com/search?q=what+is+my+locarion&cvid=30d9a42e0e8f42f7b5c069ba0732f927&gs_lcrp=EgRlZGdlKgYIABBFGDkyBggAEEUYOTIGCAEQABhAMgYIAhAAGEAyBggDEAAYQDIGCAQQABhAMgYIBRAAGEAyBggGEAAYQDIGCAcQABhAMgYICBAAGEDSAQgyOTU5ajBqOagCCLACAQ&FORM=ANAB01&PC=U531
+
+[2025-07-17 22:30:06] (Edge) Search: what is my ip
+URL: https://www.bing.com/search?q=what%20is%20my%20ip&qs=n&form=QBRE&sp=-1&lq=0&pq=what%20is%20my%20&sc=12-11&sk=&cvid=D392918F3FFA4F289CDF6F77F89484DF
+
+[2025-07-19 00:09:03] (Edge) Search: myp c
+URL: https://www.bing.com/search?q=myp+c&form=WNSGPH&qs=SW&cvid=ee65a821f100413daf7182cc02dfc57f&pq=myp+c&cc=IR&setlang=en-US&nclid=F0074BB049B5D78466E7CE6150CB12CB&ts=1752883740349&nclidts=1752883740&tsms=349&wsso=Moderate
+
+[2025-07-19 00:09:04] (Edge) Search: myp c
+URL: https://www.bing.com/search?q=myp+c&form=WNSGPH&qs=SW&cvid=ee65a821f100413daf7182cc02dfc57f&pq=myp+c&cc=IR&setlang=en-US&nclid=F0074BB049B5D78466E7CE6150CB12CB&ts=1752883740349&wsso=Moderate
+
+[2025-07-19 00:20:14] (Edge) Search: informatino gaining emote
+URL: https://www.bing.com/search?q=informatino+gaining+emote&qs=n&form=QBRE&sp=-1&lq=0&pq=informatino+gaining+&sc=11-20&sk=&cvid=EB6070B7CFA84D59A203E0B79CD4835B
+
+[2025-07-19 00:20:39] (Edge) Search: computer infos emotes
+URL: https://www.bing.com/search?q=computer+infos+emotes&qs=n&form=QBRE&sp=-1&lq=0&pq=computer+infos+&sc=12-15&sk=&cvid=170FBFB8989C4368AE845C877FE5A98F
+
+[2025-07-19 07:39:50] (Edge) Search: electro
+URL: https://www.bing.com/search?q=electro&form=ANSPH1&refig=ebfa270795854433a3ac739229ef5f7e&pc=U531
+
+[2025-07-19 22:30:19] (Edge) Search: cyber security image for profile
+URL: https://www.bing.com/images/search?q=cyber+security+image+for+profile&FORM=HDRSC3
+
+[2025-07-19 22:31:13] (Edge) Search: cyber security image for profile
+URL: https://www.bing.com/images/search?q=cyber+security+image+for+profile&form=HDRSC3&first=1
+
+[2025-07-19 22:32:59] (Edge) Search: ai cyber security
+URL: https://www.bing.com/images/search?q=ai+cyber+security&FORM=HDRSC3
+
+[2025-07-19 22:33:00] (Edge) Search: ai cyber security
+URL: https://www.bing.com/images/search?q=ai+cyber+security&form=HDRSC3&first=1
+
+[2025-07-20 07:09:36] (Edge) Search: -
+URL: https://www.bing.com/search?q=-&form=ANSPH1&refig=E8137DAC09BE404CB2ACC6E3BFBC59F4&pc=U531
+
+[2025-07-20 07:10:08] (Edge) Search: motel mnagement simulator dlfox
+URL: https://www.bing.com/search?q=motel%20mnagement%20simulator%20dlfox&qs=n&form=QBRE&sp=-1&ghc=1&lq=0&pq=motel%20mnagement%20simulator%20dlfo&sc=4-30&sk=&cvid=8999B3CDEE6645468932AD807CD0D520
+
+[2025-07-20 07:27:02] (Edge) Search: motel manager simulator
+URL: https://www.bing.com/search?q=motel+manager+simulator&form=ANSPH1&refig=D535E7834BE140308F0ADC9D46C3AE8C&pc=U531
+
+[2025-07-20 07:27:15] (Edge) Search: motel manager simulator dlfox
+URL: https://www.bing.com/search?q=motel+manager+simulator+dlfox&qs=ds&form=QBRE
+
+[2025-07-20 22:35:37] (Edge) Search: Hacking and cyber security chanel
+URL: https://www.bing.com/images/search?q=Hacking+and+cyber+security+chanel&FORM=HDRSC3
+
+[2025-07-20 22:45:48] (Edge) Search: Hacking and cyber security chanel
+URL: https://www.bing.com/images/search?q=Hacking+and+cyber+security+chanel&form=HDRSC3&first=1
+
+[2025-07-20 22:46:54] (Edge) Search: ثفازهشم اشزنه
+URL: https://www.bing.com/images/search?q=%D8%AB%D9%81%D8%A7%D8%B2%D9%87%D8%B4%D9%85%20%D8%A7%D8%B4%D8%B2%D9%86%D9%87&qs=n&form=QBIRMH&sp=-1&lq=0&pq=%D8%AB%D9%81%D8%A7%D8%B2%D9%87%D8%B4%D9%85%20&sc=0-8&sk=&cvid=6D1B3A8B4A984BEF9032FD23137DAAAA
+
+[2025-07-20 22:46:54] (Edge) Search: ثفازهشم اشزنه
+URL: https://www.bing.com/images/search?q=%D8%AB%D9%81%D8%A7%D8%B2%D9%87%D8%B4%D9%85%20%D8%A7%D8%B4%D8%B2%D9%86%D9%87&qs=n&form=QBIRMH&sp=-1&lq=0&pq=%D8%AB%D9%81%D8%A7%D8%B2%D9%87%D8%B4%D9%85%20&sc=0-8&cvid=6D1B3A8B4A984BEF9032FD23137DAAAA&first=1
+
+[2025-07-20 22:47:00] (Edge) Search: ethcialhacking images
+URL: https://www.bing.com/images/search?q=ethcialhacking%20images&qs=n&form=QBIR&sp=-1&lq=0&pq=ethcialhac&sc=10-10&sk=&cvid=2C08602F841A43EFA6BD4FB7D12DCACA
+
+[2025-07-20 22:59:06] (Edge) Search: ethcialhacking images
+URL: https://www.bing.com/images/search?q=ethcialhacking%20images&qs=n&form=QBIR&sp=-1&lq=0&pq=ethcialhac&sc=10-10&cvid=2C08602F841A43EFA6BD4FB7D12DCACA&first=1
+
+[2025-07-21 00:01:10] (Edge) Search: youtube
+URL: https://www.bing.com/search?q=youtube&gs_lcrp=EgRlZGdlKgYIARBFGDsyBggAEEUYOTIGCAEQRRg7MgYIAhBFGD3SAQgxOTA1ajBqMagCALACAA&FORM=ANAB01&PC=U531
+
+[2025-07-21 02:15:38] (Edge) Search: Feature Name	Description
+age	سن
+gender	جنسیت
+grade_avg	میانگین نمرات
+absences	تعداد غیبت‌ها
+parent_edu_level	سطح تحصیلات والدین (0 تا 3)
+internet_access	دسترسی به اینترنت (Yes/No)
+dropout
+URL: https://www.bing.com/search?q=Feature+Name%09Description%0D%0Aage%09%D8%B3%D9%86%0D%0Agender%09%D8%AC%D9%86%D8%B3%DB%8C%D8%AA%0D%0Agrade_avg%09%D9%85%DB%8C%D8%A7%D9%86%DA%AF%DB%8C%D9%86+%D9%86%D9%85%D8%B1%D8%A7%D8%AA%0D%0Aabsences%09%D8%AA%D8%B9%D8%AF%D8%A7%D8%AF+%D8%BA%DB%8C%D8%A8%D8%AA%E2%80%8C%D9%87%D8%A7%0D%0Aparent_edu_level%09%D8%B3%D8%B7%D8%AD+%D8%AA%D8%AD%D8%B5%DB%8C%D9%84%D8%A7%D8%AA+%D9%88%D8%A7%D9%84%D8%AF%DB%8C%D9%86+(0+%D8%AA%D8%A7+3)%0D%0Ainternet_access%09%D8%AF%D8%B3%D8%AA%D8%B1%D8%B3%DB%8C+%D8%A8%D9%87+%D8%A7%DB%8C%D9%86%D8%AA%D8%B1%D9%86%D8%AA+(Yes%2FNo)%0D%0Adropout&FORM=SSQNT1&PC=U531
+
+[2025-07-21 14:05:38] (Edge) Search: euru truck 2 عمو امیر
+URL: https://www.bing.com/search?q=euru+truck+2+%D8%B9%D9%85%D9%88+%D8%A7%D9%85%DB%8C%D8%B1&form=ANSPH1&refig=39A52128503F4C44A91077A56B237524&pc=U531
+
+[2025-07-21 15:14:44] (Edge) Search: معسسن لرستانی امشو میخوام مص بکنیم
+URL: https://www.bing.com/search?q=%D9%85%D8%B9%D8%B3%D8%B3%D9%86+%D9%84%D8%B1%D8%B3%D8%AA%D8%A7%D9%86%DB%8C+%D8%A7%D9%85%D8%B4%D9%88+%D9%85%DB%8C%D8%AE%D9%88%D8%A7%D9%85+%D9%85%D8%B5+%D8%A8%DA%A9%D9%86%DB%8C%D9%85&form=ANSPH1&refig=0BFF4BACBDD644FA8617E58F21109C10&pc=U531
+
+[2025-07-21 15:15:04] (Edge) Search: محسن لرستانه مص
+URL: https://www.bing.com/search?q=%D9%85%D8%AD%D8%B3%D9%86+%D9%84%D8%B1%D8%B3%D8%AA%D8%A7%D9%86%D9%87+%D9%85%D8%B5&qs=ds&form=QBRE
+
+[2025-07-21 15:15:11] (Edge) Search: محسن لرستانه مص بنیم
+URL: https://www.bing.com/search?q=%D9%85%D8%AD%D8%B3%D9%86+%D9%84%D8%B1%D8%B3%D8%AA%D8%A7%D9%86%D9%87+%D9%85%D8%B5+%D8%A8%D9%86%DB%8C%D9%85&qs=ds&form=QBRE
+
+[2025-07-21 15:15:22] (Edge) Search: محسن لرستانه مص بکنیم
+URL: https://www.bing.com/search?q=%D9%85%D8%AD%D8%B3%D9%86+%D9%84%D8%B1%D8%B3%D8%AA%D8%A7%D9%86%D9%87+%D9%85%D8%B5+%D8%A8%DA%A9%D9%86%DB%8C%D9%85&qs=n&form=QBRE&sp=-1&lq=0&pq=%D9%85%D8%AD%D8%B3%D9%86+%D9%84%D8%B1%D8%B3%D8%AA%D8%A7%D9%86%D9%87+%D9%85%D8%B5+%D8%A8%DA%A9%D9%86%DB%8C%D9%85&sc=12-21&sk=&cvid=DA64EAF116B04DBDB398BFBACC75D338
+
+[2025-07-21 22:32:12] (Edge) Search: euro truck 2 parsi game
+URL: https://www.bing.com/search?q=euro+truck+2+parsi+game&form=ANNTH1&refig=11d593b8e943400eb5d66190f45a6426&pc=U531
+
+[2025-07-21 22:34:40] (Edge) Search: دانلود مود ماشین پزو پارس برای جی تی ای وی
+URL: https://www.bing.com/search?q=%D8%AF%D8%A7%D9%86%D9%84%D9%88%D8%AF+%D9%85%D9%88%D8%AF+%D9%85%D8%A7%D8%B4%DB%8C%D9%86+%D9%BE%D8%B2%D9%88+%D9%BE%D8%A7%D8%B1%D8%B3+%D8%A8%D8%B1%D8%A7%DB%8C+%D8%AC%DB%8C+%D8%AA%DB%8C+%D8%A7%DB%8C+%D9%88%DB%8C&form=ANNTH1&refig=832919e4fd9d4aefa7fda6db7bdedf97&pc=U531&pq=%D8%AF%D8%A7%D9%86%D9%84%D9%88%D8%AF+%D9%85%D9%88%D8%AF+%D9%85%D8%A7%D8%B4%DB%8C%D9%86+%D9%BE%D8%B2&pqlth=19&assgl=42&sgcn=%D8%AF%D8%A7%D9%86%D9%84%D9%88%D8%AF+%D9%85%D9%88%D8%AF+%D9%85%D8%A7%D8%B4%DB%8C%D9%86+%D9%BE%D8%B2%D9%88+%D9%BE%D8%A7%D8%B1%D8%B3+%D8%A8%D8%B1%D8%A7%DB%8C+%D8%AC%DB%8C+%D8%AA%DB%8C+%D8%A7%DB%8C+%D9%88%DB%8C&qs=LT&sgtpv=LT&smvpcn=0&swbcn=10&sctcn=0&sc=10-19&sp=2&ghc=0&cvid=832919e4fd9d4aefa7fda6db7bdedf97&clckatsg=1&hsmssg=0
+
+[2025-07-21 22:34:59] (Edge) Search: دانلود مود ماشین پزو پارس برای EURO TRUCK 2
+URL: https://www.bing.com/search?q=%D8%AF%D8%A7%D9%86%D9%84%D9%88%D8%AF%20%D9%85%D9%88%D8%AF%20%D9%85%D8%A7%D8%B4%DB%8C%D9%86%20%D9%BE%D8%B2%D9%88%20%D9%BE%D8%A7%D8%B1%D8%B3%20%D8%A8%D8%B1%D8%A7%DB%8C%20EURO%20TRUCK%202&qs=n&form=QBRE&sp=-1&lq=0&pq=%D8%AF%D8%A7%D9%86%D9%84%D9%88%D8%AF%20%D9%85%D9%88%D8%AF%20%D9%85%D8%A7%D8%B4%DB%8C%D9%86%20%D9%BE%D8%B2%D9%88%20%D9%BE%D8%A7%D8%B1%D8%B3%20%D8%A8%D8%B1%D8%A7%DB%8C%20euro%20truck%20&sc=1-42&sk=&cvid=64C2DDACA38B4688B544F1A16DB70738
+
+[2025-07-21 22:36:20] (Edge) Search: دانلود مود ماشین پزو پارس برای EUROTRUCK SIMULATOR 2
+URL: https://www.bing.com/search?q=%D8%AF%D8%A7%D9%86%D9%84%D9%88%D8%AF%20%D9%85%D9%88%D8%AF%20%D9%85%D8%A7%D8%B4%DB%8C%D9%86%20%D9%BE%D8%B2%D9%88%20%D9%BE%D8%A7%D8%B1%D8%B3%20%D8%A8%D8%B1%D8%A7%DB%8C%20EUROTRUCK%20SIMULATOR%202&qs=n&form=QBRE&sp=-1&lq=0&pq=%D8%AF%D8%A7%D9%86%D9%84%D9%88%D8%AF%20%D9%85%D9%88%D8%AF%20%D9%85%D8%A7%D8%B4%DB%8C%D9%86%20%D9%BE%D8%B2%D9%88%20%D9%BE%D8%A7%D8%B1%D8%B3%20%D8%A8%D8%B1%D8%A7%DB%8C%20eurotruck%20simulator%202&sc=6-52&sk=&cvid=4059EDC3033243CCA79667E56F96E3E8
+
+[2025-07-21 22:38:25] (Edge) Search: دانلود مود ماشین پزو پارس برای برای یورو تراک 2
+URL: https://www.bing.com/search?q=%D8%AF%D8%A7%D9%86%D9%84%D9%88%D8%AF%20%D9%85%D9%88%D8%AF%20%D9%85%D8%A7%D8%B4%DB%8C%D9%86%20%D9%BE%D8%B2%D9%88%20%D9%BE%D8%A7%D8%B1%D8%B3%20%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%A8%D8%B1%D8%A7%DB%8C%20%DB%8C%D9%88%D8%B1%D9%88%20%D8%AA%D8%B1%D8%A7%DA%A9%202&qs=n&form=QBRE&sp=-1&lq=0&pq=%D8%AF%D8%A7%D9%86%D9%84%D9%88%D8%AF%20%D9%85%D9%88%D8%AF%20%D9%85%D8%A7%D8%B4%DB%8C%D9%86%20%D9%BE%D8%B2%D9%88%20%D9%BE%D8%A7%D8%B1%D8%B3%20%D8%A8%D8%B1%D8%A7%DB%8C%20eurotruck%20simulator%202&sc=12-52&sk=&cvid=EAC4EF11F98441299C75254633D2C83F&ajf=60
+
+[2025-07-21 22:38:42] (Edge) Search: دانلود مود ماشین پزو پارس برای برای یورو تراک 2 GAME MOODS
+URL: https://www.bing.com/search?q=%D8%AF%D8%A7%D9%86%D9%84%D9%88%D8%AF%20%D9%85%D9%88%D8%AF%20%D9%85%D8%A7%D8%B4%DB%8C%D9%86%20%D9%BE%D8%B2%D9%88%20%D9%BE%D8%A7%D8%B1%D8%B3%20%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%A8%D8%B1%D8%A7%DB%8C%20%DB%8C%D9%88%D8%B1%D9%88%20%D8%AA%D8%B1%D8%A7%DA%A9%202%20GAME%20MOODS&qs=n&form=QBRE&sp=-1&lq=0&pq=%D8%AF%D8%A7%D9%86%D9%84%D9%88%D8%AF%20%D9%85%D9%88%D8%AF%20%D9%85%D8%A7%D8%B4%DB%8C%D9%86%20%D9%BE%D8%B2%D9%88%20%D9%BE%D8%A7%D8%B1%D8%B3%20%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%A8%D8%B1%D8%A7%DB%8C%20%DB%8C%D9%88%D8%B1%D9%88%20%D8%AA%D8%B1%D8%A7%DA%A9%202%20game%20moods&sc=0-58&sk=&cvid=6EC6D5B12BE14EF6A671E0ADE411A552
+
+[2025-07-21 22:53:59] (Edge) Search: euro truck 2 parsi game
+URL: https://www.bing.com/search?q=euro+truck+2+parsi+game&form=ANNTH1&refig=11d593b8e943400eb5d66190f45a6426&pc=U531&ntref=1
+
+[2025-07-21 22:43:47] (Edge) Search: دانلود مود پژو پارس برای یورو تراک 2
+URL: https://www.bing.com/search?q=%D8%AF%D8%A7%D9%86%D9%84%D9%88%D8%AF+%D9%85%D9%88%D8%AF+%D9%BE%DA%98%D9%88+%D9%BE%D8%A7%D8%B1%D8%B3+%D8%A8%D8%B1%D8%A7%DB%8C+%DB%8C%D9%88%D8%B1%D9%88+%D8%AA%D8%B1%D8%A7%DA%A9+2&form=ANNTH1&refig=f23a8d81bdc5449c82e8e03275ee92ad&pc=U531&pq=%D8%AF%D8%A7%D9%86%D9%84%D9%88%D8%AF+%D9%85%D9%88%D8%AF+%D9%BE%DA%98%D9%88+%D9%BE%D8%A7%D8%B1%D8%B3+%D8%A8%D8%B1%D8%A7%DB%8C&pqlth=24&assgl=36&sgcn=%D8%AF%D8%A7%D9%86%D9%84%D9%88%D8%AF+%D9%85%D9%88%D8%AF+%D9%BE%DA%98%D9%88+%D9%BE%D8%A7%D8%B1%D8%B3+%D8%A8%D8%B1%D8%A7%DB%8C+%DB%8C%D9%88%D8%B1%D9%88+%D8%AA%D8%B1%D8%A7%DA%A9+2&qs=LT&sgtpv=LT&smvpcn=0&swbcn=10&sctcn=0&sc=10-24&sp=2&ghc=0&cvid=f23a8d81bdc5449c82e8e03275ee92ad&clckatsg=1&hsmssg=0
+
+[2025-07-21 22:44:19] (Edge) Search: دانلود مود پژو پارس برای یورو تراک 2 نسخه v1.55.1
+URL: https://www.bing.com/search?q=%D8%AF%D8%A7%D9%86%D9%84%D9%88%D8%AF%20%D9%85%D9%88%D8%AF%20%D9%BE%DA%98%D9%88%20%D9%BE%D8%A7%D8%B1%D8%B3%20%D8%A8%D8%B1%D8%A7%DB%8C%20%DB%8C%D9%88%D8%B1%D9%88%20%D8%AA%D8%B1%D8%A7%DA%A9%202%20%D9%86%D8%B3%D8%AE%D9%87%20v1.55.1&qs=n&form=QBRE&sp=-1&lq=0&pq=%D8%AF%D8%A7%D9%86%D9%84%D9%88%D8%AF%20%D9%85%D9%88%D8%AF%20%D9%BE%DA%98%D9%88%20%D9%BE%D8%A7%D8%B1%D8%B3%20%D8%A8%D8%B1%D8%A7%DB%8C%20%DB%8C%D9%88%D8%B1%D9%88%20%D8%AA%D8%B1%D8%A7%DA%A9%202%20%D9%86%D8%B3%D8%AE%D9%87%20v1.55.1&sc=0-49&sk=&cvid=6DCA31BE970045F39529D73A0F89E8CF
+
+[2025-07-21 22:47:46] (Edge) Search: دانلود مود پژو پارس برای یورو تراک 2 نسخه 
+URL: https://www.bing.com/search?q=%D8%AF%D8%A7%D9%86%D9%84%D9%88%D8%AF%20%D9%85%D9%88%D8%AF%20%D9%BE%DA%98%D9%88%20%D9%BE%D8%A7%D8%B1%D8%B3%20%D8%A8%D8%B1%D8%A7%DB%8C%20%DB%8C%D9%88%D8%B1%D9%88%20%D8%AA%D8%B1%D8%A7%DA%A9%202%20%D9%86%D8%B3%D8%AE%D9%87%20&qs=n&form=QBRE&sp=-1&lq=0&pq=%D8%AF%D8%A7%D9%86%D9%84%D9%88%D8%AF%20%D9%85%D9%88%D8%AF%20%D9%BE%DA%98%D9%88%20%D9%BE%D8%A7%D8%B1%D8%B3%20%D8%A8%D8%B1%D8%A7%DB%8C%20%DB%8C%D9%88%D8%B1%D9%88%20%D8%AA%D8%B1%D8%A7%DA%A9%202%20%D9%86%D8%B3%D8%AE%D9%87%20&sc=12-42&sk=&cvid=7C1F1B7E24A84C3BB794F80941FB2899
+
+[2025-07-21 22:48:08] (Edge) Search: دانلود مود پژو پارس برای یورو تراک 2  
+URL: https://www.bing.com/search?q=%D8%AF%D8%A7%D9%86%D9%84%D9%88%D8%AF%20%D9%85%D9%88%D8%AF%20%D9%BE%DA%98%D9%88%20%D9%BE%D8%A7%D8%B1%D8%B3%20%D8%A8%D8%B1%D8%A7%DB%8C%20%DB%8C%D9%88%D8%B1%D9%88%20%D8%AA%D8%B1%D8%A7%DA%A9%202%20%20&qs=n&form=QBRE&sp=-1&lq=0&pq=%D8%AF%D8%A7%D9%86%D9%84%D9%88%D8%AF%20%D9%85%D9%88%D8%AF%20%D9%BE%DA%98%D9%88%20%D9%BE%D8%A7%D8%B1%D8%B3%20%D8%A8%D8%B1%D8%A7%DB%8C%20%DB%8C%D9%88%D8%B1%D9%88%20%D8%AA%D8%B1%D8%A7%DA%A9%202%20%20&sc=12-38&sk=&cvid=13DB394EC5E74B9DA95BAFD7D88804AC
+
+[2025-07-21 22:52:56] (Edge) Search: دانلود یورو تراک 2 v 1.43
+URL: https://www.bing.com/search?q=%D8%AF%D8%A7%D9%86%D9%84%D9%88%D8%AF+%DB%8C%D9%88%D8%B1%D9%88+%D8%AA%D8%B1%D8%A7%DA%A9+2+v+1.43&form=ANNTH1&refig=72172fa7086442a598c53105b9a217e1&pc=U531&pq=%D8%AF%D8%A7%D9%86%D9%84%D9%88%D8%AF+%DB%8C%D9%88%D8%B1%D9%88+%D8%AA%D8%B1%D8%A7%DA%A9+2+v+1.43&pqlth=25&assgl=25&sgcn=%D8%AF%D8%A7%D9%86%D9%84%D9%88%D8%AF+%DB%8C%D9%88%D8%B1%D9%88+%D8%AA%D8%B1%D8%A7%DA%A9+2+v+1.43&qs=PRES&sgtpv=PRES&smvpcn=0&swbcn=10&sctcn=0&sc=10-25&sp=1&ghc=0&cvid=72172fa7086442a598c53105b9a217e1&clckatsg=1&hsmssg=0
+
+[2025-07-21 23:03:55] (Edge) Search: euru tuck 2 1.43 دانلود
+URL: https://www.bing.com/search?q=euru%20tuck%202%201.43%20%D8%AF%D8%A7%D9%86%D9%84%D9%88%D8%AF&qs=n&form=QBRE&sp=-1&ghc=1&lq=0&pq=euru%20tuck%202%201.43%20%D8%AF%D8%A7%D9%86%D9%84&sc=0-21&sk=&cvid=23637579BA0E4BF9A2B66121BA1DA9C1
+
+[2025-07-22 07:55:20] (Edge) Search: دانلو
+URL: https://www.bing.com/search?q=%D8%AF%D8%A7%D9%86%D9%84%D9%88&cvid=d5daab030861452e8a28b0abef7cabfe&gs_lcrp=EgRlZGdlKgYIABBFGDkyBggAEEUYOTIGCAEQABhAMgYIAhAAGEAyBggDEAAYQDIGCAQQABhAMgYIBRAAGEAyBggGEAAYQDIGCAcQABhAMgYICBBFGD3SAQg2MjQwajBqN6gCALACAA&FORM=ANNTA0&PC=U531
+
+[2025-07-22 07:56:44] (Edge) Search: دانلود مپ جاده ساف برای بازی beamngdrive
+URL: https://www.bing.com/search?q=%D8%AF%D8%A7%D9%86%D9%84%D9%88%D8%AF%20%D9%85%D9%BE%20%D8%AC%D8%A7%D8%AF%D9%87%20%D8%B3%D8%A7%D9%81%20%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%A8%D8%A7%D8%B2%DB%8C%20beamngdrive&qs=n&form=QBRE&sp=-1&lq=0&pq=%D8%AF%D8%A7%D9%86%D9%84%D9%88%D8%AF%20%D9%85%D9%BE%20%D8%AC%D8%A7%D8%AF%D9%87%20%D8%B3%D8%A7%D9%81%20%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%A8%D8%A7%D8%B2%DB%8C%20beamngdrive&sc=3-40&sk=&cvid=FD20EC748F664CB58EFB00E6F3E211F3
+
+[2025-07-22 16:00:44] (Edge) Search: game up
+URL: https://www.bing.com/search?q=game+up&cvid=120b9d6f7408421483ff45e96a9a94d4&gs_lcrp=EgRlZGdlKgYIABBFGDkyBggAEEUYOTIGCAEQABhAMgYIAhAAGEAyBggDEAAYQDIGCAQQABhAMgYIBRAAGEAyBggGEAAYQDIGCAcQABhA0gEIMzU2NmowajeoAgCwAgA&FORM=ANSPA1&PC=U531
+
+[2025-07-22 17:52:23] (Edge) Search: شوتی بازی در بازی baam ng drive
+URL: https://www.bing.com/search?q=%D8%B4%D9%88%D8%AA%DB%8C+%D8%A8%D8%A7%D8%B2%DB%8C+%D8%AF%D8%B1+%D8%A8%D8%A7%D8%B2%DB%8C+baam+ng+drive&form=ANSPH1&refig=ff2a757e4bdb4b268455e0212e008015&pc=U531
+
+[2025-07-22 20:11:21] (Edge) Search: canva ai
+URL: https://www.bing.com/search?q=canva+ai&cvid=b7acc2daeee64cfaae502e7b93ac6f79&gs_lcrp=EgRlZGdlKgYIABBFGDkyBggAEEUYOdIBCDE1OTVqMGo3qAIIsAIB&FORM=ANNTA0&PC=U531
+
+[2025-07-22 21:29:41] (Edge) Search: canva ai
+URL: https://www.bing.com/search?q=canva+ai&cvid=b7acc2daeee64cfaae502e7b93ac6f79&gs_lcrp=EgRlZGdlKgYIABBFGDkyBggAEEUYOdIBCDE1OTVqMGo3qAIIsAIB&FORM=ANNTA0&PC=U531&ntref=1
+
+[2025-07-23 07:49:56] (Edge) Search: pc games
+URL: https://www.bing.com/search?q=pc+games&cvid=945761b994a44043a936f718753bc773&gs_lcrp=EgRlZGdlKgYIABBFGDkyBggAEEUYOTIGCAEQABhAMgYIAhAAGEAyBggDEAAYQDIGCAQQABhAMgYIBRAAGEAyBggGEAAYQDIGCAcQABhAMgYICBBFGDzSAQg1MTEyajBqN6gCALACAA&FORM=ANNTA0&PC=U531
+
+[2025-07-23 07:50:27] (Edge) Search: دانلود بازی call of duty modern warfare 3
+URL: https://www.bing.com/search?q=%d8%af%d8%a7%d9%86%d9%84%d9%88%d8%af+%d8%a8%d8%a7%d8%b2%db%8c+call+of+duty+modern+warfare+3&qs=RI&pq=%d8%af%d8%a7%d9%86%d9%84%d9%88%d8%af+%d8%a8%d8%a7%d8%b2%db%8c+call+modern&sc=12-23&cvid=57132B30D44E4A22BB56EBDFE173953B&FORM=QBRE&sp=1&lq=0&ajf=10
+
+[2025-07-23 07:50:43] (Edge) Search: دانلود بازی call of duty modern warfare 3
+URL: https://www.bing.com/search?q=%d8%af%d8%a7%d9%86%d9%84%d9%88%d8%af+%d8%a8%d8%a7%d8%b2%db%8c+call+of+duty+modern+warfare+3&qs=RI&pq=%d8%af%d8%a7%d9%86%d9%84%d9%88%d8%af+%d8%a8%d8%a7%d8%b2%db%8c+call+modern&sc=12-23&cvid=57132B30D44E4A22BB56EBDFE173953B&sp=1&lq=0&ajf=10&FPIG=1F5B5D9E21EC477C85F6575895A7319E&first=11&FORM=PERE
+
+[2025-07-23 07:51:09] (Edge) Search: دانلود بازی call of duty modern warfare 3 pc game
+URL: https://www.bing.com/search?q=%D8%AF%D8%A7%D9%86%D9%84%D9%88%D8%AF%20%D8%A8%D8%A7%D8%B2%DB%8C%20call%20of%20duty%20modern%20warfare%203%20pc%20game&qs=n&form=QBRE&sp=-1&lq=0&pq=%D8%AF%D8%A7%D9%86%D9%84%D9%88%D8%AF%20%D8%A8%D8%A7%D8%B2%DB%8C%20call%20of%20duty%20modern%20warfare%203%20pc%20game&sc=1-49&sk=&cvid=B7962D5137BC4040B2DCEAB1C029DD02
+
+[2025-07-23 07:51:52] (Edge) Search: دانلود بازی call of duty modern warfare 3 PC game
+URL: https://www.bing.com/search?q=%D8%AF%D8%A7%D9%86%D9%84%D9%88%D8%AF%20%D8%A8%D8%A7%D8%B2%DB%8C%20call%20of%20duty%20modern%20warfare%203%20PC%20game&qs=n&form=QBRE&sp=-1&lq=0&pq=%D8%AF%D8%A7%D9%86%D9%84%D9%88%D8%AF%20%D8%A8%D8%A7%D8%B2%DB%8C%20call%20of%20duty%20modern%20warfare%203%20pc%20game&sc=1-49&sk=&cvid=60A4ADB5405A41E3A7F7E7BF02501DA6
+
+[2025-07-23 07:52:52] (Edge) Search: سایت pc game
+URL: https://www.bing.com/search?q=%d8%b3%d8%a7%db%8c%d8%aa+pc+game&qs=UT&pq=%d8%b3%d8%a7%db%8c%d8%aa+pc&sc=12-7&cvid=AC7E220F53744CCB89C972291B2F30BD&FORM=QBRE&sp=1&lq=0
+
+[2025-07-23 07:54:08] (Edge) Search: www.PC game com
+URL: https://www.bing.com/search?q=www.PC+game+com&cvid=3820fc7463dd433f9ca477b37ccde169&gs_lcrp=EgRlZGdlKgYIABBFGDkyBggAEEUYOdIBCTI3NTE5ajBqOagCCLACAQ&FORM=ANAB01&PC=U531
+
+[2025-07-23 14:28:11] (Edge) Search: create your skin minecraft
+URL: https://www.bing.com/search?q=create+your+skin+minecraft&qs=UT&pq=create+your+skin&sc=9-16&cvid=2177A322FCD34D0EADD90BF0B93BE8ED&FORM=QBRE&sp=1&ghc=1&lq=0
+
+[2025-07-23 14:56:03] (Edge) Search: tlancher
+URL: https://www.bing.com/search?q=tlancher&form=ANNTH1&refig=575163e51104440bbbf76a24b81c8a46&pc=U531
+
+[2025-07-23 15:34:56] (Edge) Search: اموزش اوردن تفنگ در ماینکرافت
+URL: https://www.bing.com/search?q=%D8%A7%D9%85%D9%88%D8%B2%D8%B4+%D8%A7%D9%88%D8%B1%D8%AF%D9%86+%D8%AA%D9%81%D9%86%DA%AF+%D8%AF%D8%B1+%D9%85%D8%A7%DB%8C%D9%86%DA%A9%D8%B1%D8%A7%D9%81%D8%AA&form=ANSPH1&refig=5418d2789c7e41b1b24a73c1b950b261&pc=U531
+
+[2025-07-24 00:10:12] (Edge) Search: cyber one icon
+URL: https://www.bing.com/images/search?q=cyber+one+icon&FORM=HDRSC3
+
+[2025-07-24 00:10:13] (Edge) Search: cyber one icon
+URL: https://www.bing.com/images/search?q=cyber+one+icon&form=HDRSC3&first=1
+
+[2025-07-24 18:37:06] (Edge) Search: roblox
+URL: https://www.bing.com/search?q=roblox&form=ANSPH1&refig=7A43FE2CC19A430EA651E337BE31F9E5&pc=U531
+
+[2025-07-25 02:37:38] (Edge) Search: bmw 16k wallper
+URL: https://www.bing.com/images/search?q=bmw+16k+wallper&FORM=HDRSC3
+
+[2025-07-25 02:39:24] (Edge) Search: bmw 16k wallper
+URL: https://www.bing.com/images/search?q=bmw+16k+wallper&form=HDRSC3&first=1
+
+[2025-07-25 02:40:22] (Edge) Search: 3d wallper 8k bmw
+URL: https://www.bing.com/search?q=3d+wallper+8k+bmw&cvid=81befb73943048ea92cdce4f2c38c521&gs_lcrp=EgRlZGdlKgYIABBFGDkyBggAEEUYOTIGCAEQABhAMgYIAhAAGEDSAQgzMTY4ajBqNKgCCLACAQ&FORM=ANAB01&PC=U531
+
+[2025-07-25 02:40:23] (Edge) Search: 3d wallper 8k bmw
+URL: https://www.bing.com/images/search?q=3d+wallper+8k+bmw&FORM=HDRSC3
+
+[2025-07-25 02:42:21] (Edge) Search: 3d wallper 8k bmw
+URL: https://www.bing.com/images/search?q=3d+wallper+8k+bmw&form=HDRSC3&first=1
+
+[2025-07-25 03:16:08] (Edge) Search: 3d wallper 8k bmw
+URL: https://www.bing.com/search?q=3d+wallper+8k+bmw&cvid=81befb73943048ea92cdce4f2c38c521&gs_lcrp=EgRlZGdlKgYIABBFGDkyBggAEEUYOTIGCAEQABhAMgYIAhAAGEDSAQgzMTY4ajBqNKgCCLACAQ&FORM=ANAB01&PC=U531&ntref=1
+
+[2025-07-25 03:17:16] (Edge) Search: سال الان
+URL: https://www.bing.com/search?q=%D8%B3%D8%A7%D9%84+%D8%A7%D9%84%D8%A7%D9%86&cvid=273e31e520a046278a7c9b2a10604606&gs_lcrp=EgRlZGdlKgYIABBFGDkyBggAEEUYOTIGCAEQABhA0gEIMTU0MGowajeoAgCwAgA&FORM=ANNTA1&PC=U531
+
+[2025-07-25 03:32:38] (Edge) Search: سال الان
+URL: https://www.bing.com/search?q=%D8%B3%D8%A7%D9%84+%D8%A7%D9%84%D8%A7%D9%86&cvid=273e31e520a046278a7c9b2a10604606&gs_lcrp=EgRlZGdlKgYIABBFGDkyBggAEEUYOTIGCAEQABhA0gEIMTU0MGowajeoAgCwAgA&FORM=ANNTA1&PC=U531&ntref=1
+
+[2025-07-25 07:40:09] (Edge) Search: k
+URL: https://www.bing.com/search?q=k&form=ANSPH1&refig=688334d3fbe440909eef28a55e539fed&pc=U531
+
+[2025-07-25 07:40:28] (Edge) Search: roblox
+URL: https://www.bing.com/search?q=roblox&form=ANSPH1&refig=FACB157EEB7F49EEA7B8EE39F617CD59&pc=U531
+
+[2025-07-25 07:45:45] (Edge) Search: psiphon
+URL: https://www.bing.com/search?q=psiphon&filters=ufn%3a%22Psiphon%22+sid%3a%22f821ba0a-e807-02ac-7a93-344fceaa147f%22&asbe=SC&form=WNSGPH&qs=MB&cvid=aa9cb35c80ea48f49c4169fa240f3680&pq=phips&cc=IR&setlang=en-US&nclid=F0074BB049B5D78466E7CE6150CB12CB&ts=1753429544863&nclidts=1753429544&tsms=863&wsso=Moderate
+
+[2025-07-25 07:45:48] (Edge) Search: psiphon
+URL: https://www.bing.com/search?q=psiphon&filters=ufn%3a%22Psiphon%22+sid%3a%22f821ba0a-e807-02ac-7a93-344fceaa147f%22&asbe=SC&form=WNSGPH&qs=MB&cvid=aa9cb35c80ea48f49c4169fa240f3680&pq=phips&cc=IR&setlang=en-US&nclid=F0074BB049B5D78466E7CE6150CB12CB&ts=1753429544863&wsso=Moderate
+
+[2025-07-25 16:52:10] (Edge) Search: teknomw3 2.7.3.11 full download site:cs.rin.ru
+URL: https://www.bing.com/search?q=teknomw3+2.7.3.11+full+download+site%3Acs.rin.ru&cvid=b2652ab582ec473484fcacefb2b543c4&gs_lcrp=EgRlZGdlKgYIABBFGDkyBggAEEUYOdIBCTkwNjU4ajBqN6gCALACAA&FORM=ANNTA0&PC=U531
+
+[2025-07-25 16:52:33] (Edge) Search: teknomw3 2.7.3.11 full download site:cs.rin.ru
+URL: https://www.bing.com/search?q=teknomw3+2.7.3.11+full+download+site%3Acs.rin.ru&cvid=e3e4a940121c42fcb32d41863a782c95&gs_lcrp=EgRlZGdlKgYIABBFGDkyBggAEEUYOdIBCDUxNDNqMGo5qAIIsAIB&FORM=ANAB01&PC=U531
+
+[2025-07-25 22:30:39] (Edge) Search: shakespeare.txt
+URL: https://www.bing.com/search?q=shakespeare.txt&cvid=ce93e464b0c94c85ade507c464dbb297&gs_lcrp=EgRlZGdlKgYIABBFGDkyBggAEEUYOdIBBzE5OWowajeoAgCwAgA&FORM=ANNTA1&PC=U531
+
+[2025-07-25 22:39:48] (Edge) Search: english voicec hyman
+URL: https://www.bing.com/search?q=english+voicec+hyman&cvid=72fb9b34f7c54623840690d4f6cda7e3&gs_lcrp=EgRlZGdlKgYIABBFGDkyBggAEEUYOTIGCAEQABhAMgYIAhAAGEAyBggDEAAYQDIGCAQQABhAMgYIBRAAGEAyBggGEAAYQNIBCTEwMDQ2ajBqNKgCCLACAQ&FORM=ANAB01&PC=U531
+
+[2025-07-25 22:42:10] (Edge) Search: english voicec human download
+URL: https://www.bing.com/search?q=english%20voicec%20human%20download&qs=n&form=QBRE&sp=-1&lq=0&pq=english%20voicec%20human%20down&sc=12-25&sk=&cvid=D127FC7AA29E4541B23651840AFDE465
+
+[2025-07-25 22:49:29] (Edge) Search: shakespeare.txt
+URL: https://www.bing.com/search?q=shakespeare.txt&cvid=ce93e464b0c94c85ade507c464dbb297&gs_lcrp=EgRlZGdlKgYIABBFGDkyBggAEEUYOdIBBzE5OWowajeoAgCwAgA&FORM=ANNTA1&PC=U531&ntref=1
+
+[2025-07-26 01:56:09] (Edge) Search: اپارات
+URL: https://www.bing.com/search?q=%D8%A7%D9%BE%D8%A7%D8%B1%D8%A7%D8%AA&qs=ds&form=QBRE
+
+[2025-07-26 17:56:17] (Edge) Search: girl image insta
+URL: https://www.bing.com/search?q=girl+image+insta&qs=n&form=QBRE&sp=-1&lq=0&pq=girl+image+in&sc=12-13&sk=&cvid=7DA9FBDAD80E4794A30D838A5241C7BC
+
+[2025-07-26 17:56:17] (Edge) Search: girl image insta
+URL: https://www.bing.com/images/search?q=girl+image+insta&FORM=HDRSC3
+
+[2025-07-26 17:56:19] (Edge) Search: girl image insta
+URL: https://www.bing.com/images/search?q=girl+image+insta&form=HDRSC3&first=1
+
+[2025-07-26 17:56:32] (Edge) Search: girl boy just freind insta image
+URL: https://www.bing.com/images/search?q=girl%20boy%20just%20freind%20insta%20image&qs=n&form=QBIR&sp=-1&lq=0&pq=girl%20boy%20just%20freind%20insta%20i&sc=0-28&sk=&cvid=36F53E1C80EE4476970D44464702D442
+
+[2025-07-26 17:56:55] (Edge) Search: girl boy just freind insta image
+URL: https://www.bing.com/images/search?q=girl%20boy%20just%20freind%20insta%20image&qs=n&form=QBIR&sp=-1&lq=0&pq=girl%20boy%20just%20freind%20insta%20i&sc=0-28&cvid=36F53E1C80EE4476970D44464702D442&first=1
+
+[2025-07-26 18:26:55] (Edge) Search: girl image insta
+URL: https://www.bing.com/search?q=girl+image+insta&qs=n&form=QBRE&sp=-1&lq=0&pq=girl+image+in&sc=12-13&sk=&cvid=7DA9FBDAD80E4794A30D838A5241C7BC&ntref=1
+
+[2025-07-26 20:17:56] (Edge) Search: repo:AUX-441/Userlvel5anonymous-Toolkit-Windows-ETH topic
+URL: https://github.com/search?q=repo%3AAUX-441%2FUserlvel5anonymous-Toolkit-Windows-ETH%20topic&type=code
+
+[2025-07-26 20:39:48] (Edge) Search: instagram-Phishing-Page github
+URL: https://www.bing.com/search?q=instagram-Phishing-Page+github&cvid=03be6e48413b47bba5d017778f7d0427&gs_lcrp=EgRlZGdlKgYIABBFGDkyBggAEEUYOTIGCAEQABhAMgYIAhBFGDwyBggDEEUYPDIGCAQQRRg80gEJMTQ0MjNqMGo0qAIIsAIB&FORM=ANAB01&PC=U531
+
+[2025-07-26 20:52:27] (Edge) Search: instagram phishing page github 
+URL: https://www.bing.com/search?q=instagram%20phishing%20page%20github%20&qs=n&form=QBRE&sp=-1&lq=0&pq=instagram%20phishing%20page%20github%20&sc=12-31&sk=&cvid=C7303DF754AE49FD9418C10037A3FB7C
+
+[2025-07-26 20:52:54] (Edge) Search: instagram phishing page AUX-441
+URL: https://www.bing.com/search?q=instagram%20phishing%20page%20AUX-441&qs=n&form=QBRE&sp=-1&lq=0&pq=instagram%20phishing%20page%20%20aux-441&sc=3-32&sk=&cvid=8C15984E580245619273AF34C6122009
+
+[2025-07-26 21:13:02] (Edge) Search: github RDP_Connection AUx441
+URL: https://www.bing.com/search?q=github%20RDP_Connection%20AUx441&qs=n&form=QBRE&sp=-1&ghc=1&lq=0&pq=github%20rdp_connection%20aux44&sc=0-27&sk=&cvid=A4689ADCB51444F4931A99BC3B7CCDC4
+
+[2025-07-26 21:13:08] (Edge) Search: github RDP_Connection A
+URL: https://www.bing.com/search?q=github%20RDP_Connection%20A&qs=n&form=QBRE&sp=-1&lq=0&pq=github%20rdp_connection%20aux441&sc=4-28&sk=&cvid=0599A9999CC04F62BAF7BA3FA991AA36
+
+[2025-07-26 21:13:12] (Edge) Search: github RDP_Connection Aux
+URL: https://www.bing.com/search?q=github%20RDP_Connection%20Aux&qs=n&form=QBRE&sp=-1&lq=0&pq=github%20rdp_connection%20a&sc=18-23&sk=&cvid=CC9CD8FC31FA4E1793EB4213C4025D2F
+
+[2025-07-27 00:16:04] (Edge) Search: aux github
+URL: https://www.bing.com/search?q=aux+github&cvid=3272271478af4d13bb39cdd3d22408ad&gs_lcrp=EgRlZGdlKgYIABBFGDkyBggAEEUYOTIGCAEQABhAMgYIAhAAGEAyBggDEAAYQDIGCAQQABhAMgYIBRAAGEAyBggGEEUYPDIGCAcQRRg8MgYICBBFGDzSAQg0ODk1ajBqNKgCCLACAQ&FORM=ANAB01&PC=U531
+
+[2025-07-27 00:17:19] (Edge) Search: aux-44 github
+URL: https://www.bing.com/search?q=aux-44%20github&qs=n&form=QBRE&sp=-1&lq=0&pq=aux-4%20github&sc=10-12&sk=&cvid=29F926B0B47B42DD97BA1E83C5C50AE4
+
+[2025-07-27 00:42:32] (Edge) Search: aux-44 github
+URL: https://www.bing.com/search?q=aux-44%20github&qs=n&form=QBRE&sp=-1&lq=0&pq=aux-4%20github&sc=10-12&sk=&cvid=29F926B0B47B42DD97BA1E83C5C50AE4&ntref=1
+
+[2025-07-27 00:53:59] (Edge) Search: Toolkit manager ethcial hacking github
+URL: https://www.bing.com/search?q=Toolkit%20manager%20ethcial%20hacking%20github&qs=n&form=QBRE&sp=-1&lq=0&pq=toolkit%20manager%20ethcial%20hacking%20g&sc=11-33&sk=&cvid=01FEF55BB82247F8A2E37D98CEFE8ECA
+
+[2025-07-27 01:03:12] (Edge) Search: Youtube Donwloader github
+URL: https://www.bing.com/search?q=Youtube%20Donwloader%20github&qs=n&form=QBRE&sp=-1&ghc=1&lq=0&pq=youtube%20donwloader%20gith&sc=12-23&sk=&cvid=AE5E3C4C442C46FB852F088B250EF700
+
+[2025-07-27 01:03:26] (Edge) Search: Youtube Donwloader github
+URL: https://www.bing.com/search?q=Youtube+Donwloader+github&qs=n&sp=-1&ghc=1&lq=0&pq=youtube+donwloader+gith&sc=12-23&sk=&cvid=AE5E3C4C442C46FB852F088B250EF700&FPIG=C474261101724790A2155D27142C19DD&first=11&FORM=PERE
+
+[2025-07-27 01:03:34] (Edge) Search: Youtube Donwloader github
+URL: https://www.bing.com/search?q=Youtube+Donwloader+github&qs=n&sp=-1&ghc=1&lq=0&pq=youtube+donwloader+gith&sc=12-23&sk=&cvid=AE5E3C4C442C46FB852F088B250EF700&FPIG=C474261101724790A2155D27142C19DD&first=21&FORM=PERE1
+
+[2025-07-27 01:03:46] (Edge) Search: Youtube Donwloader github
+URL: https://www.bing.com/search?q=Youtube+Donwloader+github&qs=n&sp=-1&ghc=1&lq=0&pq=youtube+donwloader+gith&sc=12-23&sk=&cvid=AE5E3C4C442C46FB852F088B250EF700&FPIG=C474261101724790A2155D27142C19DD&first=1&FORM=PERE
+
+[2025-07-27 01:03:53] (Edge) Search: Youtube Donwloader github aux
+URL: https://www.bing.com/search?q=Youtube%20Donwloader%20github%20aux&qs=n&form=QBRE&sp=-1&lq=0&pq=youtube%20donwloader%20github%20a&sc=12-27&sk=&cvid=6759C7DBC58E40B29CDFE7B9E24CE75C
+
+[2025-07-27 01:16:28] (Edge) Search: Youtube Donwloader github aux
+URL: https://www.bing.com/search?q=Youtube%20Donwloader%20github%20aux&qs=n&form=QBRE&sp=-1&lq=0&pq=youtube%20donwloader%20github%20a&sc=12-27&sk=&cvid=6759C7DBC58E40B29CDFE7B9E24CE75C&ntref=1
+
+[2025-07-28 02:06:26] (Edge) Search: mp4 videos english talking downlaod
+URL: https://www.bing.com/search?q=mp4%20videos%20english%20talking%20downlaod&qs=n&form=QBRE&sp=-1&ghc=1&lq=0&pq=mp4%20videos%20english%20talking%20downlao&sc=12-34&sk=&cvid=BEC62DC43DCC44BDAED67B33D80AFD60
+
+[2025-07-28 02:07:15] (Edge) Search: اهنگ خارجی اپارات
+URL: https://www.bing.com/search?q=%D8%A7%D9%87%D9%86%DA%AF%20%D8%AE%D8%A7%D8%B1%D8%AC%DB%8C%20%D8%A7%D9%BE%D8%A7%D8%B1%D8%A7%D8%AA&qs=n&form=QBRE&sp=-1&lq=0&pq=%D8%A7%D9%87%D9%86%DA%AF%20%D8%AE%D8%A7%D8%B1%D8%AC%DB%8C%20%D8%A7%D9%BE%D8%A7%D8%B1%D8%A7&sc=0-16&sk=&cvid=D7BF2773A6CC49D8B00708657C5C45F5
+
+[2025-07-28 02:09:31] (Edge) Search: حرف زدن انگلیسی اپارات
+URL: https://www.bing.com/search?q=%D8%AD%D8%B1%D9%81+%D8%B2%D8%AF%D9%86+%D8%A7%D9%86%DA%AF%D9%84%DB%8C%D8%B3%DB%8C+%D8%A7%D9%BE%D8%A7%D8%B1%D8%A7%D8%AA&cvid=ee5db9503cac4f898ce80778ce7d73c5&gs_lcrp=EgRlZGdlKgYIABBFGDkyBggAEEUYOTIGCAEQABhAMgYIAhAAGEAyBggDEAAYQDIGCAQQABhAMgYIBRAAGEAyBggGEAAYQDIGCAcQABhAMgYICBAAGEDSAQg0ODc5ajBqNKgCCLACAQ&FORM=ANAB01&PC=U531
+
+[2025-07-28 02:08:03] (Edge) Search: حرف زدن انگلیسی اپارات
+URL: https://www.bing.com/videos/search?q=%d8%ad%d8%b1%d9%81+%d8%b2%d8%af%d9%86+%d8%a7%d9%86%da%af%d9%84%db%8c%d8%b3%db%8c+%d8%a7%d9%be%d8%a7%d8%b1%d8%a7%d8%aa&qpvt=%d8%ad%d8%b1%d9%81+%d8%b2%d8%af%d9%86+%d8%a7%d9%86%da%af%d9%84%db%8c%d8%b3%db%8c+%d8%a7%d9%be%d8%a7%d8%b1%d8%a7%d8%aa&FORM=VDRE
+
+[2025-07-28 02:25:08] (Edge) Search: divar
+URL: https://www.bing.com/search?q=divar&qs=n&form=QBRE&sp=-1&ghc=1&lq=0&pq=div&sc=12-3&sk=&cvid=68B00C60CE0B4C66ADCD3AC5F96EFD19
+
+[2025-07-28 02:25:09] (Edge) Search: حرف زدن انگلیسی اپارات
+URL: https://www.bing.com/search?q=%D8%AD%D8%B1%D9%81+%D8%B2%D8%AF%D9%86+%D8%A7%D9%86%DA%AF%D9%84%DB%8C%D8%B3%DB%8C+%D8%A7%D9%BE%D8%A7%D8%B1%D8%A7%D8%AA&cvid=ee5db9503cac4f898ce80778ce7d73c5&gs_lcrp=EgRlZGdlKgYIABBFGDkyBggAEEUYOTIGCAEQABhAMgYIAhAAGEAyBggDEAAYQDIGCAQQABhAMgYIBRAAGEAyBggGEAAYQDIGCAcQABhAMgYICBAAGEDSAQg0ODc5ajBqNKgCCLACAQ&FORM=ANAB01&PC=U531&ntref=1
+
+[2025-07-28 02:25:11] (Edge) Search: اهنگ خارجی اپارات
+URL: https://www.bing.com/search?q=%D8%A7%D9%87%D9%86%DA%AF%20%D8%AE%D8%A7%D8%B1%D8%AC%DB%8C%20%D8%A7%D9%BE%D8%A7%D8%B1%D8%A7%D8%AA&qs=n&form=QBRE&sp=-1&lq=0&pq=%D8%A7%D9%87%D9%86%DA%AF%20%D8%AE%D8%A7%D8%B1%D8%AC%DB%8C%20%D8%A7%D9%BE%D8%A7%D8%B1%D8%A7&sc=0-16&sk=&cvid=D7BF2773A6CC49D8B00708657C5C45F5&ntref=1
+
+[2025-07-28 04:46:54] (Edge) Search: bloody mean
+URL: https://www.bing.com/images/search?q=bloody+mean&FORM=HDRSC3
+
+[2025-07-28 04:46:55] (Edge) Search: bloody mean
+URL: https://www.bing.com/images/search?q=bloody+mean&form=HDRSC3&first=1
+
+[2025-07-28 04:46:59] (Edge) Search: bloody mean
+URL: https://www.bing.com/search?q=bloody+mean&FORM=HDRSC1
+
+[2025-07-28 04:47:21] (Edge) Search: divar
+URL: https://www.bing.com/search?q=divar&qs=n&form=QBRE&sp=-1&ghc=1&lq=0&pq=div&sc=12-3&sk=&cvid=68B00C60CE0B4C66ADCD3AC5F96EFD19&ntref=1
+
+[2025-07-28 09:53:36] (Edge) Search: دانلود فیلتر شکن لیمو برای کامپیوتر
+URL: https://www.bing.com/search?q=%D8%AF%D8%A7%D9%86%D9%84%D9%88%D8%AF+%D9%81%DB%8C%D9%84%D8%AA%D8%B1+%D8%B4%DA%A9%D9%86+%D9%84%DB%8C%D9%85%D9%88+%D8%A8%D8%B1%D8%A7%DB%8C+%DA%A9%D8%A7%D9%85%D9%BE%DB%8C%D9%88%D8%AA%D8%B1&form=ANSPH1&refig=B0C5506BD518401583B31BDD25E1E30E&pc=U531
+
+[2025-07-29 01:43:31] (Edge) Search: فیلیمو
+URL: https://www.bing.com/search?q=%D9%81%DB%8C%D9%84%DB%8C%D9%85%D9%88&cvid=0856def5424645cc847dfa69b4cdbaa5&gs_lcrp=EgRlZGdlKgkIABBFGDsY-QcyCQgAEEUYOxj5BzIGCAEQABhAMgYIAhBFGDsyBggDEEUYOzIGCAQQRRg5MgYIBRAAGEAyBggGEEUYPTIGCAcQRRg9MgYICBBFGD3SAQgxODk1ajBqN6gCALACAA&FORM=ANNTA1&PC=U531
+
+[2025-07-30 11:30:24] (Edge) Search: admin login
+URL: https://www.bing.com/search?q=admin+login&cvid=7a3600bcfaa144e38dfafe48e0e2529d&gs_lcrp=EgRlZGdlKgYIABBFGDkyBggAEEUYOdIBCDIwNzJqMGoxqAIIsAIB&FORM=ANAB01&PC=U531
+
+[2025-07-30 11:30:56] (Edge) Search: admin login 192.168.1.1
+URL: https://www.bing.com/search?q=admin+login+192.168.1.1&qs=MT&pq=admin+login+192&sc=12-15&cvid=48B5FC8D5C7346A6B64833F90593B1E0&FORM=QBRE&sp=1&ghc=1&lq=0
+
+[2025-07-30 11:32:52] (Edge) Search: admin login ایرانسل
+URL: https://www.bing.com/search?q=admin%20login%20%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%D8%B3%D9%84&qs=n&form=QBRE&sp=-1&lq=0&pq=admin%20login%20%D8%A7%DB%8C%D8%B1&sc=4-15&sk=&cvid=0F180B37A96040D4AECEE39150E46D57
+
+[2025-07-30 12:05:10] (Edge) Search: admin login ایرانسل
+URL: https://www.bing.com/search?q=admin%20login%20%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%D8%B3%D9%84&qs=n&form=QBRE&sp=-1&lq=0&pq=admin%20login%20%D8%A7%DB%8C%D8%B1&sc=4-15&sk=&cvid=0F180B37A96040D4AECEE39150E46D57&ntref=1
+
+[2025-07-30 14:09:21] (Edge) Search: ارنا بریک اوت
+URL: https://www.bing.com/search?q=%D8%A7%D8%B1%D9%86%D8%A7+%D8%A8%D8%B1%DB%8C%DA%A9+%D8%A7%D9%88%D8%AA&form=ANSPH1&refig=3579A4778EB1480C8BE8D877C8E12EA2&pc=U531
+
+[2025-07-30 14:09:44] (Edge) Search: youtube
+URL: https://www.bing.com/search?q=youtube&filters=ufn%3a%22YouTube%22+sid%3a%224fe14df6-d63f-93e5-3032-b0e7050bca8c%22&asbe=HS&qs=MB&pq=y&sc=12-1&cvid=F832CFDA6E8E428BB474D33C5AC8AB7F&FORM=QBRE&sp=1&ghc=1&lq=0
+
+[2025-07-30 14:30:42] (Edge) Search: youtube
+URL: https://www.bing.com/search?q=youtube&filters=ufn%3a%22YouTube%22+sid%3a%224fe14df6-d63f-93e5-3032-b0e7050bca8c%22&asbe=HS&qs=MB&pq=y&sc=12-1&cvid=F832CFDA6E8E428BB474D33C5AC8AB7F&FORM=QBRE&sp=1&ghc=1&lq=0&ntref=1
+
+[2025-07-30 18:18:37] (Edge) Search: submind logo
+URL: https://www.bing.com/search?q=submind%20logo&qs=n&form=QBRE&sp=-1&ghc=1&lq=0&pq=submind%20lo&sc=12-10&sk=&cvid=161F1A7C2C5545AB8158F7B5761C36F9
+
+[2025-07-30 18:18:38] (Edge) Search: submind logo
+URL: https://www.bing.com/images/search?q=submind+logo&FORM=HDRSC3
+
+[2025-07-30 18:18:40] (Edge) Search: submind logo
+URL: https://www.bing.com/images/search?q=submind+logo&form=HDRSC3&first=1
+
+[2025-07-31 21:56:51] (Edge) Search: colab
+URL: https://www.bing.com/search?q=colab&cvid=df8596f991d74418a0dbab8dac5f0a5f&gs_lcrp=EgRlZGdlKgYIABBFGDsyBggAEEUYO9IBBzU2MGowajmoAgiwAgE&FORM=ANAB01&PC=U531
+
+[2025-08-01 16:24:31] (Edge) Search: 123
+URL: https://www.bing.com/search?q=123&cvid=c667c918141946a1a5cb2086463d3a43&gs_lcrp=EgRlZGdlKgYIABBFGDkyBggAEEUYOTIJCAEQRRg8GPkHMgYIAhBFGDzSAQcyNjNqMGo0qAIIsAIB&FORM=ANAB01&PC=U531
+
+[2025-08-03 03:41:30] (Edge) Search: دانلدو x64dbg
+URL: https://www.bing.com/search?q=%D8%AF%D8%A7%D9%86%D9%84%D8%AF%D9%88+x64dbg&cvid=3579b4aa21f54a6aafafdf8bc1246c23&gs_lcrp=EgRlZGdlKgYIABBFGDkyBggAEEUYOTIGCAEQABhAMgYIAhAAGEAyBggDEAAYQDIGCAQQABhAMgYIBRAAGEAyBggGEAAYQDIGCAcQABhAMgYICBAAGEDSAQgyMTY3ajBqNKgCALACAA&FORM=ANAB01&PC=U531
+
+[2025-08-03 20:45:37] (Edge) Search: هوش مصنوعی سرکر
+URL: https://www.bing.com/search?q=%D9%87%D9%88%D8%B4%20%D9%85%D8%B5%D9%86%D9%88%D8%B9%DB%8C%20%D8%B3%D8%B1%DA%A9%D8%B1&qs=n&form=QBRE&sp=-1&lq=0&pq=%D9%87%D9%88%D8%B4%20%D9%85%D8%B5%D9%86%D9%88%D8%B9%DB%8C%20%D8%B3%D8%B1%DA%A9%D8%B1&sc=0-15&sk=&cvid=EC839811474B45E79C0C265903B93A23
+
+[2025-08-03 20:46:28] (Edge) Search: seeker ai
+URL: https://www.bing.com/search?q=seeker+ai&cvid=3cf7fcf5b1ea487987bb876a06464fa2&gs_lcrp=EgRlZGdlKgYIABBFGDkyBggAEEUYOdIBCDE1OTFqMGo5qAIIsAIB&FORM=ANAB01&PC=U531
+
+[2025-08-04 20:57:58] (Edge) Search: edit image ai
+URL: https://www.bing.com/search?q=edit+image+ai&cvid=c78a912452724246b2adb8136376f780&gs_lcrp=EgRlZGdlKgYIABBFGDkyBggAEEUYOTIGCAEQABhAMgYIAhAAGEAyBggDEAAYQDIGCAQQABhAMgYIBRAAGEAyBggGEAAYQDIGCAcQABhA0gEIMzUwM2owajSoAgiwAgE&FORM=ANAB01&PC=U531
+
+[2025-08-05 04:14:38] (Edge) Search: email
+URL: https://www.bing.com/search?q=email&cvid=f875c5c84556458a9d789437e330a7ec&gs_lcrp=EgRlZGdlKgYIABBFGDkyBggAEEUYOTIGCAEQRRg7MgYIAhAAGEAyBggDEAAYQDIGCAQQABhAMgYIBRBFGDwyBggGEEUYPDIGCAcQRRg8MgYICBAFGEDSAQgxNzI2ajBqOagCCLACAQ&FORM=ANAB01&PC=U531
+
+[2025-08-05 22:04:25] (Edge) Search: داعم
+URL: https://www.bing.com/search?q=%D8%AF%D8%A7%D8%B9%D9%85&qs=n&form=QBRE&sp=-1&lq=0&pq=%D8%AF%D8%A7%D8%B9&sc=12-3&sk=&cvid=F13B45BB4E424B82894C2171D4F58199
+
+[2025-08-05 22:34:26] (Edge) Search: Ethcia
+URL: https://www.bing.com/search?q=Ethcia&qs=n&form=QBRE&sp=-1&lq=0&pq=ethcia&sc=12-6&sk=&cvid=B18F95AD3D4F43F285F13E4252D77148
+
+[2025-08-05 22:34:30] (Edge) Search: Ethcial
+URL: https://www.bing.com/search?q=Ethcial&qs=n&form=QBRE&sp=-1&lq=0&pq=ethcia&sc=15-6&sk=&cvid=DF1AC2E100E64425875E358DCB51558A
+
+[2025-08-05 22:42:47] (Edge) Search: به اضای
+URL: https://www.bing.com/search?q=%D8%A8%D9%87%20%D8%A7%D8%B6%D8%A7%DB%8C&qs=n&form=QBRE&sp=-1&lq=0&pq=ethcial&sc=15-7&sk=&cvid=C95509F51CD443A3AC139A168C527C5D
+
+[2025-08-05 22:44:21] (Edge) Search: نمیفرستیم
+URL: https://www.bing.com/search?q=%D9%86%D9%85%DB%8C%D9%81%D8%B1%D8%B3%D8%AA%DB%8C%D9%85&qs=n&form=QBRE&sp=-1&lq=0&pq=%D8%A8%D9%87%20%D8%A7%D8%B6%D8%A7%DB%8C&sc=4-7&sk=&cvid=0C9E901B9AF84FE48E46C63AB425A943
+
+[2025-08-05 22:48:20] (Edge) Search: ZeroTrace image
+URL: https://www.bing.com/images/search?q=ZeroTrace+image&FORM=HDRSC3
+
+[2025-08-05 22:48:23] (Edge) Search: ZeroTrace image
+URL: https://www.bing.com/images/search?q=ZeroTrace+image&form=HDRSC3&first=1
+
+[2025-08-05 22:48:23] (Edge) Search: ZeroTrace image hacj
+URL: https://www.bing.com/images/search?q=ZeroTrace+image+hacj&go=Search&qs=ds&form=QBIR
+
+[2025-08-05 22:48:25] (Edge) Search: ZeroTrace image hacj
+URL: https://www.bing.com/images/search?q=ZeroTrace+image+hacj&go=Search&qs=ds&form=QBIR&first=1
+
+[2025-08-05 22:48:29] (Edge) Search: ZeroTrace logo
+URL: https://www.bing.com/images/search?q=ZeroTrace%20logo&qs=n&form=QBIR&sp=-1&lq=0&pq=zerotrace%20lo&sc=10-12&sk=&cvid=CAFD0106844E4F1C98ED72FC5129A3D7
+
+[2025-08-05 22:48:29] (Edge) Search: ZeroTrace logo
+URL: https://www.bing.com/images/search?q=ZeroTrace%20logo&qs=n&form=QBIR&sp=-1&lq=0&pq=zerotrace%20lo&sc=10-12&cvid=CAFD0106844E4F1C98ED72FC5129A3D7&first=1
+
+[2025-08-06 00:00:34] (Edge) Search: kali linux for windows
+URL: https://www.bing.com/search?q=kali%20linux%20for%20windows&qs=n&form=QBRE&sp=-1&ghc=1&lq=0&pq=kali%20linux%20for%20wind&sc=12-19&sk=&cvid=F0DB7BDDAF7545F490AE86A43A9E5AC3
+
+[2025-08-06 01:06:42] (Edge) Search: فیلیمو
+URL: https://www.bing.com/search?q=%D9%81%DB%8C%D9%84%DB%8C%D9%85%D9%88&cvid=48197ecd9a9a40c1a1337df13b4a82cb&gs_lcrp=EgRlZGdlKgYIABBFGDsyBggAEEUYOzIGCAEQRRg7MgYIAhBFGDsyBggDEEUYPTIGCAQQRRg9MgYIBRBFGD3SAQgxNjU1ajBqOagCCLACAQ&FORM=ANAB01&PC=U531
+
+[2025-08-06 16:39:52] (Edge) Search: لخی حهدل
+URL: https://www.bing.com/search?q=%D9%84%D8%AE%DB%8C+%D8%AD%D9%87%D8%AF%D9%84&form=ANNTH1&refig=6893811a28674331afd3b65457984617&pc=U531
+
+[2025-08-06 20:15:07] (Edge) Search: توسعه دهنده
+URL: https://www.bing.com/search?q=%D8%AA%D9%88%D8%B3%D8%B9%D9%87+%D8%AF%D9%87%D9%86%D8%AF%D9%87&cvid=4fab7ebaeb7342fcba630cc2540e5127&gs_lcrp=EgRlZGdlKgYIABBFGDkyBggAEEUYOdIBBzE5MWowajmoAgiwAgE&FORM=ANAB01&PC=U531
+
+[2025-08-08 01:01:28] (Edge) Search: فیلم روبوکاپ فیلیمئ
+URL: https://www.bing.com/search?q=%D9%81%DB%8C%D9%84%D9%85%20%D8%B1%D9%88%D8%A8%D9%88%DA%A9%D8%A7%D9%BE%20%D9%81%DB%8C%D9%84%DB%8C%D9%85%D8%A6&qs=n&form=QBRE&sp=-1&lq=0&pq=%D9%81%DB%8C%D9%84%D9%85%20%D8%B1%D9%88%D8%A8%D9%88%DA%A9%D8%A7%D9%BE%20%D9%81%DB%8C%D9%84%DB%8C%D9%85%D8%A6&sc=0-19&sk=&cvid=AEE19F3BAF6D474B93753C8804C78FF4
+
+[2025-08-08 01:24:43] (Edge) Search: 4k porn family Diary
+URL: https://www.bing.com/images/search?q=4k+porn+family+Diary&FORM=HDRSC3
+
+[2025-08-08 01:24:45] (Edge) Search: 4k porn family Diary
+URL: https://www.bing.com/images/search?q=4k+porn+family+Diary&form=HDRSC3&first=1
+
+[2025-08-08 01:25:05] (Edge) Search: 4k porn family Diary xxx
+URL: https://www.bing.com/images/search?q=4k%20porn%20family%20Diary%20xxx&qs=n&form=QBIRMH&sp=-1&lq=0&pq=4k%20porn%20family%20diary%20xx&sc=0-23&sk=&cvid=C19882C0A59E4E82829A99DBE77FAD4D
+
+[2025-08-08 01:25:18] (Edge) Search: 4k porn family  xxx
+URL: https://www.bing.com/images/search?q=4k%20porn%20family%20%20xxx&qs=n&form=QBIRMH&sp=-1&lq=0&pq=4k%20porn%20family%20d%20xxx&sc=0-20&sk=&cvid=0C3CD3064FEC4090BA4C7288836B3717
+
+[2025-08-08 01:26:08] (Edge) Search: long movie 4k xxx
+URL: https://www.bing.com/images/search?q=long%20movie%204k%20xxx&qs=n&form=QBIRMH&sp=-1&lq=0&pq=long%20movie%204k%20&sc=10-14&sk=&cvid=02CE8876CDFF48039591F94AD9D0D174
+
+[2025-08-08 01:31:15] (Edge) Search: long stories fuck
+URL: https://www.bing.com/images/search?q=long+stories+fuck&FORM=HDRSC3
+
+[2025-08-08 01:31:16] (Edge) Search: long stories fuck
+URL: https://www.bing.com/images/search?q=long+stories+fuck&form=HDRSC3&first=1
+
+[2025-08-08 01:31:39] (Edge) Search: long stories fuck hard
+URL: https://www.bing.com/images/search?q=long+stories+fuck+hard&qs=n&form=QBIR&sp=-1&lq=0&pq=long+stories+fuck+ha&sc=0-20&sk=&cvid=6587346D02934B4C9369B58284C754BF
+
+[2025-08-08 01:31:40] (Edge) Search: long stories fuck hard
+URL: https://www.bing.com/images/search?q=long+stories+fuck+hard&qs=n&form=QBIR&sp=-1&lq=0&pq=long+stories+fuck+ha&sc=0-20&cvid=6587346D02934B4C9369B58284C754BF&first=1
+
+[2025-08-08 01:33:19] (Edge) Search: step sister anal fuck
+URL: https://www.bing.com/images/search?q=step+sister+anal+fuck&FORM=HDRSC3
+
+[2025-08-08 01:33:21] (Edge) Search: step sister anal fuck
+URL: https://www.bing.com/images/search?q=step+sister+anal+fuck&form=HDRSC3&first=1
+
+[2025-08-08 01:33:22] (Edge) Search: step sister anal fuck xxx
+URL: https://www.bing.com/images/search?q=step+sister+anal+fuck+xxx&qs=n&form=QBIR&sp=-1&lq=0&pq=step+sister+anal+fuck+x&sc=0-23&sk=&cvid=AB67E3BE18D84B9BB67AA3A4B8BCDB73
+
+[2025-08-08 01:33:23] (Edge) Search: step sister anal fuck xxx
+URL: https://www.bing.com/images/search?q=step+sister+anal+fuck+xxx&qs=n&form=QBIR&sp=-1&lq=0&pq=step+sister+anal+fuck+x&sc=0-23&cvid=AB67E3BE18D84B9BB67AA3A4B8BCDB73&first=1
+
+[2025-08-08 03:35:07] (Edge) Search: nepali is indonisia?
+URL: https://www.bing.com/search?q=nepali%20is%20indonisia%3F&qs=n&form=QBRE&sp=-1&ghc=1&lq=0&pq=nepali%20is%20indonisia&sc=1-19&sk=&cvid=EC4B8E1643C44C5B801C63EC4054F828
+
+[2025-08-08 03:35:08] (Edge) Search: nepali is indonesian?
+URL: https://www.bing.com/search?q=nepali+is+indonesian%3f&FORM=AWRE
+
+[2025-08-08 03:35:39] (Edge) Search: Interlingue
+URL: https://www.bing.com/search?q=Interlingue&cvid=602b46263e8745d1bfbcbb3ce5b30ebe&gs_lcrp=EgRlZGdlKgYIABBFGDkyBggAEEUYOdIBBzE1OWowajmoAgiwAgE&FORM=ANAB01&PC=U531
+
+[2025-08-08 04:06:15] (Edge) Search: d.tmpfile
+URL: https://www.bing.com/search?q=d.tmpfile&cvid=8beab578149046de973871b33d09a271&gs_lcrp=EgRlZGdlKgYIABBFGDkyBggAEEUYOdIBBzE1OWowajSoAgiwAgE&FORM=ANAB01&PC=U531
+
+[2025-08-08 22:04:30] (Edge) Search: Language detector AUX-441
+URL: https://www.bing.com/search?q=Language+detector+AUX-441&qs=n&form=QBRE&sp=-1&lq=0&pq=language+detector+aux&sc=18-21&sk=&cvid=591FD2CABD884AD9B36B2381C39F1610
+
+[2025-08-08 22:52:10] (Edge) Search: cat funny
+URL: https://www.bing.com/search?q=cat+funny&cvid=620dbba2fbfb4e38be5670effe13423e&gs_lcrp=EgRlZGdlKgYIABBFGDkyBggAEEUYOdIBCDExNjZqMGo5qAIIsAIB&FORM=ANAB01&PC=U531
+
+[2025-08-08 22:52:20] (Edge) Search: cat funny with glasses
+URL: https://www.bing.com/search?q=cat+funny+with+glasses&qs=n&form=QBRE&sp=-1&ghc=1&lq=0&pq=cat+funny+with+glass&sc=12-20&sk=&cvid=121D90EFDEA54E7DA71CE51004A396AF
+
+[2025-08-08 22:52:22] (Edge) Search: cat funny with glasses
+URL: https://www.bing.com/images/search?q=cat+funny+with+glasses&FORM=HDRSC3
+
+[2025-08-08 22:52:27] (Edge) Search: cat funny with glasses
+URL: https://www.bing.com/images/search?q=cat+funny+with+glasses&form=HDRSC3&first=1
+
+[2025-08-08 22:52:41] (Edge) Search: Funny Cat Profile Pictures Glasses
+URL: https://www.bing.com/images/search?q=Funny+Cat+Profile+Pictures+Glasses&FORM=IRTRRL
+
+[2025-08-08 22:52:41] (Edge) Search: Funny Cat Profile Pictures Glasses
+URL: https://www.bing.com/images/search?q=Funny+Cat+Profile+Pictures+Glasses&form=IRTRRL&first=1
+
+[2025-08-08 22:54:47] (Edge) Search: Funny Cat Profile Pictures Glasses
+URL: https://www.bing.com/images/search?q=Funny+Cat+Profile+Pictures+Glasses&FORM=QBIR
+
+[2025-08-08 22:54:47] (Edge) Search: Funny Cat Profile Pictures Glasses
+URL: https://www.bing.com/images/search?q=Funny+Cat+Profile+Pictures+Glasses&form=QBIR&first=1
+
+[2025-08-08 22:55:09] (Edge) Search: coder cat with glass
+URL: https://www.bing.com/search?q=coder+cat+with+glass&cvid=3eddb3f6353e4ce08dc36d15e0f319b6&gs_lcrp=EgRlZGdlKgYIABBFGDkyBggAEEUYOTIGCAEQABhAMgYIAhAAGEAyBggDEAAYQDIGCAQQABhA0gEINjA4N2owajSoAgiwAgE&FORM=ANAB01&PC=U531
+
+[2025-08-08 22:55:09] (Edge) Search: coder cat with glass
+URL: https://www.bing.com/images/search?q=coder+cat+with+glass&FORM=HDRSC3
+
+[2025-08-08 22:55:34] (Edge) Search: coder cat with glass
+URL: https://www.bing.com/images/search?q=coder+cat+with+glass&form=HDRSC3&first=1
+
+[2025-08-08 22:55:44] (Edge) Search: Cat Programmer Meme
+URL: https://www.bing.com/images/search?q=Cat+Programmer+Meme&FORM=IRBPRS&=0
+
+[2025-08-08 23:00:36] (Edge) Search: Cat Programmer Meme
+URL: https://www.bing.com/images/search?q=Cat+Programmer+Meme&form=IRBPRS&first=1
+
+[2025-08-08 23:02:09] (Edge) Search: corokodil with glass
+URL: https://www.bing.com/search?q=corokodil+with+glass&cvid=5a941dddf296483d971acbdef4c7811a&gs_lcrp=EgRlZGdlKgYIABBFGDkyBggAEEUYOdIBCDU1NDdqMGo0qAIAsAIA&FORM=ANAB01&PC=U531
+
+[2025-08-08 23:02:10] (Edge) Search: corokodil with glass
+URL: https://www.bing.com/images/search?q=corokodil+with+glass&FORM=HDRSC3
+
+[2025-08-08 23:02:11] (Edge) Search: corokodil with glass
+URL: https://www.bing.com/images/search?q=corokodil+with+glass&form=HDRSC3&first=1
+
+[2025-08-08 23:02:24] (Edge) Search: gang corkodil
+URL: https://www.bing.com/images/search?q=gang%20corkodil&qs=n&form=QBIR&sp=-1&lq=0&pq=gang%20corko&sc=0-10&sk=&cvid=FA42F2807DC94B88BE6FA622D95FA971
+
+[2025-08-08 23:02:25] (Edge) Search: gang corkodil
+URL: https://www.bing.com/images/search?q=gang%20corkodil&qs=n&form=QBIR&sp=-1&lq=0&pq=gang%20corko&sc=0-10&cvid=FA42F2807DC94B88BE6FA622D95FA971&first=1
+
+[2025-08-08 23:02:30] (Edge) Search: gang corkodil funny
+URL: https://www.bing.com/images/search?q=gang%20corkodil%20funny&qs=n&form=QBIRMH&sp=-1&lq=0&pq=gang%20corkodil%20fu&sc=0-16&sk=&cvid=A4BA9F4E19854D9B82955C8D4DEEB214
+
+[2025-08-08 23:03:00] (Edge) Search: gang corkodil funny
+URL: https://www.bing.com/images/search?q=gang%20corkodil%20funny&qs=n&form=QBIRMH&sp=-1&lq=0&pq=gang%20corkodil%20fu&sc=0-16&cvid=A4BA9F4E19854D9B82955C8D4DEEB214&first=1
+
+[2025-08-08 23:03:07] (Edge) Search: gang corkodil with glass
+URL: https://www.bing.com/images/search?q=gang%20corkodil%20with%20glass&qs=n&form=QBIR&sp=-1&lq=0&pq=gang%20corkodil%20with%20g&sc=1-20&sk=&cvid=F2256EEB8BDC4FDE809D210BDBA92C19
+
+[2025-08-08 23:03:08] (Edge) Search: gang corkodil with glass
+URL: https://www.bing.com/images/search?q=gang%20corkodil%20with%20glass&qs=n&form=QBIR&sp=-1&lq=0&pq=gang%20corkodil%20with%20g&sc=1-20&cvid=F2256EEB8BDC4FDE809D210BDBA92C19&first=1
+
+[2025-08-08 23:03:23] (Edge) Search: کروکوذیل با عینک
+URL: https://www.bing.com/images/search?q=%DA%A9%D8%B1%D9%88%DA%A9%D9%88%D8%B0%DB%8C%D9%84%20%D8%A8%D8%A7%20%D8%B9%DB%8C%D9%86%DA%A9&qs=n&form=QBIR&sp=-1&lq=0&pq=%DA%A9%D8%B1%D9%88%DA%A9%D9%88%D8%B0%DB%8C%D9%84%20%D8%A8%D8%A7%20%D8%B9%DB%8C%D9%86&sc=0-15&sk=&cvid=D462AE0EE7764761B21C0904E97622E0
+
+[2025-08-08 23:03:23] (Edge) Search: کروکوذیل با عینک
+URL: https://www.bing.com/images/search?q=%DA%A9%D8%B1%D9%88%DA%A9%D9%88%D8%B0%DB%8C%D9%84%20%D8%A8%D8%A7%20%D8%B9%DB%8C%D9%86%DA%A9&qs=n&form=QBIR&sp=-1&lq=0&pq=%DA%A9%D8%B1%D9%88%DA%A9%D9%88%D8%B0%DB%8C%D9%84%20%D8%A8%D8%A7%20%D8%B9%DB%8C%D9%86&sc=0-15&cvid=D462AE0EE7764761B21C0904E97622E0&first=1
+
+[2025-08-08 23:03:47] (Edge) Search: funny animal images meme
+URL: https://www.bing.com/images/search?q=funny%20animal%20images%20meme&qs=n&form=QBIRMH&sp=-1&lq=0&pq=funny%20animal%20&sc=10-13&sk=&cvid=0BC0EC5FDFC34A1F97D3BFA4CE25A406
+
+[2025-08-08 23:03:48] (Edge) Search: funny animal images meme
+URL: https://www.bing.com/images/search?q=funny%20animal%20images%20meme&qs=n&form=QBIRMH&sp=-1&lq=0&pq=funny%20animal%20&sc=10-13&cvid=0BC0EC5FDFC34A1F97D3BFA4CE25A406&first=1
+
+[2025-08-08 23:03:54] (Edge) Search: funny animal images 
+URL: https://www.bing.com/images/search?q=funny%20animal%20images%20&qs=n&form=QBIR&sp=-1&lq=0&pq=funny%20animal%20images%20meme&sc=10-24&sk=&cvid=09E385301F7B41E2865EE090FE78E6CD
+
+[2025-08-08 23:04:09] (Edge) Search: funny animal images 
+URL: https://www.bing.com/images/search?q=funny%20animal%20images%20&qs=n&form=QBIR&sp=-1&lq=0&pq=funny%20animal%20images%20meme&sc=10-24&cvid=09E385301F7B41E2865EE090FE78E6CD&first=1
+
+[2025-08-08 23:04:24] (Edge) Search: funnycat with glass
+URL: https://www.bing.com/images/search?q=funnycat%20with%20glass&qs=n&form=QBIR&sp=-1&lq=0&pq=funnycat%20with&sc=10-13&sk=&cvid=6C40281FB021487DA54894B80FC3DDBA
+
+[2025-08-08 23:04:24] (Edge) Search: funnycat with glass
+URL: https://www.bing.com/images/search?q=funnycat%20with%20glass&qs=n&form=QBIR&sp=-1&lq=0&pq=funnycat%20with&sc=10-13&cvid=6C40281FB021487DA54894B80FC3DDBA&first=1
+
+[2025-08-08 23:40:47] (Edge) Search: translate eng to persian
+URL: https://www.bing.com/search?q=translate+eng+to+persian&cvid=74c80962923d48ccbb2d89d114249e34&gs_lcrp=EgRlZGdlKgYIABBFGDsyBggAEEUYOzIGCAEQRRg70gEIMjQzMWowajmoAgiwAgE&FORM=ANAB01&PC=U531
+
+[2025-08-09 01:28:57] (Edge) Search: srt titles farsi dataset
+URL: https://www.bing.com/search?q=srt%20titles%20farsi%20dataset&qs=n&form=QBRE&sp=-1&lq=0&pq=srt%20titles%20farsidataset&sc=0-23&sk=&cvid=AD19BE5F5D474D4281775807DEA07CB4
+
+[2025-08-09 01:55:57] (Edge) Search: google club
+URL: https://www.bing.com/search?q=google%20club&qs=n&form=QBRE&sp=-1&ghc=1&lq=0&pq=google%20cl&sc=12-9&sk=&cvid=19600CA5340E4936BACFE9C1C0B888C3
+
+[2025-08-09 02:22:09] (Edge) Search: google club
+URL: https://www.bing.com/search?q=google%20club&qs=n&form=QBRE&sp=-1&ghc=1&lq=0&pq=google%20cl&sc=12-9&sk=&cvid=19600CA5340E4936BACFE9C1C0B888C3&ntref=1
+
+[2025-08-09 03:24:04] (Edge) Search: nafasameri
+URL: https://www.bing.com/search?q=nafasameri&cvid=a7340c573b984908a2782d19081b1ee2&gs_lcrp=EgRlZGdlKgYIABBFGDkyBggAEEUYOTIGCAEQABhAMgYIAhAAGEAyBggDEAAYQDIGCAQQABhAMgYIBRAAGEAyBggGEAAYQDIGCAcQABhAMgYICBAAGEDSAQc4NTVqMGo0qAIIsAIB&FORM=ANAB01&PC=U531
+
+[2025-08-11 12:39:41] (Edge) Search: get help with file explorer in windows
+URL: https://www.bing.com/search?q=get+help+with+file+explorer+in+windows&filters=guid:%224026535-en-dia%22%20lang:%22en%22&form=S00028
+
+[2025-08-09 23:51:26] (Edge) Search: heather morgen hacker
+URL: https://www.bing.com/search?q=heather%20morgen%20hacker&qs=n&form=QBRE&sp=-1&lq=0&pq=heather%20morgen%20hac&sc=11-18&sk=&cvid=4037DDFC8C9A4C97B6C11206B5B512F0
+
+[2025-08-10 04:51:39] (Edge) Search: jobinja
+URL: https://www.bing.com/search?q=jobinja&cvid=cd953fd388024ae29e2a2873462f10d1&gs_lcrp=EgRlZGdlKgYIABBFGDsyBggAEEUYOzIGCAEQRRg8MgYIAhBFGDzSAQgyODcxajBqNKgCALACAA&FORM=ANAB01&PC=U531
+
+[2025-08-10 13:01:45] (Edge) Search: قخذمخط
+URL: https://www.bing.com/search?q=%D9%82%D8%AE%D8%B0%D9%85%D8%AE%D8%B7&form=ANNTH1&refig=e38b0f33c54a4ef5be5edafa6633edfe&pc=U531
+
+[2025-08-11 13:55:03] (Edge) Search: kmplayer
+URL: https://www.bing.com/search?q=kmplayer&FORM=AWRE
+
+[2025-08-11 13:55:16] (Edge) Search: kmplayer دانلود
+URL: https://www.bing.com/search?q=kmplayer%20%D8%AF%D8%A7%D9%86%D9%84%D9%88%D8%AF&qs=n&form=QBRE&sp=-1&ghc=1&lq=0&pq=kmplayer%20%D8%AF%D8%A7%D9%86%D9%84&sc=12-13&sk=&cvid=DAF0A0A69C5449FBB25277B4DBC1C58A
+
+[2025-08-11 14:44:14] (Edge) Search: عمو امیر
+URL: https://www.bing.com/search?q=%D8%B9%D9%85%D9%88+%D8%A7%D9%85%DB%8C%D8%B1&form=ANSPH1&refig=6899fc13b00d4865861be6875d330f35&pc=U531
+
+[2025-08-11 19:01:16] (Edge) Search: اموزش دو نفره بازی کردن روبلاکس
+URL: https://www.bing.com/search?q=%D8%A7%D9%85%D9%88%D8%B2%D8%B4+%D8%AF%D9%88+%D9%86%D9%81%D8%B1%D9%87+%D8%A8%D8%A7%D8%B2%DB%8C+%DA%A9%D8%B1%D8%AF%D9%86+%D8%B1%D9%88%D8%A8%D9%84%D8%A7%DA%A9%D8%B3&form=ANSPH1&refig=689a177f3a2f4b918860a30710b35991&pc=U531
+
+[2025-08-12 05:06:56] (Edge) Search: برنامه نویس خانم
+URL: https://www.bing.com/images/search?q=%d8%a8%d8%b1%d9%86%d8%a7%d9%85%d9%87+%d9%86%d9%88%db%8c%d8%b3+%d8%ae%d8%a7%d9%86%d9%85&FORM=HDRSC3
+
+[2025-08-12 05:06:58] (Edge) Search: برنامه نویس خانم
+URL: https://www.bing.com/images/search?q=%d8%a8%d8%b1%d9%86%d8%a7%d9%85%d9%87+%d9%86%d9%88%db%8c%d8%b3+%d8%ae%d8%a7%d9%86%d9%85&form=HDRSC3&first=1
+
+[2025-08-12 05:07:16] (Edge) Search: برنامه نویسی
+URL: https://www.bing.com/images/search?q=%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D9%87%20%D9%86%D9%88%DB%8C%D8%B3%DB%8C&qs=n&form=QBIRMH&sp=-1&lq=0&pq=%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D9%87&sc=10-6&sk=&cvid=714016D8A40C46ECA4569574B8BEC89A
+
+[2025-08-12 05:07:50] (Edge) Search: برنامه نویسی
+URL: https://www.bing.com/images/search?q=%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D9%87%20%D9%86%D9%88%DB%8C%D8%B3%DB%8C&qs=n&form=QBIRMH&sp=-1&lq=0&pq=%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D9%87&sc=10-6&cvid=714016D8A40C46ECA4569574B8BEC89A&first=1
+
+[2025-08-12 05:44:45] (Edge) Search: جان ویک 3 فیلیمو
+URL: https://www.bing.com/search?q=%D8%AC%D8%A7%D9%86%20%D9%88%DB%8C%DA%A9%203%20%D9%81%DB%8C%D9%84%DB%8C%D9%85%D9%88&qs=n&form=QBRE&sp=-1&lq=0&pq=%D8%AC%D8%A7%D9%86%20%D9%88%DB%8C%DA%A9%203%20%D9%81%DB%8C%D9%84%DB%8C%D9%85&sc=1-15&sk=&cvid=ACA42C63999E46E890CECA3413ECBF93
+
+[2025-08-12 10:21:00] (Edge) Search: CrowdGen
+URL: https://www.bing.com/search?q=CrowdGen&gs_lcrp=EgRlZGdlKgYIABBFGDkyBggAEEUYOdIBBzIzMGowajGoAgCwAgA&FORM=ANCMS9&PC=U531
+
+[2025-08-12 10:09:42] (Edge) Search: ySense
+URL: https://www.bing.com/search?q=ySense&cvid=3f4a2e4cda6d4bc3b7e9b6e89c88e252&gs_lcrp=EgRlZGdlKgYIABBFGDkyBggAEEUYOdIBBzM5MWowajGoAgCwAgA&FORM=ANAB01&PC=U531
+
+[2025-08-12 10:01:17] (Edge) Search: ParsCoders
+URL: https://www.bing.com/search?q=ParsCoders&cvid=f74b5ae43d53450f9a8b23906137c3c8&gs_lcrp=EgRlZGdlKgYIABBFGDkyBggAEEUYOdIBBzU1OWowajGoAgCwAgA&FORM=ANAB01&PC=U531
+
+[2025-08-13 09:49:55] (Edge) Search: Cleverly human image 4k
+URL: https://www.bing.com/images/search?q=Cleverly+human+image+4k&FORM=HDRSC3
+
+[2025-08-13 09:51:31] (Edge) Search: Cleverly human image 4k
+URL: https://www.bing.com/images/search?q=Cleverly+human+image+4k&form=HDRSC3&first=1
+
+[2025-08-13 09:52:07] (Edge) Search: dark human images 4k
+URL: https://www.bing.com/images/search?q=dark%20human%20images%204k&qs=n&form=QBIR&sp=-1&lq=0&pq=dark%20human%20imag&sc=1-15&sk=&cvid=EA353342E28C4530A41D794F943B0889
+
+[2025-08-13 09:53:12] (Edge) Search: dark human images 4k
+URL: https://www.bing.com/images/search?q=dark%20human%20images%204k&qs=n&form=QBIR&sp=-1&lq=0&pq=dark%20human%20imag&sc=1-15&cvid=EA353342E28C4530A41D794F943B0889&first=1
+
+[2025-08-13 09:57:09] (Edge) Search: dark human images 4k
+URL: https://www.bing.com/search?q=dark+human+images+4k&FORM=HDRSC1
+
+[2025-08-13 09:57:18] (Edge) Search: dark human images 4k
+URL: https://www.bing.com/images/search?q=dark+human+images+4k&id=05FAC6C68D841FDE85D6629A5D08DB30A0012BC1&FORM=IACFIR
+
+[2025-08-13 09:56:54] (Edge) Search: dark human images 4k
+URL: https://www.bing.com/images/search?q=dark+human+images+4k&id=05FAC6C68D841FDE85D6629A5D08DB30A0012BC1&form=IACFIR&first=1&disoverlay=1
+
+[2025-08-13 09:56:15] (Edge) Search: dark human images 4k
+URL: https://www.bing.com/images/search?q=dark+human+images+4k&id=D0812AE56704905F0B706050D47EDE299DBC749B&FORM=IACFIR
+
+[2025-08-13 09:56:19] (Edge) Search: dark human images 4k
+URL: https://www.bing.com/images/search?q=dark+human+images+4k&id=D0812AE56704905F0B706050D47EDE299DBC749B&form=IACFIR&first=1&cw=1725&ch=875
+
+[2025-08-13 09:57:59] (Edge) Search: dark human images 4k
+URL: https://www.bing.com/images/search?q=dark+human+images+4k&id=05FAC6C68D841FDE85D6629A5D08DB30A0012BC1&form=IACFIR&first=1&cw=1725&ch=875
+
+[2025-08-13 10:07:48] (Edge) Search: 160 iq vs fbi image
+URL: https://www.bing.com/search?q=160%20iq%20vs%20fbi%20image&qs=n&form=QBRE&sp=-1&ghc=1&lq=0&pq=160%20iq%20vs%20fbi%20ima&sc=12-17&sk=&cvid=4FCABCAD5CEC473CA003CB1CF2F79161
+
+[2025-08-13 10:07:50] (Edge) Search: 160 iq vs fbi image
+URL: https://www.bing.com/images/search?q=160+iq+vs+fbi+image&FORM=HDRSC3
+
+[2025-08-13 10:07:51] (Edge) Search: 160 iq vs fbi image
+URL: https://www.bing.com/images/search?q=160+iq+vs+fbi+image&form=HDRSC3&first=1
+
+[2025-08-13 10:08:27] (Edge) Search: images that show you angry
+URL: https://www.bing.com/search?q=images+that+show+you+angry&cvid=8d91cf2cecaa492d97c26d678d137f5d&gs_lcrp=EgRlZGdlKgYIABBFGDkyBggAEEUYOTIGCAEQABhAMgYIAhAAGEAyBggDEAAYQDIGCAQQABhAMgYIBRAAGEAyBggGEAAYQDIGCAcQABhAMgYICBAAGEDSAQg0NjM5ajBqNKgCCLACAQ&FORM=ANAB01&PC=U531
+
+[2025-08-13 10:08:37] (Edge) Search: images that show you hacking
+URL: https://www.bing.com/search?q=images%20that%20show%20you%20hacking&qs=n&form=QBRE&sp=-1&lq=0&pq=images%20that%20show%20you%20hacki&sc=1-26&sk=&cvid=87A99C2B46B748BC94335CA17663BEF3
+
+[2025-08-13 10:08:46] (Edge) Search: images that show you are relaxed
+URL: https://www.bing.com/search?q=images%20that%20show%20you%20are%20relaxed&qs=n&form=QBRE&sp=-1&lq=0&pq=images%20that%20show%20you%20are%20rela&sc=1-29&sk=&cvid=495F506F3A32451FAD1B9B2B000AABC5
+
+[2025-08-13 10:09:08] (Edge) Search: images that show you are gonna make it
+URL: https://www.bing.com/search?q=images%20that%20show%20you%20are%20gonna%20make%20it&qs=n&form=QBRE&sp=-1&ghc=1&lq=0&pq=images%20that%20show%20you%20are%20gonna%20make&sc=0-35&sk=&cvid=5E82F315D80C4B528063B6984BD87377
+
+[2025-08-13 10:09:33] (Edge) Search: windows 11 image background
+URL: https://www.bing.com/search?q=windows%2011%20image%20background&qs=n&form=QBRE&sp=-1&ghc=1&lq=0&pq=windows%2011%20image%20backgrou&sc=12-25&sk=&cvid=2E98955836E04FA3A5DFC23E323B1746
+
+[2025-08-13 10:10:40] (Edge) Search: windows 11 image background
+URL: https://www.bing.com/images/search?q=windows+11+image+background&id=1483E2D315F545F7A3BAB0069CB7FFE4A34D6A5B&FORM=IACFIR
+
+[2025-08-13 10:09:35] (Edge) Search: windows 11 image background
+URL: https://www.bing.com/images/search?q=windows+11+image+background&FORM=HDRSC3
+
+[2025-08-13 10:09:38] (Edge) Search: windows 11 image background
+URL: https://www.bing.com/images/search?q=windows+11+image+background&form=HDRSC3&first=1
+
+[2025-08-13 10:10:40] (Edge) Search: windows 11 image background
+URL: https://www.bing.com/images/search?q=windows+11+image+background&id=1483E2D315F545F7A3BAB0069CB7FFE4A34D6A5B&form=IACFIR&first=1&disoverlay=1
+
+[2025-06-26 23:08:10] (Firefox) Search: eporner 
+URL: https://www.google.com/search?q=eporner+&client=firefox-b-d&sca_esv=319a8605ed997738&udm=2&sxsrf=AE3TifOPBXzoCtWDGPG48qVABhEan32ciw%3A1750979232469&ei=oNJdaN-7HI2Bxc8PtZ3G4A8&ved=0ahUKEwjfi6T5mZCOAxWNQPEDHbWOEfwQ4dUDCBE&uact=5&oq=eporner+&gs_lp=EgNpbWciCGVwb3JuZXIgSMERUIwHWJoPcAN4AJABAJgB4gGgAZ8NqgEFMC4xLje4AQPIAQD4AQGYAgSgAtcGwgIFEAAYgATCAgoQABiABBhDGIoFmAMAiAYBkgcDMi00oAf_ErIHAzItNLgH1wbCBwMyLTTIBxg&sclient=img
+
+[2025-06-28 17:48:14] (Firefox) Search: girls love feet xxx
+URL: https://www.google.com/search?q=girls+love+feet+xxx&client=firefox-b-d&sca_esv=75ee9eeb689080db&sxsrf=AE3TifPXyYYA6O_ViTa6r56H4zoOpqyUdw%3A1751132887020&ei=1ypgaL6CAdiH7NYP5NDYoAI
+
+[2025-06-28 17:50:41] (Firefox) Search: girls love feet xxx
+URL: https://www.google.com/search?q=girls%20love%20feet%20xxx&udm=2&tbs=rimg:Cbp7g3HAzR8hYSM51jpPtGsSsgIAwAIA2AIA4AIB&client=firefox-b-d&hl=en&sa=X&ved=0CBYQuIIBahcKEwiYo4bX1pSOAxUAAAAAHQAAAAAQFw&biw=1920&bih=955&dpr=1
+
+[2025-06-28 17:50:30] (Firefox) Search: girls love feet xxx
+URL: https://www.google.com/search?q=girls%20love%20feet%20xxx&udm=2&tbs=rimg:Cbp7g3HAzR8hYSM51jpPtGsSsgIAwAIA2AIA4AIB&client=firefox-b-d&hl=en&sa=X&ved=0CBYQuIIBahcKEwiYo4bX1pSOAxUAAAAAHQAAAAAQFw&biw=1920&bih=955&dpr=1#vhid=nae29VXMrcPSXM&vssid=mosaic
+
+[2025-06-28 17:51:12] (Firefox) Search: girls love feet xxx
+URL: https://www.google.com/search?q=girls%20love%20feet%20xxx&udm=2&tbs=rimg:Ccm8j_1aK97r4YcrvqHdfQy64sgIAwAIA2AIA4AIB&client=firefox-b-d&hl=en&sa=X&ved=0CBoQuIIBahcKEwiYo4bX1pSOAxUAAAAAHQAAAAAQLw&biw=1920&bih=955&dpr=1
+
+[2025-06-28 17:51:36] (Firefox) Search: girls love feet xxx
+URL: https://www.google.com/search?q=girls%20love%20feet%20xxx&udm=2&tbs=rimg:Ccm8j_1aK97r4YcrvqHdfQy64sgIAwAIA2AIA4AIB&client=firefox-b-d&hl=en&sa=X&ved=0CBoQuIIBahcKEwiYo4bX1pSOAxUAAAAAHQAAAAAQLw&biw=1920&bih=955&dpr=1#vhid=NFF7Ox3FiLbbGM&vssid=mosaic
+
+[2025-06-28 17:56:25] (Firefox) Search: girls love feet xxx
+URL: https://www.google.com/search?q=girls%20love%20feet%20xxx&udm=2&tbs=rimg:Ccm8j_1aK97r4YcrvqHdfQy64sgIAwAIA2AIA4AIB&client=firefox-b-d&hl=en&sa=X&ved=0CBoQuIIBahcKEwiYo4bX1pSOAxUAAAAAHQAAAAAQLw&biw=1920&bih=955&dpr=1#vhid=kc59EzH2PDbgHM&vssid=mosaic
+
+[2025-06-28 17:52:28] (Firefox) Search: girls love feet xxx
+URL: https://www.google.com/search?q=girls%20love%20feet%20xxx&udm=2&tbs=rimg:Ccm8j_1aK97r4YcrvqHdfQy64sgIAwAIA2AIA4AIB&client=firefox-b-d&hl=en&sa=X&ved=0CBoQuIIBahcKEwiYo4bX1pSOAxUAAAAAHQAAAAAQLw&biw=1920&bih=955&dpr=1#vhid=b9T5R7DQ1IjzyM&vssid=mosaic
+
+[2025-06-28 17:52:44] (Firefox) Search: girls love feet xxx
+URL: https://www.google.com/search?q=girls%20love%20feet%20xxx&udm=2&tbs=rimg:Ccm8j_1aK97r4YcrvqHdfQy64sgIAwAIA2AIA4AIB&client=firefox-b-d&hl=en&sa=X&ved=0CBoQuIIBahcKEwiYo4bX1pSOAxUAAAAAHQAAAAAQLw&biw=1920&bih=955&dpr=1#imgrc=kc59EzH2PDbgHM&imgdii=pKyoVxvDxwjRMM
+
+[2025-06-28 17:56:48] (Firefox) Search: girls love feet xxx
+URL: https://www.google.com/search?q=girls%20love%20feet%20xxx&hl=en&tbs=rimg:CZHOfRMx9jw2YeCRS1V_1bxPDsgIAwAIA2AIA4AIB&udm=2&client=firefox-b-d&sa=X&ved=0CBoQuIIBahcKEwjQ47Wk15SOAxUAAAAAHQAAAAAQMQ&biw=1920&bih=955&dpr=1
+
+[2025-06-28 17:57:09] (Firefox) Search: girls love feet xxx
+URL: https://www.google.com/search?q=girls%20love%20feet%20xxx&hl=en&tbs=rimg:CZHOfRMx9jw2YeCRS1V_1bxPDsgIAwAIA2AIA4AIB&udm=2&client=firefox-b-d&sa=X&ved=0CBoQuIIBahcKEwjQ47Wk15SOAxUAAAAAHQAAAAAQMQ&biw=1920&bih=955&dpr=1#vhid=ndJNISx1H2_i6M&vssid=mosaic
+
+[2025-06-28 17:57:18] (Firefox) Search: girls love feet xxx
+URL: https://www.google.com/search?q=girls%20love%20feet%20xxx&hl=en&tbs=rimg:CZHOfRMx9jw2YeCRS1V_1bxPDsgIAwAIA2AIA4AIB&udm=2&client=firefox-b-d&sa=X&ved=0CBoQuIIBahcKEwjQ47Wk15SOAxUAAAAAHQAAAAAQMQ&biw=1920&bih=955&dpr=1#imgrc=ndJNISx1H2_i6M&imgdii=XhYjyN7eLt6M3M
+
+[2025-07-13 21:11:25] (Firefox) Search: Goddess Kiffa and Goddess Sue Very Deep Foot Gagging on New slave - FOOT GAGGING - DEEPTHROAT - GAG - GAGGING - FOOT FETISH - FOOT DOMINATION - FOOT HUMILIATION - FOOT SLAVE - FOOT SLAVE TRAINING
+URL: https://www.google.com/search?q=Goddess%20Kiffa%20and%20Goddess%20Sue%20Very%20Deep%20Foot%20Gagging%20on%20New%20slave%20-%20FOOT%20GAGGING%20-%20DEEPTHROAT%20-%20GAG%20-%20GAGGING%20-%20FOOT%20FETISH%20-%20FOOT%20DOMINATION%20-%20FOOT%20HUMILIATION%20-%20FOOT%20SLAVE%20-%20FOOT%20SLAVE%20TRAINING&udm=2&tbs=rimg:CWDHGugqZBYSYSmBm-9hwFkpsgIAwAIA2AIA4AIB&client=firefox-b-d&hl=en&sa=X&ved=0CBgQuIIBahcKEwiw8Nmq37qOAxUAAAAAHQAAAAAQHw&biw=1920&bih=955&dpr=1
+
+[2025-07-14 22:50:24] (Firefox) Search: cambro feet gagging xx
+URL: https://www.google.com/search?q=cambro+feet+gagging+xx&client=firefox-b-d&sca_esv=9e22b71ed321183e&udm=2&biw=1920&bih=955&sxsrf=AE3TifPs6WhRNrGH75USxcJU1IxMjEHCcA%3A1752533315889&ei=Q4l1aIyGNuiPxc8PwOmp6A8&ved=0ahUKEwjMs4Cut72OAxXoR_EDHcB0Cv0Q4dUDCBE&uact=5&oq=cambro+feet+gagging+xx&gs_lp=EgNpbWciFmNhbWJybyBmZWV0IGdhZ2dpbmcgeHhIry9Q8glY7i1wBXgAkAEAmAGrAqABqS-qAQYwLjMuMjW4AQPIAQD4AQGYAgmgAv8NqAIBwgIKECMYJxjJAhjqAsICBRAAGIAEwgIKEAAYgAQYQxiKBcICBxAAGIAEGAqYAwOIBgGSBwUxLjAuOKAHjS-yBwMyLTi4B_wNwgcFMi04LjHIBzU&sclient=img
+
+[2025-07-14 22:50:20] (Firefox) Search: cambro feet gagging xx
+URL: https://www.google.com/search?q=cambro+feet+gagging+xx&client=firefox-b-d&sca_esv=9e22b71ed321183e&udm=2&biw=1920&bih=955&sxsrf=AE3TifPs6WhRNrGH75USxcJU1IxMjEHCcA%3A1752533315889&ei=Q4l1aIyGNuiPxc8PwOmp6A8&ved=0ahUKEwjMs4Cut72OAxXoR_EDHcB0Cv0Q4dUDCBE&uact=5&oq=cambro+feet+gagging+xx&gs_lp=EgNpbWciFmNhbWJybyBmZWV0IGdhZ2dpbmcgeHhIry9Q8glY7i1wBXgAkAEAmAGrAqABqS-qAQYwLjMuMjW4AQPIAQD4AQGYAgmgAv8NqAIBwgIKECMYJxjJAhjqAsICBRAAGIAEwgIKEAAYgAQYQxiKBcICBxAAGIAEGAqYAwOIBgGSBwUxLjAuOKAHjS-yBwMyLTi4B_wNwgcFMi04LjHIBzU&sclient=img#vhid=JwYhIOu-Y62PNM&vssid=mosaic
+
+[2025-07-14 22:54:45] (Firefox) Search: feet gagging xxx
+URL: https://www.google.com/search?q=feet+gagging+xxx&client=firefox-b-d&sca_esv=9e22b71ed321183e&udm=2&biw=1920&bih=955&sxsrf=AE3TifNVv9ZneYXXr37s3BGiqb2eoc4jqQ%3A1752533398421&ei=lol1aIu8Geyqxc8P5ret-AU&ved=0ahUKEwiL363Vt72OAxVsVfEDHeZbC18Q4dUDCBE&uact=5&oq=feet+gagging+xxx&gs_lp=EgNpbWciEGZlZXQgZ2FnZ2luZyB4eHhI5h9QogVYnh1wAngAkAEAmAH4AaAB9RqqAQYwLjMuMTO4AQPIAQD4AQGYAg2gAuMWwgIFEAAYgATCAgoQABiABBhDGIoFwgIHEAAYgAQYCsICBBAAGB7CAgYQABgFGB7CAgYQABgIGB7CAggQABgIGAoYHpgDAIgGAZIHBjAuMS4xMqAHlzGyBwYwLjEuMTK4B-MWwgcHMC4zLjkuMcgHPQ&sclient=img
+
+[2025-07-14 22:56:14] (Firefox) Search: feet gagging xxx
+URL: https://www.google.com/search?q=feet+gagging+xxx&client=firefox-b-d&sca_esv=9e22b71ed321183e&udm=2&biw=1920&bih=955&sxsrf=AE3TifNVv9ZneYXXr37s3BGiqb2eoc4jqQ%3A1752533398421&ei=lol1aIu8Geyqxc8P5ret-AU&ved=0ahUKEwiL363Vt72OAxVsVfEDHeZbC18Q4dUDCBE&uact=5&oq=feet+gagging+xxx&gs_lp=EgNpbWciEGZlZXQgZ2FnZ2luZyB4eHhI5h9QogVYnh1wAngAkAEAmAH4AaAB9RqqAQYwLjMuMTO4AQPIAQD4AQGYAg2gAuMWwgIFEAAYgATCAgoQABiABBhDGIoFwgIHEAAYgAQYCsICBBAAGB7CAgYQABgFGB7CAgYQABgIGB7CAggQABgIGAoYHpgDAIgGAZIHBjAuMS4xMqAHlzGyBwYwLjEuMTK4B-MWwgcHMC4zLjkuMcgHPQ&sclient=img#vhid=_jD000MsbR0l0M&vssid=mosaic
+
+[2025-07-14 22:56:24] (Firefox) Search: feet gagging xxx
+URL: https://www.google.com/search?q=feet%20gagging%20xxx&udm=2&tbs=rimg:Cf4w9NNDLG0dYZe6yyteyUTmsgIAwAIA2AIA4AIB&client=firefox-b-d&hl=en&sa=X&ved=0CBQQuIIBahcKEwiA7tOIub2OAxUAAAAAHQAAAAAQBw&biw=1920&bih=955&dpr=1
+
+[2025-07-14 22:56:56] (Firefox) Search: feet gagging xxx
+URL: https://www.google.com/search?q=feet%20gagging%20xxx&udm=2&tbs=rimg:Cf4w9NNDLG0dYZe6yyteyUTmsgIAwAIA2AIA4AIB&client=firefox-b-d&hl=en&sa=X&ved=0CBQQuIIBahcKEwiA7tOIub2OAxUAAAAAHQAAAAAQBw&biw=1920&bih=955&dpr=1#vhid=X9pxRkK52hC3NM&vssid=mosaic
+
+[2025-07-14 22:57:07] (Firefox) Search: feet gagging xxx
+URL: https://www.google.com/search?q=feet%20gagging%20xxx&hl=en&tbs=rimg:CV_1acUZCudoQYYfithEH1Ig3sgIAwAIA2AIA4AIA&udm=2&client=firefox-b-d&sa=X&ved=0CCIQuIIBahcKEwjA8f6cub2OAxUAAAAAHQAAAAAQCA&biw=1920&bih=955&dpr=1
+
+[2025-07-14 22:58:10] (Firefox) Search: feet gagging xxx
+URL: https://www.google.com/search?q=feet%20gagging%20xxx&hl=en&tbs=rimg:CV_1acUZCudoQYYfithEH1Ig3sgIAwAIA2AIA4AIA&udm=2&client=firefox-b-d&sa=X&ved=0CCIQuIIBahcKEwjA8f6cub2OAxUAAAAAHQAAAAAQCA&biw=1920&bih=955&dpr=1#vhid=9lEeIhsjPWbPNM&vssid=mosaic
+
+[2025-07-14 22:58:50] (Firefox) Search: feet gagging xxx
+URL: https://www.google.com/search?q=feet%20gagging%20xxx&hl=en&tbs=rimg:CfZRHiIbIz1mYX6fQcGxngkxsgIAwAIA2AIA4AIB&udm=2&client=firefox-b-d&sa=X&ved=0CBwQuIIBahcKEwjAxKHAub2OAxUAAAAAHQAAAAAQBw&biw=1920&bih=955&dpr=1
+
+[2025-07-14 22:58:45] (Firefox) Search: feet gagging xxx
+URL: https://www.google.com/search?q=feet%20gagging%20xxx&hl=en&tbs=rimg:CfZRHiIbIz1mYX6fQcGxngkxsgIAwAIA2AIA4AIB&udm=2&client=firefox-b-d&sa=X&ved=0CBwQuIIBahcKEwjAxKHAub2OAxUAAAAAHQAAAAAQBw&biw=1920&bih=955&dpr=1#vhid=7qBzq-Z26mmQFM&vssid=mosaic
+
+[2025-07-14 23:02:17] (Firefox) Search: feet gagging xxx
+URL: https://www.google.com/search?q=feet%20gagging%20xxx&hl=en&tbs=rimg:CfZRHiIbIz1mYX6fQcGxngkxsgIAwAIA2AIA4AIB&udm=2&client=firefox-b-d&sa=X&ved=0CBwQuIIBahcKEwjAxKHAub2OAxUAAAAAHQAAAAAQBw&biw=1920&bih=955&dpr=1#vhid=wGtVMzzp1g1-vM&vssid=mosaic
+
+[2025-07-23 08:26:59] (Firefox) Search: call of duty modern warfare 3
+URL: https://google.com/search?q=call+of+duty+modern+warfare+3&sitesearch=sarzamindownload.com&hl=fa
+
+[2025-07-23 08:26:59] (Firefox) Search: call of duty modern warfare 3
+URL: https://www.google.com/search?q=call+of+duty+modern+warfare+3&sitesearch=sarzamindownload.com&hl=fa
+
+[2025-07-26 22:55:52] (Firefox) Search: man with beard gagging on feet xxx
+URL: https://www.google.com/search?q=man+with+beard+gagging+on+feet+xxx&client=firefox-b-d&sca_esv=3753fabb7bc175f2&sxsrf=AE3TifP2VnFruV0VhDczS_M43ZTMQnw8rw%3A1753570549539&ei=9VyFaKLbIOy0i-gP4NyO4Qk&ved=0ahUKEwjiqcatz9uOAxVs2gIHHWCuI5wQ4dUDCBA&uact=5&oq=man+with+beard+gagging+on+feet+xxx&gs_lp=Egxnd3Mtd2l6LXNlcnAiIm1hbiB3aXRoIGJlYXJkIGdhZ2dpbmcgb24gZmVldCB4eHhI_wRQP1iwBHABeACQAQCYAYQCoAHLA6oBBTAuMS4xuAEDyAEA-AEBmAICoAKUAsICCxAAGLADGKIEGIkFwgIIEAAYsAMY7wXCAgUQIRigAcICBRAhGJ8FmAMAiAYBkAYDkgcFMS4wLjGgB-cGsgcDMi0xuAeNAsIHAzItMsgHDA&sclient=gws-wiz-serp
+
+[2025-07-26 23:07:02] (Firefox) Search: boots feet gagging man
+URL: https://www.google.com/search?q=boots%20feet%20gagging%20man&udm=2&tbs=rimg:CVsSfli9eOgQYREy_1MhnvdPpsgIAwAIA2AIA4AIA&client=firefox-b-d&hl=en&sa=X&ved=0CB0QuIIBahcKEwj4qLa20duOAxUAAAAAHQAAAAAQIw&biw=1920&bih=955&dpr=1
+
+[2025-07-26 23:07:18] (Firefox) Search: boots feet gagging man
+URL: https://www.google.com/search?q=boots%20feet%20gagging%20man&udm=2&tbs=rimg:CVsSfli9eOgQYREy_1MhnvdPpsgIAwAIA2AIA4AIA&client=firefox-b-d&hl=en&sa=X&ved=0CB0QuIIBahcKEwj4qLa20duOAxUAAAAAHQAAAAAQIw&biw=1920&bih=955&dpr=1#vhid=OqXmyh93t7R1rM&vssid=mosaic
+
+[2025-07-26 23:07:23] (Firefox) Search: boots feet gagging man
+URL: https://www.google.com/search?q=boots%20feet%20gagging%20man&udm=2&tbs=rimg:CVsSfli9eOgQYREy_1MhnvdPpsgIAwAIA2AIA4AIA&client=firefox-b-d&hl=en&sa=X&ved=0CB0QuIIBahcKEwj4qLa20duOAxUAAAAAHQAAAAAQIw&biw=1920&bih=955&dpr=1#imgrc=OqXmyh93t7R1rM&imgdii=b-HtL5_8ke-N3M
+
+[2025-07-26 23:07:26] (Firefox) Search: boots feet gagging man
+URL: https://www.google.com/search?q=boots%20feet%20gagging%20man&udm=2&tbs=rimg%3ACVsSfli9eOgQYREy_1MhnvdPpsgIAwAIA2AIA4AIA&client=firefox-b-d&hl=en&sa=X&ved=0CB0QuIIBahcKEwj4qLa20duOAxUAAAAAHQAAAAAQIw&biw=1920&bih=955&dpr=1#imgrc=OqXmyh93t7R1rM&imgdii=b-HtL5_8ke-N3M&dialog=1
+
+[2025-07-26 23:07:36] (Firefox) Search: boots feet gagging man
+URL: https://www.google.com/search?q=boots%20feet%20gagging%20man&udm=2&tbs=rimg:CVsSfli9eOgQYREy_1MhnvdPpsgIAwAIA2AIA4AIA&client=firefox-b-d&hl=en&sa=X&ved=0CB0QuIIBahcKEwj4qLa20duOAxUAAAAAHQAAAAAQIw&biw=1920&bih=955&dpr=1#imgrc=b-HtL5_8ke-N3M&imgdii=aEBGVl1SSZM71M
+
+[2025-07-26 23:07:40] (Firefox) Search: boots feet gagging man
+URL: https://www.google.com/search?q=boots%20feet%20gagging%20man&hl=en&tbs=rimg:CWhARlZdUkmTYSCYdKLHFxc5sgIAwAIA2AIA4AIB&udm=2&client=firefox-b-d&sa=X&ved=0CBgQuIIBahcKEwjI4Y_20duOAxUAAAAAHQAAAAAQIA&biw=1920&bih=955&dpr=1
+
+[2025-07-26 23:08:11] (Firefox) Search: boots feet gagging man
+URL: https://www.google.com/search?q=boots%20feet%20gagging%20man&hl=en&tbs=rimg:CWhARlZdUkmTYSCYdKLHFxc5sgIAwAIA2AIA4AIB&udm=2&client=firefox-b-d&sa=X&ved=0CBgQuIIBahcKEwjI4Y_20duOAxUAAAAAHQAAAAAQIA&biw=1920&bih=955&dpr=1#vhid=l_hc8s_jK8UuLM&vssid=mosaic
+
+[2025-07-26 23:18:12] (Firefox) Search: boots feet gagging man
+URL: https://www.google.com/search?q=boots%20feet%20gagging%20man&hl=en&tbs=rimg:CZf4XPLP4yvFYYlom71IkunosgIAwAIA2AIA4AIB&udm=2&client=firefox-b-d&sa=X&ved=0CBIQuIIBahcKEwig-KKP0tuOAxUAAAAAHQAAAAAQBw&biw=1920&bih=955&dpr=1
+
+[2025-07-26 23:08:33] (Firefox) Search: boots feet gagging man
+URL: https://www.google.com/search?q=boots%20feet%20gagging%20man&hl=en&tbs=rimg:CZf4XPLP4yvFYYlom71IkunosgIAwAIA2AIA4AIB&udm=2&client=firefox-b-d&sa=X&ved=0CBIQuIIBahcKEwig-KKP0tuOAxUAAAAAHQAAAAAQBw&biw=1920&bih=955&dpr=1#vhid=ze7-HLiopJYuzM&vssid=mosaic
+
+[2025-07-27 23:42:00] (Firefox) Search: fuck hard feet gag and dick
+URL: https://www.google.com/search?q=fuck%20hard%20feet%20gag%20and%20dick&udm=2&tbs=rimg:CZStCVnuYuE3YezMyr3iRnnlsgIAwAIA2AIA4AIB&client=firefox-b-d&hl=en&sa=X&ved=0CBQQuIIBahcKEwiwpbnCm96OAxUAAAAAHQAAAAAQBw&biw=1920&bih=955&dpr=1
+
+[2025-07-28 00:01:40] (Firefox) Search: fuck hard feet gag and dick
+URL: https://www.google.com/search?q=fuck%20hard%20feet%20gag%20and%20dick&udm=2&tbs=rimg:CXyeCCZG_1mhzYd0wsXOhW1FrsgIAwAIA2AIA4AIB&client=firefox-b-d&hl=en&sa=X&ved=0CBQQuIIBahcKEwiwpbnCm96OAxUAAAAAHQAAAAAQSg&biw=1920&bih=955&dpr=1
+
+[2025-07-28 00:01:37] (Firefox) Search: fuck hard feet gag and dick
+URL: https://www.google.com/search?q=fuck%20hard%20feet%20gag%20and%20dick&udm=2&tbs=rimg:CXyeCCZG_1mhzYd0wsXOhW1FrsgIAwAIA2AIA4AIB&client=firefox-b-d&hl=en&sa=X&ved=0CBQQuIIBahcKEwiwpbnCm96OAxUAAAAAHQAAAAAQSg&biw=1920&bih=955&dpr=1#vhid=HizjTbEOoLrt1M&vssid=mosaic
+
+[2025-07-28 00:01:43] (Firefox) Search: fuck hard feet gag and dick
+URL: https://www.google.com/search?q=fuck%20hard%20feet%20gag%20and%20dick&udm=2&tbs=rimg:CXyeCCZG_1mhzYd0wsXOhW1FrsgIAwAIA2AIA4AIB&client=firefox-b-d&hl=en&sa=X&ved=0CBQQuIIBahcKEwiwpbnCm96OAxUAAAAAHQAAAAAQSg&biw=1920&bih=955&dpr=1#vhid=RknmJLE58ajh_M&vssid=mosaic
+
+[2025-07-28 00:01:47] (Firefox) Search: fuck hard feet gag and dick
+URL: https://www.google.com/search?q=fuck%20hard%20feet%20gag%20and%20dick&udm=2&tbs=rimg:CXyeCCZG_1mhzYd0wsXOhW1FrsgIAwAIA2AIA4AIB&client=firefox-b-d&hl=en&sa=X&ved=0CBQQuIIBahcKEwiwpbnCm96OAxUAAAAAHQAAAAAQSg&biw=1920&bih=955&dpr=1#imgrc=RknmJLE58ajh_M&imgdii=ERc97FWURss-pM
+
+[2025-07-28 00:01:51] (Firefox) Search: fuck hard feet gag and dick
+URL: https://www.google.com/search?q=fuck%20hard%20feet%20gag%20and%20dick&hl=en&tbs=rimg:CREXPexVlEbLYcNfGOS58t6lsgIAwAIA2AIA4AIB&udm=2&client=firefox-b-d&sa=X&ved=0CBYQuIIBahcKEwiwq_H2n96OAxUAAAAAHQAAAAAQGw&biw=1920&bih=955&dpr=1
+
+[2025-07-28 00:02:37] (Firefox) Search: fuck hard feet gag and dick
+URL: https://www.google.com/search?q=fuck+hard+feet+gag+and+dick&hl=en&udm=2&client=firefox-b-d&sa=X&biw=1920&bih=955&dpr=1&ved=2ahUKEwie_Zf9n96OAxU2HBAIHf3XDmcQgowBegQICRAA&sxsrf=AE3TifO9vdQx4v4fyjeVBqf1yInAjTrYjQ:1753660910865
+
+[2025-07-28 00:04:11] (Firefox) Search: Worshipping & Gagging On Mia's Feet
+URL: https://www.google.com/search?q=Worshipping%20%26%20Gagging%20On%20Mia%27s%20Feet&udm=2&tbs=rimg:CQ0Deqgl5dsIYXEcTDbcOrigsgIAwAIA2AIA4AIB&client=firefox-b-d&hl=en&sa=X&ved=0CBwQuIIBahcKEwiAzPmpoN6OAxUAAAAAHQAAAAAQBg&biw=1920&bih=955&dpr=1
+
+[2025-07-28 00:03:55] (Firefox) Search: Worshipping & Gagging On Mia's Feet
+URL: https://www.google.com/search?q=Worshipping%20%26%20Gagging%20On%20Mia%27s%20Feet&udm=2&tbs=rimg:CQ0Deqgl5dsIYXEcTDbcOrigsgIAwAIA2AIA4AIB&client=firefox-b-d&hl=en&sa=X&ved=0CBwQuIIBahcKEwiAzPmpoN6OAxUAAAAAHQAAAAAQBg&biw=1920&bih=955&dpr=1#vhid=0b_dBEHBeFM0KM&vssid=mosaic
+
+[2025-07-28 00:04:05] (Firefox) Search: Worshipping & Gagging On Mia's Feet
+URL: https://www.google.com/search?q=Worshipping%20%26%20Gagging%20On%20Mia%27s%20Feet&udm=2&tbs=rimg:CQ0Deqgl5dsIYXEcTDbcOrigsgIAwAIA2AIA4AIB&client=firefox-b-d&hl=en&sa=X&ved=0CBwQuIIBahcKEwiAzPmpoN6OAxUAAAAAHQAAAAAQBg&biw=1920&bih=955&dpr=1#vhid=VC6G3SXGaJqerM&vssid=mosaic
+
+[2025-07-28 00:11:40] (Firefox) Search: Worshipping & Gagging On Mia's Feet xx
+URL: https://www.google.com/search?q=Worshipping%20%26%20Gagging%20On%20Mia%27s%20Feet%20xx&udm=2&tbs=rimg:CQ0Deqgl5dsIYXEcTDbcOrigsgIAwAIA2AIA4AIB&client=firefox-b-d&hl=en&sa=X&ved=0CBoQuIIBahcKEwjw0q77od6OAxUAAAAAHQAAAAAQBg&biw=1920&bih=955&dpr=1
+
+[2025-07-28 00:11:08] (Firefox) Search: Worshipping & Gagging On Mia's Feet xx
+URL: https://www.google.com/search?q=Worshipping%20%26%20Gagging%20On%20Mia%27s%20Feet%20xx&udm=2&tbs=rimg:CQ0Deqgl5dsIYXEcTDbcOrigsgIAwAIA2AIA4AIB&client=firefox-b-d&hl=en&sa=X&ved=0CBoQuIIBahcKEwjw0q77od6OAxUAAAAAHQAAAAAQBg&biw=1920&bih=955&dpr=1#vhid=1XuAoJnoT1GCYM&vssid=mosaic
+
+[2025-07-28 00:11:23] (Firefox) Search: Worshipping & Gagging On Mia's Feet xx
+URL: https://www.google.com/search?q=Worshipping%20%26%20Gagging%20On%20Mia%27s%20Feet%20xx&udm=2&tbs=rimg:CQ0Deqgl5dsIYXEcTDbcOrigsgIAwAIA2AIA4AIB&client=firefox-b-d&hl=en&sa=X&ved=0CBoQuIIBahcKEwjw0q77od6OAxUAAAAAHQAAAAAQBg&biw=1920&bih=955&dpr=1#vhid=0b_dBEHBeFM0KM&vssid=mosaic
+
+[2025-07-28 00:11:30] (Firefox) Search: Worshipping & Gagging On Mia's Feet xx
+URL: https://www.google.com/search?q=Worshipping%20%26%20Gagging%20On%20Mia%27s%20Feet%20xx&udm=2&tbs=rimg:CQ0Deqgl5dsIYXEcTDbcOrigsgIAwAIA2AIA4AIB&client=firefox-b-d&hl=en&sa=X&ved=0CBoQuIIBahcKEwjw0q77od6OAxUAAAAAHQAAAAAQBg&biw=1920&bih=955&dpr=1#vhid=r2eJX02C2RmzoM&vssid=mosaic
+
+[2025-07-28 00:11:34] (Firefox) Search: Worshipping & Gagging On Mia's Feet xx
+URL: https://www.google.com/search?q=Worshipping%20%26%20Gagging%20On%20Mia%27s%20Feet%20xx&udm=2&tbs=rimg:CQ0Deqgl5dsIYXEcTDbcOrigsgIAwAIA2AIA4AIB&client=firefox-b-d&hl=en&sa=X&ved=0CBoQuIIBahcKEwjw0q77od6OAxUAAAAAHQAAAAAQBg&biw=1920&bih=955&dpr=1#imgrc=r2eJX02C2RmzoM&imgdii=DQN6qCXl2wiIRM
+
+[2025-07-28 00:11:37] (Firefox) Search: Worshipping & Gagging On Mia's Feet xx
+URL: https://www.google.com/search?q=Worshipping%20%26%20Gagging%20On%20Mia%27s%20Feet%20xx&udm=2&tbs=rimg:CQ0Deqgl5dsIYXEcTDbcOrigsgIAwAIA2AIA4AIB&client=firefox-b-d&hl=en&sa=X&ved=0CBoQuIIBahcKEwjw0q77od6OAxUAAAAAHQAAAAAQBg&biw=1920&bih=955&dpr=1#imgrc=DQN6qCXl2wiIRM&imgdii=0b_dBEHBeFM0KM
+
+[2025-07-28 00:12:07] (Firefox) Search: cambro miss mia feet gag
+URL: https://www.google.com/search?q=cambro%20miss%20mia%20feet%20gag&udm=2&tbs=rimg:CWaH4RsamDFMYfSv1ej6_11HfsgIAwAIA2AIA4AIB&client=firefox-b-d&hl=en&sa=X&ved=0CBQQuIIBahcKEwiI__uhot6OAxUAAAAAHQAAAAAQBw&biw=1920&bih=955&dpr=1
+
+[2025-07-28 00:12:51] (Firefox) Search: Gagging On Mia's Feet cambro
+URL: https://www.google.com/search?q=Gagging+On+Mia%27s+Feet+cambro&client=firefox-b-d&sca_esv=c9756f8c3ded8c64&udm=2&biw=1920&bih=955&sxsrf=AE3TifMK8vsnCWBTdwytSoKQl4MVuF7lrA%3A1753661514078&ei=SsCGaNvIBL2-wPAPvdClAQ&ved=0ahUKEwjblemcot6OAxU9HxAIHT1oKQAQ4dUDCBE&uact=5&oq=Gagging+On+Mia%27s+Feet+cambro&gs_lp=EgNpbWciHEdhZ2dpbmcgT24gTWlhJ3MgRmVldCBjYW1icm9InzBQSlioL3ACeACQAQCYAesBoAHBE6oBBjAuMTQuMbgBA8gBAPgBAvgBAZgCAKACAJgDAIgGAZIHAKAHqwWyBwC4BwDCBwDIBwA&sclient=img
+
+[2025-07-28 00:13:30] (Firefox) Search: Gagging On Mia's Feet cambro
+URL: https://www.google.com/search?q=Gagging+On+Mia%27s+Feet+cambro&client=firefox-b-d&sca_esv=c9756f8c3ded8c64&udm=2&biw=1920&bih=955&sxsrf=AE3TifMK8vsnCWBTdwytSoKQl4MVuF7lrA%3A1753661514078&ei=SsCGaNvIBL2-wPAPvdClAQ&ved=0ahUKEwjblemcot6OAxU9HxAIHT1oKQAQ4dUDCBE&uact=5&oq=Gagging+On+Mia%27s+Feet+cambro&gs_lp=EgNpbWciHEdhZ2dpbmcgT24gTWlhJ3MgRmVldCBjYW1icm9InzBQSlioL3ACeACQAQCYAesBoAHBE6oBBjAuMTQuMbgBA8gBAPgBAvgBAZgCAKACAJgDAIgGAZIHAKAHqwWyBwC4BwDCBwDIBwA&sclient=img#vhid=nyDMkEIEvHGsxM&vssid=mosaic
+
+[2025-07-28 00:13:35] (Firefox) Search: Gagging On Mia's Feet cambro
+URL: https://www.google.com/search?q=Gagging%20On%20Mia%27s%20Feet%20cambro&udm=2&tbs=rimg:CZ8gzJBCBLxxYXQSdZUNin_1esgIAwAIA2AIA4AIB&client=firefox-b-d&hl=en&sa=X&ved=0CBgQuIIBahcKEwjQ24HLot6OAxUAAAAAHQAAAAAQBw&biw=1920&bih=955&dpr=1
+
+[2025-07-28 00:14:21] (Firefox) Search: Gagging On Mia's Feet cambro
+URL: https://www.google.com/search?q=Gagging%20On%20Mia%27s%20Feet%20cambro&udm=2&tbs=rimg:CZ8gzJBCBLxxYXQSdZUNin_1esgIAwAIA2AIA4AIB&client=firefox-b-d&hl=en&sa=X&ved=0CBgQuIIBahcKEwjQ24HLot6OAxUAAAAAHQAAAAAQBw&biw=1920&bih=955&dpr=1#vhid=VC6G3SXGaJqerM&vssid=mosaic
+
+[2025-07-28 00:14:30] (Firefox) Search: Gagging On Mia's Feet cambro
+URL: https://www.google.com/search?q=Gagging%20On%20Mia%27s%20Feet%20cambro&hl=en&tbs=rimg:CVQuht0lxmiaYTs9mEGcopq2sgIAwAIA2AIA4AIA&udm=2&client=firefox-b-d&sa=X&ved=0CCYQuIIBahcKEwjgy4Ljot6OAxUAAAAAHQAAAAAQBw&biw=1920&bih=955&dpr=1
+
+[2025-07-28 00:14:50] (Firefox) Search: Gagging On Mia's Feet cambro
+URL: https://www.google.com/search?q=Gagging%20On%20Mia%27s%20Feet%20cambro&hl=en&tbs=rimg:CVQuht0lxmiaYTs9mEGcopq2sgIAwAIA2AIA4AIA&udm=2&client=firefox-b-d&sa=X&ved=0CCYQuIIBahcKEwjgy4Ljot6OAxUAAAAAHQAAAAAQBw&biw=1920&bih=955&dpr=1#vhid=DQN6qCXl2wiIRM&vssid=mosaic
+
+[2025-07-28 00:15:53] (Firefox) Search: Gagging On Mia's Feet cambro
+URL: https://www.google.com/search?q=Gagging%20On%20Mia%27s%20Feet%20cambro&hl=en&tbs=rimg:CQ0Deqgl5dsIYVQuwatdeLz3sgIAwAIA2AIA4AIB&udm=2&client=firefox-b-d&sa=X&ved=0CBoQuIIBahcKEwjI1YHxot6OAxUAAAAAHQAAAAAQBw&biw=1920&bih=955&dpr=1
+
+[2025-07-28 00:15:13] (Firefox) Search: Gagging On Mia's Feet cambro
+URL: https://www.google.com/search?q=Gagging%20On%20Mia%27s%20Feet%20cambro&hl=en&tbs=rimg:CQ0Deqgl5dsIYVQuwatdeLz3sgIAwAIA2AIA4AIB&udm=2&client=firefox-b-d&sa=X&ved=0CBoQuIIBahcKEwjI1YHxot6OAxUAAAAAHQAAAAAQBw&biw=1920&bih=955&dpr=1#vhid=VC6G3SXGaJqerM&vssid=mosaic
+
+[2025-07-28 00:15:39] (Firefox) Search: Gagging On Mia's Feet cambro
+URL: https://www.google.com/search?q=Gagging%20On%20Mia%27s%20Feet%20cambro&hl=en&tbs=rimg:CQ0Deqgl5dsIYVQuwatdeLz3sgIAwAIA2AIA4AIB&udm=2&client=firefox-b-d&sa=X&ved=0CBoQuIIBahcKEwjI1YHxot6OAxUAAAAAHQAAAAAQBw&biw=1920&bih=955&dpr=1#vhid=fs8jqJUFkjtbWM&vssid=mosaic
+
+[2025-07-28 00:15:48] (Firefox) Search: Gagging On Mia's Feet cambro
+URL: https://www.google.com/search?q=Gagging%20On%20Mia%27s%20Feet%20cambro&hl=en&tbs=rimg:CQ0Deqgl5dsIYVQuwatdeLz3sgIAwAIA2AIA4AIB&udm=2&client=firefox-b-d&sa=X&ved=0CBoQuIIBahcKEwjI1YHxot6OAxUAAAAAHQAAAAAQBw&biw=1920&bih=955&dpr=1#imgrc=fs8jqJUFkjtbWM&imgdii=E5P2zBtfvENDQM
+
+[2025-07-28 00:17:54] (Firefox) Search: Mia's Feet xxx gagging
+URL: https://www.google.com/search?q=Mia%27s+Feet+xxx+gagging&client=firefox-b-d&sca_esv=c9756f8c3ded8c64&udm=2&biw=1920&bih=955&sxsrf=AE3TifPcBlzile4hmtT8aE15QdQ2S2JWuw%3A1753661860522&ei=pMGGaL7TH5TFwPAPosSl0QQ&ved=0ahUKEwi-tYLCo96OAxWUIhAIHSJiKUoQ4dUDCBE&uact=5&oq=Mia%27s+Feet+xxx+gagging&gs_lp=EgNpbWciFk1pYSdzIEZlZXQgeHh4IGdhZ2dpbmdIjwpQQli_CXABeACQAQCYAbcBoAHlB6oBAzAuNrgBA8gBAPgBAZgCAKACAJgDAIgGAZIHAKAHjgKyBwC4BwDCBwDIBwA&sclient=img
+
+[2025-07-28 00:18:07] (Firefox) Search: Mia's Feet xxx gagging
+URL: https://www.google.com/search?q=Mia%27s+Feet+xxx+gagging&client=firefox-b-d&sca_esv=c9756f8c3ded8c64&udm=2&biw=1920&bih=955&sxsrf=AE3TifPcBlzile4hmtT8aE15QdQ2S2JWuw%3A1753661860522&ei=pMGGaL7TH5TFwPAPosSl0QQ&ved=0ahUKEwi-tYLCo96OAxWUIhAIHSJiKUoQ4dUDCBE&uact=5&oq=Mia%27s+Feet+xxx+gagging&gs_lp=EgNpbWciFk1pYSdzIEZlZXQgeHh4IGdhZ2dpbmdIjwpQQli_CXABeACQAQCYAbcBoAHlB6oBAzAuNrgBA8gBAPgBAZgCAKACAJgDAIgGAZIHAKAHjgKyBwC4BwDCBwDIBwA&sclient=img#vhid=DQN6qCXl2wiIRM&vssid=mosaic
+
+[2025-07-28 00:18:10] (Firefox) Search: Mia's Feet xxx gagging
+URL: https://www.google.com/search?q=Mia%27s+Feet+xxx+gagging&client=firefox-b-d&sca_esv=c9756f8c3ded8c64&udm=2&biw=1920&bih=955&sxsrf=AE3TifPcBlzile4hmtT8aE15QdQ2S2JWuw%3A1753661860522&ei=pMGGaL7TH5TFwPAPosSl0QQ&ved=0ahUKEwi-tYLCo96OAxWUIhAIHSJiKUoQ4dUDCBE&uact=5&oq=Mia%27s+Feet+xxx+gagging&gs_lp=EgNpbWciFk1pYSdzIEZlZXQgeHh4IGdhZ2dpbmdIjwpQQli_CXABeACQAQCYAbcBoAHlB6oBAzAuNrgBA8gBAPgBAZgCAKACAJgDAIgGAZIHAKAHjgKyBwC4BwDCBwDIBwA&sclient=img#imgrc=DQN6qCXl2wiIRM&imgdii=0b_dBEHBeFM0KM
+
+[2025-07-28 00:18:14] (Firefox) Search: Mia's Feet xxx gagging
+URL: https://www.google.com/search?q=Mia%27s+Feet+xxx+gagging&client=firefox-b-d&sca_esv=c9756f8c3ded8c64&udm=2&biw=1920&bih=955&sxsrf=AE3TifPcBlzile4hmtT8aE15QdQ2S2JWuw%3A1753661860522&ei=pMGGaL7TH5TFwPAPosSl0QQ&ved=0ahUKEwi-tYLCo96OAxWUIhAIHSJiKUoQ4dUDCBE&uact=5&oq=Mia%27s+Feet+xxx+gagging&gs_lp=EgNpbWciFk1pYSdzIEZlZXQgeHh4IGdhZ2dpbmdIjwpQQli_CXABeACQAQCYAbcBoAHlB6oBAzAuNrgBA8gBAPgBAZgCAKACAJgDAIgGAZIHAKAHjgKyBwC4BwDCBwDIBwA&sclient=img#imgrc=0b_dBEHBeFM0KM&imgdii=ifkoRY2YDvwj2M
+
+[2025-07-28 00:18:19] (Firefox) Search: Mia's Feet xxx gagging
+URL: https://www.google.com/search?q=Mia%27s%20Feet%20xxx%20gagging&udm=2&tbs=rimg:CYn5KEWNmA78YSJo9WnZJeiesgIAwAIA2AIA4AIB&client=firefox-b-d&hl=en&sa=X&ved=0CBgQuIIBahcKEwioquXOo96OAxUAAAAAHQAAAAAQHg&biw=1920&bih=955&dpr=1
+
+[2025-07-28 00:23:16] (Firefox) Search: Mia's Feet xxx gagging
+URL: https://www.google.com/search?q=Mia%27s%20Feet%20xxx%20gagging&udm=2&tbs=rimg:CYn5KEWNmA78YSJo9WnZJeiesgIAwAIA2AIA4AIB&client=firefox-b-d&hl=en&sa=X&ved=0CBgQuIIBahcKEwioquXOo96OAxUAAAAAHQAAAAAQHg&biw=1920&bih=955&dpr=1#vhid=xgPYwFmI5jagfM&vssid=mosaic
+
+[2025-08-02 00:13:27] (Firefox) Search: long video of lesbian sweaty feet xxx
+URL: https://www.google.com/search?q=long+video+of+lesbian+sweaty+feet+xxx&client=firefox-b-d&sca_esv=2f12b1eb9104a50d&sxsrf=AE3TifOHvJfCZpXe20HN2A75jkQtwyI9iw%3A1754093605034&ei=JViNaK7lAaOExc8Pt8u6-Qw&ved=0ahUKEwjui-zx6-qOAxUjQvEDHbelLs8Q4dUDCBA&uact=5&oq=long+video+of+lesbian+sweaty+feet+xxx&gs_lp=Egxnd3Mtd2l6LXNlcnAiJWxvbmcgdmlkZW8gb2YgbGVzYmlhbiBzd2VhdHkgZmVldCB4eHhIvAVQOVjgBHAAeACQAQCYAYADoAHLBaoBAzMtMrgBA8gBAPgBAZgCAKACAJgDAIgGAZIHAKAHd7IHALgHAMIHAMgHAA&sclient=gws-wiz-serp
+
+[2025-08-02 00:14:18] (Firefox) Search: long video of lesbian sweaty feet xxx eporner
+URL: https://www.google.com/search?q=long+video+of+lesbian+sweaty+feet+xxx+eporner&client=firefox-b-d&sca_esv=2f12b1eb9104a50d&udm=2&biw=1920&bih=955&sxsrf=AE3TifMsytwc-PJLOOS6CnMMO34DAY3n0A%3A1754093609104&ei=KViNaPSPBsqrxc8PyeuS0Ak&ved=0ahUKEwi0yOTz6-qOAxXKVfEDHcm1BJoQ4dUDCBE&uact=5&oq=long+video+of+lesbian+sweaty+feet+xxx+eporner&gs_lp=EgNpbWciLWxvbmcgdmlkZW8gb2YgbGVzYmlhbiBzd2VhdHkgZmVldCB4eHggZXBvcm5lckitClCwAlj2CXABeACQAQCYAboBoAHdCaoBAzAuN7gBA8gBAPgBAZgCAKACAJgDAIgGAZIHAKAHVLIHALgHAMIHAMgHAA&sclient=img
+
+[2025-08-02 00:14:30] (Firefox) Search: slutty feet eporner
+URL: https://www.google.com/search?q=slutty+feet+eporner&client=firefox-b-d&sca_esv=2f12b1eb9104a50d&udm=2&biw=1920&bih=955&sxsrf=AE3TifPxvdVU7EGQdeEWqhKRcpxA-tlXug%3A1754093658475&ei=WliNaL_hHP6rxc8P6K2ksQ8&ved=0ahUKEwi_9qmL7OqOAxX-VfEDHegWKfYQ4dUDCBE&uact=5&oq=slutty+feet+eporner&gs_lp=EgNpbWciE3NsdXR0eSBmZWV0IGVwb3JuZXJI1ihQ1wVY9ydwA3gAkAEAmAHKAaAB4hmqAQYwLjE4LjG4AQPIAQD4AQGYAgqgAroLqAIEwgIKECMYyQIY6gIYJ8ICChAAGIAEGIoFGEPCAgUQABiABMICBxAAGIAEGAqYAwaIBgGSBwUyLjcuMaAH3hqyBwUwLjcuMbgHrgvCBwcwLjEuNy4yyAc2&sclient=img
+
+[2025-08-02 00:14:46] (Firefox) Search: sloppy feet gagging eporner
+URL: https://www.google.com/search?q=sloppy+feet+gagging+eporner&client=firefox-b-d&sca_esv=2f12b1eb9104a50d&udm=2&biw=1920&bih=955&sxsrf=AE3TifPshDkkOxT5tYLn-rWL0h9GlyhN2g%3A1754093670694&ei=ZliNaPCSKurOxc8Pq6CisAo&ved=0ahUKEwjw3ZOR7OqOAxVqZ_EDHSuQCKYQ4dUDCBE&uact=5&oq=sloppy+feet+gagging+eporner&gs_lp=EgNpbWciG3Nsb3BweSBmZWV0IGdhZ2dpbmcgZXBvcm5lckifI1DwA1jYInACeACQAQCYAcgBoAH2IqoBBjAuMjUuMbgBA8gBAPgBAZgCC6AChw6oAgTCAgoQIxjJAhjqAhgnwgIFEAAYgATCAgoQABiABBiKBRhDwgIHEAAYgAQYCsICBBAAGB7CAgYQABgeGArCAgYQABgFGB7CAgYQABgIGB6YAwWIBgGSBwQxLjEwoAeBLrIHBDAuMTC4B4IOwgcGMi0xMC4xyAc8&sclient=img
+
+[2025-08-02 00:15:14] (Firefox) Search: eporner
+URL: https://www.google.com/search?q=eporner&client=firefox-b-d&sca_esv=2f12b1eb9104a50d&udm=2&biw=1920&bih=955&sxsrf=AE3TifPBWEvbgsWmtM58NIrK5PS3dHvaog%3A1754093686324&ei=dliNaMfPE9Gqxc8P_uPX8Qs&ved=0ahUKEwjH4s2Y7OqOAxVRVfEDHf7xNb4Q4dUDCBE&uact=5&oq=eporner&gs_lp=EgNpbWciB2Vwb3JuZXJI5xRQ0QZYxxNwA3gAkAEAmAHAAaAB1QiqAQMwLja4AQPIAQD4AQGYAgSgAvEFwgIFEAAYgATCAgoQABiABBiKBRhDmAMAiAYBkgcDMC40oAeHELIHAzAuNLgH8QXCBwUyLTMuMcgHGQ&sclient=img
+
+[2025-08-04 01:43:25] (Firefox) Search: feet worship
+URL: https://www.google.com/search?q=feet+worship&client=firefox-b-d&sca_esv=9576322275790996&udm=2&biw=1920&bih=955&sxsrf=AE3TifO-0QNeDmExS5DUcI6a2gx5X9RKDQ%3A1754271788786&ei=LBCQaOnkL7WI9u8Ps7uBoAM&ved=0ahUKEwjpqr3Wg_COAxU1hP0HHbNdADQQ4dUDCBE&uact=5&oq=feet+worship&gs_lp=EgNpbWciDGZlZXQgd29yc2hpcDIHEAAYgAQYCjIFEAAYgAQyBRAAGIAEMgcQABiABBgKSM8YUMkIWN8XcAN4AJABAJgB1AGgAdsQqgEFMC44LjO4AQPIAQD4AQGYAgugAp4RwgIKEAAYgAQYigUYQ5gDAIgGAZIHBTAuNC43oAebKrIHBTAuNC43uAeeEcIHBzAuMS44LjLIBzo&sclient=img
+
+[2025-08-04 01:50:50] (Firefox) Search: feet worship hard chok
+URL: https://www.google.com/search?q=feet+worship+hard+chok&client=firefox-b-d&sca_esv=9576322275790996&udm=2&biw=1920&bih=955&sxsrf=AE3TifODZ5G7ONQFLK3SsTOOajwwC9wTqA%3A1754271806448&ei=PhCQaJWUG-eI9u8PpvqtiA0&ved=0ahUKEwiVq_Peg_COAxVnhP0HHSZ9C9EQ4dUDCBE&uact=5&oq=feet+worship+hard+chok&gs_lp=EgNpbWciFmZlZXQgd29yc2hpcCBoYXJkIGNob2tI5B9Q5QZYzR5wAngAkAEAmAHkAaAB6Q6qAQUwLjkuMbgBA8gBAPgBAZgCAqAC8QHCAgYQABgHGB7CAgcQABiABBgKwgIFEAAYgASYAwCIBgGSBwUxLjAuMaAH_wOyBwMyLTG4B-gBwgcDMi0yyAcJ&sclient=img
+
+[2025-08-04 01:44:05] (Firefox) Search: feet worship hard chok
+URL: https://www.google.com/search?q=feet+worship+hard+chok&client=firefox-b-d&sca_esv=9576322275790996&udm=2&biw=1920&bih=955&sxsrf=AE3TifODZ5G7ONQFLK3SsTOOajwwC9wTqA%3A1754271806448&ei=PhCQaJWUG-eI9u8PpvqtiA0&ved=0ahUKEwiVq_Peg_COAxVnhP0HHSZ9C9EQ4dUDCBE&uact=5&oq=feet+worship+hard+chok&gs_lp=EgNpbWciFmZlZXQgd29yc2hpcCBoYXJkIGNob2tI5B9Q5QZYzR5wAngAkAEAmAHkAaAB6Q6qAQUwLjkuMbgBA8gBAPgBAZgCAqAC8QHCAgYQABgHGB7CAgcQABiABBgKwgIFEAAYgASYAwCIBgGSBwUxLjAuMaAH_wOyBwMyLTG4B-gBwgcDMi0yyAcJ&sclient=img#vhid=--LvzPIWmwh8MM&vssid=mosaic
+
+[2025-08-04 01:44:25] (Firefox) Search: feet worship hard chok
+URL: https://www.google.com/search?q=feet+worship+hard+chok&client=firefox-b-d&sca_esv=9576322275790996&udm=2&biw=1920&bih=955&sxsrf=AE3TifODZ5G7ONQFLK3SsTOOajwwC9wTqA%3A1754271806448&ei=PhCQaJWUG-eI9u8PpvqtiA0&ved=0ahUKEwiVq_Peg_COAxVnhP0HHSZ9C9EQ4dUDCBE&uact=5&oq=feet+worship+hard+chok&gs_lp=EgNpbWciFmZlZXQgd29yc2hpcCBoYXJkIGNob2tI5B9Q5QZYzR5wAngAkAEAmAHkAaAB6Q6qAQUwLjkuMbgBA8gBAPgBAZgCAqAC8QHCAgYQABgHGB7CAgcQABiABBgKwgIFEAAYgASYAwCIBgGSBwUxLjAuMaAH_wOyBwMyLTG4B-gBwgcDMi0yyAcJ&sclient=img#vhid=A82ZhgrFtHsl9M&vssid=mosaic
+
+[2025-08-04 01:50:47] (Firefox) Search: feet worship hard chok
+URL: https://www.google.com/search?q=feet+worship+hard+chok&client=firefox-b-d&sca_esv=9576322275790996&udm=2&biw=1920&bih=955&sxsrf=AE3TifODZ5G7ONQFLK3SsTOOajwwC9wTqA%3A1754271806448&ei=PhCQaJWUG-eI9u8PpvqtiA0&ved=0ahUKEwiVq_Peg_COAxVnhP0HHSZ9C9EQ4dUDCBE&uact=5&oq=feet+worship+hard+chok&gs_lp=EgNpbWciFmZlZXQgd29yc2hpcCBoYXJkIGNob2tI5B9Q5QZYzR5wAngAkAEAmAHkAaAB6Q6qAQUwLjkuMbgBA8gBAPgBAZgCAqAC8QHCAgYQABgHGB7CAgcQABiABBgKwgIFEAAYgASYAwCIBgGSBwUxLjAuMaAH_wOyBwMyLTG4B-gBwgcDMi0yyAcJ&sclient=img#vhid=boI92KsC0bMo6M&vssid=mosaic
+
+[2025-08-04 02:37:58] (Firefox) Search: did you just shave your armpit ? licking xxx
+URL: https://www.google.com/search?q=did%20you%20just%20shave%20your%20armpit%20%3F%20licking%20xxx&udm=2&tbs=rimg:CStJslXjoNcBYRfwnE1GinCxsgIAwAIA2AIA4AIB&client=firefox-b-d&hl=en&sa=X&ved=0CBQQuIIBahcKEwjQ9orZj_COAxUAAAAAHQAAAAAQBw&biw=1869&bih=955&dpr=1
+
+[2025-08-04 02:38:50] (Firefox) Search: did you just shave your armpit ? licking xxx
+URL: https://www.google.com/search?q=did%20you%20just%20shave%20your%20armpit%20%3F%20licking%20xxx&udm=2&tbs=rimg:CStJslXjoNcBYRfwnE1GinCxsgIAwAIA2AIA4AIB&client=firefox-b-d&hl=en&sa=X&ved=0CBQQuIIBahcKEwjQ9orZj_COAxUAAAAAHQAAAAAQBw&biw=1869&bih=955&dpr=1#vhid=uVw_-KHAd4BR5M&vssid=mosaic
+
+[2025-08-04 02:38:57] (Firefox) Search: did you just shave your armpit ? licking xxx
+URL: https://www.google.com/search?q=did%20you%20just%20shave%20your%20armpit%20%3F%20licking%20xxx&udm=2&tbs=rimg:CStJslXjoNcBYRfwnE1GinCxsgIAwAIA2AIA4AIB&client=firefox-b-d&hl=en&sa=X&ved=0CBQQuIIBahcKEwjQ9orZj_COAxUAAAAAHQAAAAAQBw&biw=1869&bih=955&dpr=1#imgrc=uVw_-KHAd4BR5M&imgdii=AJneRE51ExaCvM
+
+[2025-08-04 02:39:08] (Firefox) Search: did you just shave your armpit ? licking xxx
+URL: https://www.google.com/search?q=did%20you%20just%20shave%20your%20armpit%20%3F%20licking%20xxx&udm=2&tbs=rimg:CStJslXjoNcBYRfwnE1GinCxsgIAwAIA2AIA4AIB&client=firefox-b-d&hl=en&sa=X&ved=0CBQQuIIBahcKEwjQ9orZj_COAxUAAAAAHQAAAAAQBw&biw=1869&bih=955&dpr=1#imgrc=AJneRE51ExaCvM&imgdii=k4qUhN0n7l01dM
+
+[2025-08-04 02:39:57] (Firefox) Search: did you just shave your armpit ? licking xxx
+URL: https://www.google.com/search?q=did%20you%20just%20shave%20your%20armpit%20%3F%20licking%20xxx&udm=2&tbs=rimg:CStJslXjoNcBYRfwnE1GinCxsgIAwAIA2AIA4AIB&client=firefox-b-d&hl=en&sa=X&ved=0CBQQuIIBahcKEwjQ9orZj_COAxUAAAAAHQAAAAAQBw&biw=1869&bih=955&dpr=1#imgrc=AJneRE51ExaCvM&imgdii=QBVYYpVZw6lPhM
+
+[2025-08-04 02:40:05] (Firefox) Search: did you just shave your armpit ? licking xxx
+URL: https://www.google.com/search?q=did%20you%20just%20shave%20your%20armpit%20%3F%20licking%20xxx&udm=2&tbs=rimg:CStJslXjoNcBYRfwnE1GinCxsgIAwAIA2AIA4AIB&client=firefox-b-d&hl=en&sa=X&ved=0CBQQuIIBahcKEwjQ9orZj_COAxUAAAAAHQAAAAAQBw&biw=1869&bih=955&dpr=1#imgrc=QBVYYpVZw6lPhM&imgdii=714r9ZLRKn59BM
+
+[2025-08-04 02:41:01] (Firefox) Search: did you just shave your armpit ? licking xxx
+URL: https://www.google.com/search?q=did%20you%20just%20shave%20your%20armpit%20%3F%20licking%20xxx&udm=2&tbs=rimg:CStJslXjoNcBYRfwnE1GinCxsgIAwAIA2AIA4AIB&client=firefox-b-d&hl=en&sa=X&ved=0CBQQuIIBahcKEwjQ9orZj_COAxUAAAAAHQAAAAAQBw&biw=1869&bih=955&dpr=1#vhid=vRSW4isLuI-5cM&vssid=mosaic
+
+[2025-08-04 02:41:10] (Firefox) Search: did you just shave your armpit ? licking xxx
+URL: https://www.google.com/search?q=did%20you%20just%20shave%20your%20armpit%20%3F%20licking%20xxx&hl=en&tbs=rimg:Cb0UluIrC7iPYZkn6gXzUvN9sgIAwAIA2AIA4AIB&udm=2&client=firefox-b-d&sa=X&ved=0CBIQuIIBahcKEwjo6o2QkPCOAxUAAAAAHQAAAAAQTQ&biw=1869&bih=955&dpr=1
+
+[2025-08-04 02:41:53] (Firefox) Search: did you just shave your armpit ? licking xxx
+URL: https://www.google.com/search?q=did%20you%20just%20shave%20your%20armpit%20%3F%20licking%20xxx&hl=en&tbs=rimg:Cb0UluIrC7iPYZkn6gXzUvN9sgIAwAIA2AIA4AIB&udm=2&client=firefox-b-d&sa=X&ved=0CBIQuIIBahcKEwjo6o2QkPCOAxUAAAAAHQAAAAAQTQ&biw=1869&bih=955&dpr=1#vhid=aiE0yiNi1UqpwM&vssid=mosaic
+
+[2025-08-04 02:49:08] (Firefox) Search: did you just shave your armpit ? licking xxx lesbian
+URL: https://www.google.com/search?q=did+you+just+shave+your+armpit+%3F+licking+xxx+lesbian&client=firefox-b-d&sca_esv=296ee4e81733ebef&udm=2&sxsrf=AE3TifNu9XMGlcY6gWXVqpcTyvQSD6W5gg%3A1754275383092&ei=Nx6QaKW1BbWBi-gP4rnwmQw&ved=0ahUKEwjlrLCIkfCOAxW1wAIHHeIcPMMQ4dUDCBE&uact=5&oq=did+you+just+shave+your+armpit+%3F+licking+xxx+lesbian&gs_lp=EgNpbWciNGRpZCB5b3UganVzdCBzaGF2ZSB5b3VyIGFybXBpdCA_IGxpY2tpbmcgeHh4IGxlc2JpYW5IhhNQyQRY8Q9wAHgAkAEAmAGLBKAB0Q6qAQkwLjcuMS41LTG4AQPIAQD4AQGYAgCgAgCYAwCIBgGSBwCgB2yyBwC4BwDCBwDIBwA&sclient=img
+
+[2025-08-04 02:49:14] (Firefox) Search: did you just shave your armpit ? licking xxx lesbian
+URL: https://www.google.com/search?q=did+you+just+shave+your+armpit+%3F+licking+xxx+lesbian&client=firefox-b-d&sca_esv=296ee4e81733ebef&udm=2&sxsrf=AE3TifNu9XMGlcY6gWXVqpcTyvQSD6W5gg%3A1754275383092&ei=Nx6QaKW1BbWBi-gP4rnwmQw&ved=0ahUKEwjlrLCIkfCOAxW1wAIHHeIcPMMQ4dUDCBE&uact=5&oq=did+you+just+shave+your+armpit+%3F+licking+xxx+lesbian&gs_lp=EgNpbWciNGRpZCB5b3UganVzdCBzaGF2ZSB5b3VyIGFybXBpdCA_IGxpY2tpbmcgeHh4IGxlc2JpYW5IhhNQyQRY8Q9wAHgAkAEAmAGLBKAB0Q6qAQkwLjcuMS41LTG4AQPIAQD4AQGYAgCgAgCYAwCIBgGSBwCgB2yyBwC4BwDCBwDIBwA&sclient=img#vhid=K0myVeOg1wGsvM&vssid=mosaic
+
+[2025-08-04 02:43:43] (Firefox) Search: imposedarmpit licking kim xxx
+URL: https://www.google.com/search?q=imposedarmpit+licking+kim+xxx&client=firefox-b-d&sca_esv=296ee4e81733ebef&sxsrf=AE3TifPMqgmcf84Hyq7PliknDzRmDOqUdg%3A1754275422430&ei=Xh6QaLWIGs_ii-gPrO2GwQw&ved=0ahUKEwi1r5GbkfCOAxVP8QIHHay2IcgQ4dUDCBA&uact=5&oq=imposedarmpit+licking+kim+xxx&gs_lp=Egxnd3Mtd2l6LXNlcnAiHWltcG9zZWRhcm1waXQgbGlja2luZyBraW0geHh4SLQFUA5Y8gNwAHgAkAEAmAHKAqABwgWqAQcwLjIuMC4xuAEDyAEA-AEBmAIAoAIAmAMA4gMFEgExIECIBgGSBwCgB_kDsgcAuAcAwgcAyAcA&sclient=gws-wiz-serp
+
+[2025-08-04 02:46:02] (Firefox) Search: imposed armpit licking kim xxx
+URL: https://www.google.com/search?q=imposed%20armpit%20licking%20kim%20xxx&udm=2&tbs=rimg:CeB5lJBiG9TWYVJFWNWnZOl9sgIAwAIA2AIA4AIB&client=firefox-b-d&hl=en&sa=X&ved=0CBIQuIIBahcKEwiY3cnakfCOAxUAAAAAHQAAAAAQBw&biw=1869&bih=955&dpr=1
+
+[2025-08-04 02:46:27] (Firefox) Search: imposed armpit licking kim xxx
+URL: https://www.google.com/search?q=imposed%20armpit%20licking%20kim%20xxx&udm=2&tbs=rimg:CeB5lJBiG9TWYVJFWNWnZOl9sgIAwAIA2AIA4AIB&client=firefox-b-d&hl=en&sa=X&ved=0CBIQuIIBahcKEwiY3cnakfCOAxUAAAAAHQAAAAAQBw&biw=1869&bih=955&dpr=1#vhid=oBZZ8N0c3u77FM&vssid=mosaic
+
+[2025-08-04 02:46:32] (Firefox) Search: imposed armpit licking kim xxx
+URL: https://www.google.com/search?q=imposed%20armpit%20licking%20kim%20xxx&udm=2&tbs=rimg:CeB5lJBiG9TWYVJFWNWnZOl9sgIAwAIA2AIA4AIB&client=firefox-b-d&hl=en&sa=X&ved=0CBIQuIIBahcKEwiY3cnakfCOAxUAAAAAHQAAAAAQBw&biw=1869&bih=955&dpr=1#imgrc=oBZZ8N0c3u77FM&imgdii=0ahghl3u8Q0czM
+
+[2025-08-04 02:46:37] (Firefox) Search: imposed armpit licking kim xxx
+URL: https://www.google.com/search?q=imposed%20armpit%20licking%20kim%20xxx&hl=en&tbs=rimg:CdGoYIZd7vENYS1O7jocKXAbsgIAwAIA2AIA4AIB&udm=2&client=firefox-b-d&sa=X&ved=0CBQQuIIBahcKEwio39_pkfCOAxUAAAAAHQAAAAAQEw&biw=1869&bih=955&dpr=1
+
+[2025-08-04 02:46:58] (Firefox) Search: imposed armpit licking kim xxx
+URL: https://www.google.com/search?q=imposed%20armpit%20licking%20kim%20xxx&hl=en&tbs=rimg:CdGoYIZd7vENYS1O7jocKXAbsgIAwAIA2AIA4AIB&udm=2&client=firefox-b-d&sa=X&ved=0CBQQuIIBahcKEwio39_pkfCOAxUAAAAAHQAAAAAQEw&biw=1869&bih=955&dpr=1#vhid=QPUM89uY8tZkSM&vssid=mosaic
+
+[2025-08-04 02:47:08] (Firefox) Search: imposed armpit licking kim xxx
+URL: https://www.google.com/search?q=imposed%20armpit%20licking%20kim%20xxx&hl=en&tbs=rimg:CdGoYIZd7vENYS1O7jocKXAbsgIAwAIA2AIA4AIB&udm=2&client=firefox-b-d&sa=X&ved=0CBQQuIIBahcKEwio39_pkfCOAxUAAAAAHQAAAAAQEw&biw=1869&bih=955&dpr=1#imgrc=QPUM89uY8tZkSM&imgdii=4HmUkGIb1NbDJM
+
+[2025-08-04 02:47:27] (Firefox) Search: imposed armpit licking kim xxx
+URL: https://www.google.com/search?q=imposed%20armpit%20licking%20kim%20xxx&hl=en&tbs=rimg:CeB5lJBiG9TWYVJFWNWnZOl9sgIAwAIA2AIA4AIB&udm=2&client=firefox-b-d&sa=X&ved=0CBIQuIIBahcKEwiIgPH4kfCOAxUAAAAAHQAAAAAQEw&biw=1869&bih=955&dpr=1
+
+[2025-08-04 02:53:01] (Firefox) Search: imposed armpit licking strapon fuck lesbian
+URL: https://www.google.com/search?q=imposed%20armpit%20licking%20strapon%20fuck%20lesbian&udm=2&tbs=rimg:Cb52wJ4k7E6wYUUHP1fHa0BFsgIAwAIA2AIA4AIB&client=firefox-b-d&hl=en&sa=X&ved=0CBIQuIIBahcKEwiAiIGjk_COAxUAAAAAHQAAAAAQBw&biw=1869&bih=955&dpr=1
+
+[2025-08-04 02:58:34] (Firefox) Search: imposed armpit licking strapon fuck lesbian
+URL: https://www.google.com/search?q=imposed%20armpit%20licking%20strapon%20fuck%20lesbian&udm=2&tbs=rimg:Cb52wJ4k7E6wYUUHP1fHa0BFsgIAwAIA2AIA4AIB&client=firefox-b-d&hl=en&sa=X&ved=0CBIQuIIBahcKEwiAiIGjk_COAxUAAAAAHQAAAAAQBw&biw=1869&bih=955&dpr=1#vhid=aiE0yiNi1UqpwM&vssid=mosaic
+
+[2025-08-04 03:00:23] (Firefox) Search: imposed armpit licking strapon fuck lesbian
+URL: https://www.google.com/search?q=imposed%20armpit%20licking%20strapon%20fuck%20lesbian&udm=2&tbs=rimg:Cb52wJ4k7E6wYUUHP1fHa0BFsgIAwAIA2AIA4AIB&client=firefox-b-d&hl=en&sa=X&ved=0CBIQuIIBahcKEwiAiIGjk_COAxUAAAAAHQAAAAAQBw&biw=1869&bih=955&dpr=1#imgrc=aiE0yiNi1UqpwM&imgdii=1Y_yzzXZThRdjM
+
+[2025-08-04 03:00:52] (Firefox) Search: imposed armpit licking strapon fuck lesbian
+URL: https://www.google.com/search?q=imposed%20armpit%20licking%20strapon%20fuck%20lesbian&udm=2&tbs=rimg:Cb52wJ4k7E6wYUUHP1fHa0BFsgIAwAIA2AIA4AIB&client=firefox-b-d&hl=en&sa=X&ved=0CBIQuIIBahcKEwiAiIGjk_COAxUAAAAAHQAAAAAQBw&biw=1869&bih=955&dpr=1#imgrc=1Y_yzzXZThRdjM&imgdii=lVJW88LYAiMCWM
+
+[2025-08-04 03:01:00] (Firefox) Search: imposed armpit licking strapon fuck lesbian
+URL: https://www.google.com/search?q=imposed%20armpit%20licking%20strapon%20fuck%20lesbian&udm=2&tbs=rimg:Cb52wJ4k7E6wYUUHP1fHa0BFsgIAwAIA2AIA4AIB&client=firefox-b-d&hl=en&sa=X&ved=0CBIQuIIBahcKEwiAiIGjk_COAxUAAAAAHQAAAAAQBw&biw=1869&bih=955&dpr=1#imgrc=lVJW88LYAiMCWM&imgdii=aiE0yiNi1UqpwM
+
+[2025-08-04 03:01:15] (Firefox) Search: imposed armpit licking strapon cambro
+URL: https://www.google.com/search?q=imposed+armpit+licking+strapon+cambro&client=firefox-b-d&sca_esv=296ee4e81733ebef&udm=2&hl=en&biw=1869&bih=955&sxsrf=AE3TifNWORFw7smXLF6TDilcXXfyFiyCfQ%3A1754275982409&ei=jiCQaJ_hGLaDhbIP4ffjuQw&ved=0ahUKEwif4JOmk_COAxW2QUEAHeH7OMcQ4dUDCBE&uact=5&oq=imposed+armpit+licking+strapon+cambro&gs_lp=EgNpbWciJWltcG9zZWQgYXJtcGl0IGxpY2tpbmcgc3RyYXBvbiBjYW1icm9ImUJQ7TtYgEFwBXgAkAEAmAHHAaABvwaqAQMwLjW4AQPIAQD4AQGYAgCgAgCYAwCIBgGSBwCgBzyyBwC4BwDCBwDIBwA&sclient=img
+
+[2025-08-04 03:01:28] (Firefox) Search: imposed armpit licking strapon cambro
+URL: https://www.google.com/search?q=imposed+armpit+licking+strapon+cambro&client=firefox-b-d&sca_esv=296ee4e81733ebef&udm=2&hl=en&biw=1869&bih=955&sxsrf=AE3TifNWORFw7smXLF6TDilcXXfyFiyCfQ%3A1754275982409&ei=jiCQaJ_hGLaDhbIP4ffjuQw&ved=0ahUKEwif4JOmk_COAxW2QUEAHeH7OMcQ4dUDCBE&uact=5&oq=imposed+armpit+licking+strapon+cambro&gs_lp=EgNpbWciJWltcG9zZWQgYXJtcGl0IGxpY2tpbmcgc3RyYXBvbiBjYW1icm9ImUJQ7TtYgEFwBXgAkAEAmAHHAaABvwaqAQMwLjW4AQPIAQD4AQGYAgCgAgCYAwCIBgGSBwCgBzyyBwC4BwDCBwDIBwA&sclient=img#vhid=_aTcSM7Gay2FBM&vssid=mosaic
+
+[2025-08-04 03:01:32] (Firefox) Search: imposed armpit licking strapon cambro
+URL: https://www.google.com/search?q=imposed%20armpit%20licking%20strapon%20cambro&hl=en&udm=2&tbs=rimg:Cf2k3EjOxmstYUjPH2L8lgGvsgIAwAIA2AIA4AIB&client=firefox-b-d&sa=X&ved=0CBIQuIIBahcKEwi40ayXlfCOAxUAAAAAHQAAAAAQBw&biw=1869&bih=955&dpr=1
+
+[2025-08-04 03:01:46] (Firefox) Search: imposed armpit licking strapon cambro
+URL: https://www.google.com/search?q=imposed%20armpit%20licking%20strapon%20cambro&hl=en&udm=2&tbs=rimg:Cf2k3EjOxmstYUjPH2L8lgGvsgIAwAIA2AIA4AIB&client=firefox-b-d&sa=X&ved=0CBIQuIIBahcKEwi40ayXlfCOAxUAAAAAHQAAAAAQBw&biw=1869&bih=955&dpr=1#vhid=EBwu2laEiLfh9M&vssid=mosaic
+
+[2025-08-04 03:01:54] (Firefox) Search: imposed armpit licking strapon cambro
+URL: https://www.google.com/search?q=imposed%20armpit%20licking%20strapon%20cambro&hl=en&tbs=rimg:CRAcLtpWhIi3YQ4XCniO1oGMsgIAwAIA2AIA4AIB&udm=2&client=firefox-b-d&sa=X&ved=0CBQQuIIBahcKEwjYqf-flfCOAxUAAAAAHQAAAAAQBw&biw=1869&bih=955&dpr=1
+
+[2025-08-08 02:00:50] (Firefox) Search: mom sutck xxx
+URL: https://www.google.com/search?q=mom+sutck+xxx&client=firefox-b-d&sca_esv=8011337b228d5ddd&udm=2&biw=1869&bih=955&sxsrf=AE3TifP-Xs83InrB6YwMCqss_E_1-LiXIA%3A1754618408821&ei=KFqVaPbwMZ6Qxc8Pha3gmQo&ved=0ahUKEwj2pOX3jvqOAxUeSPEDHYUWOKMQ4dUDCBE&uact=5&oq=mom+sutck+xxx&gs_lp=EgNpbWciDW1vbSBzdXRjayB4eHhI_xFQygVYvxFwA3gAkAEAmAHGAaAB_RCqAQQwLjEyuAEDyAEA-AEBmAIIoALuC8ICBxAjGMkCGCfCAgoQABiABBiKBRhDwgIFEAAYgATCAgcQABiABBgKmAMAiAYBkgcFMC43LjGgB90psgcFMC43LjG4B-4LwgcFMi01LjPIBzo&sclient=img
+

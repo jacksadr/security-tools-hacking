@@ -1,0 +1,120 @@
+
+
+Command: dir
+Output:
+None
+
+--------------------------------------------------
+
+
+
+Command: tasklist
+Output:
+None
+
+--------------------------------------------------
+
+
+
+Command: net user
+Output:
+None
+
+--------------------------------------------------
+
+
+
+Command: netstat /a
+Output:
+None
+
+--------------------------------------------------
+
+
+
+Command: ipconfig/all
+Output:
+None
+
+--------------------------------------------------
+
+
+
+Command: systeminfo
+Output:
+None
+
+--------------------------------------------------
+
+
+
+Command: arp -a
+Output:
+None
+
+--------------------------------------------------
+
+
+
+Command: route print
+Output:
+None
+
+--------------------------------------------------
+
+
+
+Command: driverquery
+Output:
+None
+
+--------------------------------------------------
+
+
+
+Command: sc query state= all
+Output:
+None
+
+--------------------------------------------------
+
+
+
+Command: net share
+Output:
+None
+
+--------------------------------------------------
+
+
+
+Command: schtasks /query /fo LIST /v
+Output:
+None
+
+--------------------------------------------------
+
+
+
+Command: wmic cpu get name,numberofcores,currentclockspeed
+Output:
+None
+
+--------------------------------------------------
+
+
+
+Command: wmic os get caption,version,osarchitecture,serialnumber
+Output:
+None
+
+--------------------------------------------------
+
+
+
+Command: qwinsta
+Output:
+None
+
+--------------------------------------------------
+
