@@ -6,23 +6,21 @@ A powerful, modular Windows penetration testing framework with high coding scala
 
 ## 🚀 Features
 
-- Modular architecture for flexible testing
-Each component (system information collection, browser history extraction, geolocation, screenshots, webcam capture, and key logging) is designed as a separate module, allowing independent execution and testing.
+- System Information Collection – Gather CPU, OS, network, and user details.
 
-- Reconnaissance, exploitation, and post-exploitation modules
-The tool provides reconnaissance features such as gathering system details, network info, and user activity data, enabling in-depth analysis in a controlled and ethical environment.
+- Geolocation Lookup – Detect public IP and location info.
 
-- High scalability for custom scripts and integrations
-Designed to be easily extended, you can add custom scripts or integrate additional modules for monitoring, automation, or educational security testing.
+- Browser History Extraction – Retrieve searches from Chrome, Edge, and Firefox.
 
-- Designed specifically for Windows penetration testing
-All modules are optimized for Windows environments, including support for native commands, registry queries, and browser-specific data extraction.
+- Screenshots & Webcam Capture – Take screen captures and optional webcam photos.
 
-- Ideal for red team operations and ethical hacking
-Provides a safe framework to practice penetration testing, simulate attacks, or analyze system security in controlled labs.
+- Key Logging (Optional) – Monitor keyboard input for testing purposes.
 
-- Security automation tools for faster workflow
-Automates repetitive tasks like screenshot capture, logging, and browser history collection, streamlining security assessment workflows.
+- VM Detection – Check if running inside a virtual machine.
+
+- Modular & Extensible – Each functionality is separate for easy testing and integration.
+
+
 
 ---
 
@@ -46,9 +44,7 @@ pip install -r requirements.txt
 
 Run the main script:
 
-```bash
 python main.py
-
 
 Follow the prompts to select modules and configure options. You can add custom modules to extend functionality.
 
